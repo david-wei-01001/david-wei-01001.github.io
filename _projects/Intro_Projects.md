@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Introductoryt Projects
+title: Introductory Projects
 description: all my CSC110, CSC111, and CSC258 projects in one
 redirect: https://github.com/david-wei-01001/Projects
 importance: 6
