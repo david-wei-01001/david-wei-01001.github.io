@@ -4,7 +4,7 @@ permalink: /repositories/
 title: repositories
 description: Check out my repo for project I have done, or just hanging out!
 nav: true
-nav_order: 4
+nav_order: 3
 ---
 
 ## GitHub users
