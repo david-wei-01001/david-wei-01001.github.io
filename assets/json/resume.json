@@ -158,7 +158,7 @@
     },
     {
       "name": "Online Learning Community Software",
-      "summary": "Engineered an online platform to foster a learning community for sharing educational materials, employing rigorous software development methodologies.\nUtilized test-driven design to ensure reliability and maintainability, applied various design patterns to solve complex problems effectively, and implemented comprehensive unit testing to guarantee code quality.\nManaged the project’s evolution using version control, facilitating smooth collaboration within the team and ensuring efficient progress tracking and code integration.",
+      "summary": "Developed an educational platform with a focus on community and sharing, ensuring quality and reliability through test-driven development, design patterns, and thorough unit testing, managed with version control for collaborative progress.",
       "highlights": ["Java", "Software Development", "Design Patterns", "Test Driven Design", "Unit Testing", "Communication"],
       "startDate": "2021-09-01",
       "endDate": "2021-12-20",
