@@ -7,7 +7,7 @@ nav: true
 nav_order: 5
 horizontal: false
 ---
-I am a great fan of cooking and have mastered several dishes including twice-cooked pork, French-style cream stewed chicken, Red-braised pork, and Sweet and sour pork. Although I mentioned a lot of pork, the ingredients I like the most are actually mushrooms and chicken! No matter how to cook them. the result would be good. Let's enjoy some delicious pics!
+I am a great fan of cooking and have mastered several dishes including twice-cooked pork, Red-braised pork, French-style cream stewed chicken, and Sweet and sour pork. Although I mentioned a lot of pork, the ingredients I like the most are actually mushrooms and chicken! No matter how to cook them. the result would be good. Let's enjoy some delicious pics!
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -24,7 +24,7 @@ I am a great fan of cooking and have mastered several dishes including twice-coo
     </div>
 </div>
 
-Besides cooking, I love reading books. Not novels, but thoughts. People say reading books is like talking with past sages, and I talk to those who want to talk to me directly. I have dabbled in history, philosophy, law, and military. I am particularly interested in Eastern philosophy. One interesting question that sends me thinking comes from a preface. A question was raised in the introduction of *A Short History of Chinese Philosophy*: is this a history book of Chinese Philosophy? or is it a book of philosophical history in China? All attempts to answer it come down to a true or false question: Is there philosophy in China? It is very interesting to think about this, and what's more interesting to think about is: Is Philosophy the only kind of philosophy?
+Besides cooking, I love reading books. Not novels, but thoughts. People say reading books is like talking with past sages, and I talk to those who want to talk to me directly. I have dabbled in history, philosophy, law, and investments. I am particularly interested in Eastern philosophy. One interesting question that sends me thinking comes from a preface. A question was raised in the introduction of *A Short History of Chinese Philosophy*: is this a history book of Chinese Philosophy? or is it a book of philosophical history in China? All attempts to answer it come down to a true or false question: Is there philosophy in China? It is very interesting to think about this, and what's more interesting to think about is: Is Philosophy the only kind of philosophy?
 
 
 
@@ -53,3 +53,7 @@ When Fall comes, do Fall stuff;
 When Winter comes, do Winter stuff;
 Things will get done, and what's wanted will be achieved. The world is sometimes as simple as this: time will give people everything they want.
 </details>
+
+----------------
+
+[🤔](https://david-wei-01001.github.io/Some-Jewels/)
