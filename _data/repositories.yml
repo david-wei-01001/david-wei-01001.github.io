@@ -1,12 +1,11 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - david-wei-01001
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - david-wei-01001/LLM-Robotics
+  - david-wei-01001/CSC413-Project
+  - david-wei-01001/CSC311-Project
+  - david-wei-01001/Fast-Fourier-Transform
+  - david-wei-01001/CSC207-Course-Project
+  - david-wei-01001/Projects
+  - david-wei-01001/Leetcode
