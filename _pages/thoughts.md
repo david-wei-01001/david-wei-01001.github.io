@@ -9,8 +9,8 @@ horizontal: false
 ---
 I am a great fan of cooking and have mastered several dishes including twice-cooked pork, French-style cream stewed chicken, Red-braised pork, and Sweet and sour pork. Although I mentioned a lot of pork, the ingredients I like the most are actually mushrooms and chicken! No matter how to cook them. the result would be good. Let's enjoy some delicious pics!
 
-{% include figure.liquid loading="eager" path="assets/img/pork1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-{% include figure.liquid loading="eager" path="assets/img/pork2.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+{% include figure.liquid loading="eager" path="pork1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+{% include figure.liquid loading="eager" path="pork2.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
 {% include figure.liquid loading="eager" path="assets/img/chicken.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
 {% include figure.liquid loading="eager" path="assets/img/pork3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
 
