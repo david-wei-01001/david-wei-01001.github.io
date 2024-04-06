@@ -24,7 +24,7 @@ I am a great fan of cooking and have mastered several dishes including twice-coo
     </div>
 </div>
 
-Besides cooking, I love reading books. Not novels, but thoughts. People say reading books is like talking with past sages, and I talk to those who want to talk to me directly. I have dabbled in history, philosophy, law, and investments. I am particularly interested in Eastern philosophy. One interesting question that sends me thinking comes from a preface. A question was raised in the introduction of *A Short History of Chinese Philosophy*: is this a history book of Chinese Philosophy? or is it a book of philosophical history in China? All attempts to answer it come down to a true or false question: Is there philosophy in China? It is very interesting to think about this, and what's more interesting to think about is: Is Philosophy the only kind of philosophy?
+Besides cooking, I love reading books. Not novels, but thoughts. People say reading books is like talking with past sages, and I talk to those who want to talk to me directly. I have dabbled in history, philosophy, law, and investments. I am particularly interested in Eastern philosophy. One interesting question that sends me thinking comes from a preface. A question was raised in the introduction of *A Short History of Chinese Philosophy*: is this a history book of Chinese Philosophy? or is it a book of philosophical history in China? All attempts to answer it come down to a true or false question: Is there Philosophy in China? It is very interesting to think about this, and what's more interesting to think about is: Is Philosophy the only kind of philosophy?
 
 
 
