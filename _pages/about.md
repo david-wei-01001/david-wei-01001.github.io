@@ -1,6 +1,6 @@
 ---
 layout: about
-title: About
+title: about
 permalink: /
 subtitle: Computer Science Student at the University of Toronto, Researcher at MEDCVR Lab, QA Engineer at Uken Games Inc.
 
