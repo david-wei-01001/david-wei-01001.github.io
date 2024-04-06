@@ -20,7 +20,4 @@ social: true # includes social icons at the bottom of the page
 ## Welcome👋! I'm David Wei! 
 I am a fourth-year Computer Science student at the University of Toronto. I’m particularly interested in artificial intelligence, specifically the realm of Large Language Models (LLMs) and their applications in dynamic environments. I have been working with Robotics decision-making and navigation, pushing the boundaries of traditional robotics by integrating adaptive LLM strategies. When not advancing the field of AI, I savor the joy of reading and culinary explorations. Check out my projects, where each page turns a new chapter in tech innovation.
 
-**Tech Enthusiast | Programmer | AI Researcher | Book Lover | Amateur Philosopher**
-
-
 Email: jiankun.wei@mail.utoronto.ca
