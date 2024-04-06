@@ -1,156 +1,124 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Jiankun (David) Wei",
+    "label": "AI Researcher",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "jiankun.wei@mail.utoronto.ca",
+    "phone": "(306) 201-9129",
+    "url": "https://david-wei-01001.github.io/",
+    "summary": "Dynamic, self-motivated professional with a robust foundation in Computer Science, complemented by a keen interest in Artificial Intelligence and Large Language Models. Boasts a track record of academic excellence, underscored by high university grades and a portfolio of diverse projects. Brings practical experience in software testing, including developing comprehensive test cases. Distinguished by exceptional communication abilities and a collaborative spirit. Eager to deepen expertise in AI through graduate studies, aiming to explore a broad spectrum of models and their applications.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "120 Nassau Street",
+      "postalCode": "M5T 1M7",
+      "city": "Toronto",
+      "countryCode": "CA",
+      "region": "Ontario"
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "GitHub",
+        "username": "david-wei-01001",
+        "url": "https://github.com/david-wei-01001"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "jiankunwei",
+        "url": "https://www.linkedin.com/in/jiankunwei/"
       }
     ]
   },
-  "work": [
+  "skills": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "name": "Computer Science",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Python",
+        "C",
+        "C#",
+        "Java",
+        "R",
+        "MatLab",
+        "Pytorch",
+        "TensorFlow",
+        "NumPy",
+        "CUDA",
+        "Unity",
+        "Linux/Unix"
+      ]
     }
   ],
-  "volunteer": [
+  "work": [
     {
-      "organization": "People's Climate March",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "name": "MEDCVR Lab, University of Toronto",
+      "position": "Researcher",
+      "url": "https://medcvr.utm.utoronto.ca/",
+      "startDate": "2024-01-01",
+      "endDate": "2024-04-20",
+      "summary": "Spearheaded the integration of Large Language Models (LLMs) for guiding robotics, achieving targeted object manipulation.\nDesigned LLM prompts and deployed LLM within Unity using C#, significantly enhancing real-time application performance.\nContributed to the 'LLMUnity' package and led macOS testing, enhancing adoption and compatibility.\nEstablished a seamless remote connection to the Google Vertex AI cloud platform within Unity, demonstrating innovative problem-solving.\nRegularly prepared and presented comprehensive weekly PowerPoint updates, highlighting ongoing progress and key developments.",
+      "highlights": ["Large Language Models", "Robotics", "Cloud Computing", "Unity", "C#", "Prompt Design", "HTTP Clients"]
+    },
+    {
+      "name": "AIT Lab, ETH Zürich",
+      "position": "Research Assistant",
+      "url": "https://ait.ethz.ch/",
+      "startDate": "2023-07-01",
+      "endDate": "2023-11-01",
+      "summary": "Proficient with Detectron2 and torchvision's FasterRCNN libraries for advanced object detection and computer vision projects.\nSkilled in analyzing and interpreting source code, enhancing problem-solving and development efficiency.\nResponsible and efficient in managing GPU-accelerated server resources, ensuring fair use without compromising others' processes, and maintaining optimal application performance.\nHighly self-motivated team contributor, driven to achieve collective goals and advance project initiatives.",
+      "highlights": ["Object Detection", "Robotics", "CUDA", "Detectron2", "PyTorch", "TorchVision", "GPU-accelerated server", "Collaboration"]
+    },
+    {
+      "name": "Uken Games Inc.",
+      "position": "QA Engineer",
+      "url": "https://www.uken.com/",
+      "startDate": "2023-05-08",
+      "endDate": "2024-04-26",
+      "summary": "Quickly and accurately develop comprehensive test cases while providing valuable reviews for peers' tests.\nProficient in interpreting large specification documents, ensuring effective communication with product teams and developers.\nWell-versed in software testing workflows, including rinse requests, refdata requests, smoke tests, and prod sanity checks.\nExperienced in scripting automated test cases within Unity using the AltTester package, enhancing testing efficiency and coverage.\nFamiliar with essential testing and monitoring tools such as TestRail, Bridge, and Kibana, facilitating thorough testing processes and insights.",
+      "highlights": ["Software Testing", "Communication", "Automated Testing", "Reading design documents", "Teamwork", "TestRail", "Bridge", "Kibana"]
     }
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
+      "institution": "University of Toronto",
+      "location": "Toronto, Canada",
       "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "area": "Computer Science",
+      "studyType": "undergraduate",
+      "startDate": "2020-09-01",
+      "endDate": "PRESENT",
+      "score": "3.99"
     }
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
-    }
-  ],
-  "certificates": [
-    {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
+      "title": "6T5 Scholarship for high academic achievement",
+      "date": "2022-04-31",
+      "awarder": "University of Toronto"
     },
     {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
+      "title": "Drew Thompson Scholarship for high academic achievement",
+      "date": "2022-04-31",
+      "awarder": "University of Toronto"
     },
     {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
+      "title": "Drew Thompson Scholarship for high academic achievement",
+      "date": "2023-04-31",
+      "awarder": "University of Toronto"
     },
     {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
+      "title": "Dean’s List Scholar in the Faculty of Art & Science",
+      "date": "2022-04-31",
+      "awarder": "University of Toronto"
     },
     {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
-    }
-  ],
-  "publications": [
-    {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
-    },
-    {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
-    },
-    {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
-    }
-  ],
-  "skills": [
-    {
-      "name": "Physics",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
+      "title": "Dean’s List Scholar in the Faculty of Art & Science",
+      "date": "2023-04-31",
+      "awarder": "University of Toronto"
     }
   ],
   "languages": [
     {
-      "language": "German",
+      "language": "Mandarin",
       "fluency": "Native speaker",
       "icon": ""
     },
@@ -162,38 +130,38 @@
   ],
   "interests": [
     {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "name": "Reading Books",
+      "icon": "fa-solid fa-tag"
     },
     {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "name": "Cooking",
+      "icon": "fa-solid fa-tag"
     }
   ],
   "projects": [
     {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
+      "name": "LLM Controlled Robotics",
+      "summary": "Implemented adaptive control strategies in robotics by utilizing LLMs for image understanding, significantly enhancing real-time feedback and task execution efficiency.\nDeveloped an advanced teleoperation mechanism guided by LLMs, enabling precise, step-by-step robotic movements that enhance fault tolerance and operational flexibility.\nSeamlessly integrated LLMs into the robot's core control logic, transforming conventional robotic systems with enhanced decision-making capabilities and autonomous adjustments.",
+      "highlights": ["Large Lange Model", "Image Understanding", "Robotics", "Unity3D", "Decision Making", "MoveIt"],
+      "startDate": "2024-01-01",
+      "endDate": "2024-04-31",
+      "url": "https://github.com/david-wei-01001/LLM-Robotics"
+    },
+    {
+      "name": "Multi-Style Transfer",
+      "summary": "Implemented multi-style transfer on photographs utilizing both CycleGAN and Neural Style Transfer (NST) techniques to infuse artistic styles.\nConducted a thorough comparison of the two methodologies, showcasing differences in style application through detailed visuals and performance benchmarks.\nDemonstrated proficiency in PyTorch and TensorFlow frameworks, alongside a deep understanding of the CycleGAN architecture.",
+      "highlights": ["cycle GAN", "PyTorch", "TensorFlow", "Neural Networks", "Performance Analysis", "Computer Graphics"],
+      "startDate": "2023-01-01",
+      "endDate": "2023-04-31",
+      "url": "https://github.com/david-wei-01001/CSC413-Project"
+    },
+    {
+      "name": "Online Learning Community Software",
+      "summary": "Engineered an online platform to foster a learning community for sharing educational materials, employing rigorous software development methodologies.\nUtilized test-driven design to ensure reliability and maintainability, applied various design patterns to solve complex problems effectively, and implemented comprehensive unit testing to guarantee code quality.\nManaged the project’s evolution using version control, facilitating smooth collaboration within the team and ensuring efficient progress tracking and code integration.",
+      "highlights": ["Java", "Software Development", "Design Patterns", "Test Driven Design", "Unit Testing", "Communication"],
+      "startDate": "2021-09-01",
+      "endDate": "2021-12-20",
+      "url": "https://github.com/CSC207-UofT/course-project-whatev er-you-want-1.git"
     }
   ]
 }
