@@ -55,7 +55,7 @@
       "url": "https://medcvr.utm.utoronto.ca/",
       "startDate": "2024-01-01",
       "endDate": "2024-04-20",
-      "summary": "Spearheaded the integration of Large Language Models (LLMs) for guiding robotics, achieving targeted object manipulation.\nDesigned LLM prompts and deployed LLM within Unity using C#, significantly enhancing real-time application performance.\nContributed to the 'LLMUnity' package and led macOS testing, enhancing adoption and compatibility.\nEstablished a seamless remote connection to the Google Vertex AI cloud platform within Unity, demonstrating innovative problem-solving.\nRegularly prepared and presented comprehensive weekly PowerPoint updates, highlighting ongoing progress and key developments.",
+      "summary": "Led Large Language Model (LLM) integration for robotics in Unity with C#, enhancing performance and adoption, and established Google Vertex AI connectivity, with regular progress presentations.",
       "highlights": ["Large Language Models", "Robotics", "Cloud Computing", "Unity", "C#", "Prompt Design", "HTTP Clients"]
     },
     {
@@ -64,7 +64,7 @@
       "url": "https://ait.ethz.ch/",
       "startDate": "2023-07-01",
       "endDate": "2023-11-01",
-      "summary": "Proficient with Detectron2 and torchvision's FasterRCNN libraries for advanced object detection and computer vision projects.\nSkilled in analyzing and interpreting source code, enhancing problem-solving and development efficiency.\nResponsible and efficient in managing GPU-accelerated server resources, ensuring fair use without compromising others' processes, and maintaining optimal application performance.\nHighly self-motivated team contributor, driven to achieve collective goals and advance project initiatives.",
+      "summary": "Skilled in Detectron2 and FasterRCNN for object detection, adept in source code analysis and GPU resource management, I'm a self-motivated team player focused on collective goals and optimal performance.",
       "highlights": ["Object Detection", "Robotics", "CUDA", "Detectron2", "PyTorch", "TorchVision", "GPU-accelerated server", "Collaboration"]
     },
     {
