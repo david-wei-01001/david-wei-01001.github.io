@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://david-wei-01001.github.io/blog//sitemap.xml
+Sitemap: https://david-wei-01001.github.io/david-folio/blog//sitemap.xml
