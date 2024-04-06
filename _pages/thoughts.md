@@ -47,9 +47,9 @@ Tao strongly influenced me, in particular stepping away from Thoughts. It is not
     </div>
 </div>
 
-When Spring comes, do Spring stuff;\
-When Summer comes, do Summer stuff;\
-When Fall comes, do Fall stuff;\
-When Winter comes, do Winter stuff;\
+When Spring comes, do Spring stuff;
+When Summer comes, do Summer stuff;
+When Fall comes, do Fall stuff;
+When Winter comes, do Winter stuff;
 Things will get done, and what's wanted will be achieved. The world is sometimes as simple as this: time will give people everything they want.
 </details>
