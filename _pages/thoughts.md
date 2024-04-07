@@ -29,7 +29,7 @@ Besides cooking, I love reading books. Not novels, but thoughts. People say read
 
 What do you think? Which side do you stand on? Or are there any questions that provoke your thoughts? Or do you have any personal reflections? 
 <div class="row">
-    <div class="col-sm mt-3 mt-md-0">
+    <div style="text-align: center;">
         {% include figure.liquid loading="eager" path="assets/img/think.jpg" title="example image" class="img-fluid rounded z-depth-1" max-width="50%" %}
     </div>
 </div>
@@ -63,7 +63,7 @@ When Winter comes, do Winter stuff;
 
 Things will get done, and what's wanted will be achieved. The world is sometimes as simple as this: time will give people everything they want.
 <div class="row">
-    <div class="col-sm mt-3 mt-md-0">
+    <div style="text-align: center;">
         {% include figure.liquid loading="eager" path="assets/img/Tao.jpg" title="example image" class="img-fluid rounded z-depth-1" max-width="50%" %}
 
     </div>
