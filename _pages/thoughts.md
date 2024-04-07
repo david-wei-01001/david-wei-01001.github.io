@@ -1,6 +1,6 @@
 ---
 layout: page
-title: some thoughts
+title: openspace
 permalink: /thoughts/
 description: Enjoy the relief from technical stuff...
 nav: true
@@ -27,6 +27,10 @@ I am a great fan of cooking and have mastered several dishes including twice-coo
 Besides cooking, I love reading books. Not novels, but thoughts. People say reading books is like talking with past sages, and I talk to those who want to talk to me directly. I have dabbled in history, philosophy, law, and investments. I am particularly interested in Eastern philosophy. One interesting question that sends me thinking comes from a preface. A question was raised in the introduction of *A Short History of Chinese Philosophy*: is this a history book of Chinese Philosophy? or is it a book of philosophical history in China? All attempts to answer it come down to a true or false question: Is there Philosophy in China? It is very interesting to think about this, and what's more interesting to think about is: Is Philosophy the only kind of philosophy?
 
 
+What do you think? Which side do you stand on? Or are there any questions that provoke your thoughts? Or do you have any personal reflections? 
+<div>
+        {% include figure.liquid loading="eager" path="assets/img/think.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
 
 <details>
   <summary>Some Reflections on Tao</summary>
@@ -52,6 +56,9 @@ When Summer comes, do Summer stuff;
 When Fall comes, do Fall stuff;
 When Winter comes, do Winter stuff;
 Things will get done, and what's wanted will be achieved. The world is sometimes as simple as this: time will give people everything they want.
+<div>
+        {% include figure.liquid loading="eager" path="assets/img/Tao.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
 </details>
 
 ----------------
