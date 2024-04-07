@@ -28,13 +28,15 @@ Besides cooking, I love reading books. Not novels, but thoughts. People say read
 
 
 What do you think? Which side do you stand on? Or are there any questions that provoke your thoughts? Or do you have any personal reflections? 
-<div>
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/think.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
+</div>
 
 <details>
   <summary>Some Reflections on Tao</summary>
-Tao strongly influenced me, in particular stepping away from Thoughts. It is not about giving up self-motivation in any sense, it is about following the natural flow and rhythm of the universe. People love stuff, but that can't go to the extreme, and people hate stuff, and that will vanish within. People want unbounded resources and want things done immediately. I want infinite resources, I want achievements immediately. And I want no failure. But these will not happen. Not only that, but it will be painful. The more thinking, the more agony. It is the flanking of greed and despair belonging to only the individual. But that's not irresolvable. Open the eyes, and empty the mind. Look outside, look around, look at the nature. Aren't the trees wanting to grow bigger, stronger, and taller? But they know these will not happen tomorrow. Aren't buddings want to grow into leaves, flowers, and fruits and shine under the sun? But nature has its time.
+Tao strongly influenced me, in particular stepping away from Thoughts. It is not about giving up self-motivation in any sense, it is about following the natural flow and rhythm of the universe. People love stuff, but that can't go to the extreme, and people hate stuff, and that will vanish within. People want unbounded resources and want things done immediately. I want infinite resources, I want achievements immediately. And I want no failure. But these will not happen. Not only that, but it will be painful. The more thinking, the more agony. It is the flanking of greed and despair belonging to only the individual. But that's not irresolvable. Open the eyes, and empty the mind. Look outside, look around, look at the nature. Aren't the trees wanting to grow bigger, stronger, and taller? But they know these will not happen tomorrow. Aren't buddings wish to develop into leaves, flowers, and fruits and shine under the sun? But nature has its time.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -56,9 +58,11 @@ When Summer comes, do Summer stuff;
 When Fall comes, do Fall stuff;
 When Winter comes, do Winter stuff;
 Things will get done, and what's wanted will be achieved. The world is sometimes as simple as this: time will give people everything they want.
-<div>
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/Tao.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
+</div>
 </details>
 
 ----------------
