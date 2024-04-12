@@ -11,7 +11,6 @@ images:
   slider: true
 toc:
   sidebar: left
-  beginning: true
 ---
 
 This will record my book excerpts
