@@ -1,10 +1,10 @@
 ---
 layout: post
-title: a post with redirect
+title: Fast Fourier Transform
 date: 2022-06-01 17:39:00
 featured: true
 tags: math code
-description: Fast Fourier Transform
+description: A post about Fast Fourier Transform
 redirect: /assets/pdf/Fast Fourier Transform.pdf
 ---
 
