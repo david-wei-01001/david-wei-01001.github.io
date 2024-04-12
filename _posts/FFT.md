@@ -5,7 +5,7 @@ date: 2022-06-01 17:39:00
 featured: true
 tags: math code
 description: Fast Fourier Transform
-redirect: /assets/pdf/example_pdf.pdf
+redirect: /assets/pdf/FFT.pdf
 ---
 
 A paper about Fast Fourier Transform.
