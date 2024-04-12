@@ -117,7 +117,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # -----------------------------------------------------------------------------
 
 blog_name: David Space # blog_name will be displayed in your blog page
-blog_description: "try change"
+blog_description: "造命者天，立命者人"
 permalink: /blog/:year/:title/
 
 # Pagination
