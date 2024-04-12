@@ -4,7 +4,7 @@ title: Book Excerpts
 date: 2024-04-11 11:31:00
 description: This includes my excerpts, many of which are in Chinese
 featured: true
-tags: formatting images
+tags: chinese images
 categories: sample-posts
 thumbnail: assets/img/9.jpg
 images:
@@ -12,7 +12,7 @@ images:
   slider: true
 ---
 
-This is an example post with advanced image components.
+This will record my book excerpts
 
 ## Image Slider
 
