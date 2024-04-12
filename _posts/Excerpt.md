@@ -5,13 +5,13 @@ date: 2024-04-11 11:31:00
 description: This includes my excerpts, many of which are in Chinese
 featured: true
 tags: excerpts images literature
-categories: sample-posts
 thumbnail: assets/img/9.jpg
 images:
   compare: true
   slider: true
 toc:
   sidebar: left
+  beginning: true
 ---
 
 This will record my book excerpts
