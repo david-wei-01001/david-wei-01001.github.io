@@ -19,7 +19,7 @@ This will record my book excerpts
 
 ## Introduction
 
-This blog records all the sentences I encountered compelling, powerful, knowledgable, thought-provoking, or led to meditation while I reading books. These are treasuries for you and for me. Let's take a cup of coffee, sit down, clear our minds, and enjoy reading.
+This blog records all the sentences I encountered compelling, powerful, knowledgable, thought-provoking, or led to meditation while I reading books. These are treasuries for you and me. Let's take a cup of coffee, sit down, clear our minds, and enjoy reading.
 
 
 <swiper-container keyboard="true" navigation="true" pagination="true" pagination-clickable="true" pagination-dynamic-bullets="true" rewind="true">
@@ -51,3 +51,26 @@ Most of the books I read are Chinese, so be prepared for a new language。
 
 
 ## 商君书
+
+- 愚者暗于成事，知者见于未萌
+  
+- 民不可与虑始，而可与乐成
+  
+- 论至德者不和于俗，成大功者不谋于众
+  
+- 治世不一道，便国不必法古
+  
+- 民不贵学则愚，愚则无外交，无外交，则国安而不殆
+  
+- 愚民不知，不好学问，则务疾农
+  
+- 重关市之赋，则农恶商，商有疑堕之心
+
+- 凡人主之所以劝民者，官爵也。国之所以兴者，农战也
+
+- 国力抟者强，国好言谈者削
+
+- 农战之民千人，而有《诗》、《书》辩惠者一人焉，千人者皆怠于农战矣。
+  农战之民百人，而有技艺者一人焉，百人者皆怠于农战矣。
+
+- 国待农战而安，主待农战而尊
