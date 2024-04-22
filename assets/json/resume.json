@@ -44,6 +44,11 @@
         "NumPy",
         "CUDA",
         "Unity",
+        "JavaScript",
+        "React",
+        "HTML5",
+        "CSS3",
+        "FireBase",
         "Linux/Unix"
       ]
     }
@@ -145,8 +150,16 @@
       "summary": "Enhanced robotics control with LLMs for image analysis and real-time response, advanced LLM-driven teleoperation for precision and fault tolerance, and integrated LLMs for smarter robotic autonomy.",
       "highlights": ["Large Lange Model", "Image Understanding", "Robotics", "Unity3D", "Decision Making", "MoveIt"],
       "startDate": "2024-01-01",
-      "endDate": "2024-04-31",
+      "endDate": "2024-04-22",
       "url": "https://github.com/david-wei-01001/LLM-Robotics"
+    },
+    {
+      "name": "Crypto Care",
+      "summary": "Spearheaded database architecture for CryptoCare, handling user registration, login, and real-time balance updates, while also documenting donation activities. Led UI design for the login page, wallet interface, and dashboard's donation sections. Collaborated on integrating MetaMask Ethereum transactions with balance monitoring on the Sepolia testnet. Quickly mastered JavaScript and React, delivering a sophisticated application in a 30-hour sprint with limited prior experience.",
+      "highlights": ["React", "JavaScript", "HTML5", "CSS3", "Front End", "FireBase"],
+      "startDate": "2024-04-19",
+      "endDate": "2024-04-20",
+      "url": "https://github.com/david-wei-01001/CryptoCare"
     },
     {
       "name": "Multi-Style Transfer",
