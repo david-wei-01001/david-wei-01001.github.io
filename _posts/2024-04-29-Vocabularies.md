@@ -83,3 +83,46 @@ $$\begin{array}{l}
 \text{imperil v.危及} \\
 \text{imperil adj.帝国的}
 \end{array}$$
+
+$$\begin{array}{l}
+\text{elicit v.诱出，探出} \\
+\text{ilicit adj.非法的} \\
+\text{solicit v.恳求，勾引，拉客}
+\end{array}$$
+
+$$\begin{array}{l}
+\text{staunch v.止血 adj.坚定的} \\
+\text{stanch v.止血} \\
+\text{stench n.恶臭，恶劣影响}
+\end{array}$$
+
+$$\begin{array}{l}
+\text{demur v.拒绝} \\
+\text{demure adj.文静的}
+\end{array}$$
+
+$$\begin{array}{l}
+\text{steward n.乘务员} \\
+\text{stalwart adj.忠诚的}
+\end{array}$$
+
+$$\begin{array}{l}
+\text{futile adj.无效的} \\
+\text{fugitive adj.短暂的，逃亡的 n.逃亡者} \\
+\text{furtive adj.鬼鬼祟祟的}
+\end{array}$$
+
+$$\begin{array}{l}
+\text{remorse n.懊悔} \\
+\text{morose adj.抑郁的}
+\end{array}$$
+
+$$\begin{array}{l}
+\text{ingenious adj.独创的} \\
+\text{ingenuous adj.天真的}
+\end{array}$$
+
+$$\begin{array}{l}
+\text{plaque n.牙癍，纪念匾} \\
+\text{plague v.折磨 n.瘟疫}
+\end{array}$$
