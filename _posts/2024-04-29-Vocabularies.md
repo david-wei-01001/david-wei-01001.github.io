@@ -15,7 +15,7 @@ $$\begin{array}{l}
 $$\begin{array}{l}
 \text{jibe v./n. 嘲讽，嘲笑 n.符合，一致} \\
 \text{gibe v./n. 嘲讽，嘲笑}
-\end{array$$
+\end{array}$$
 
 $$\begin{array}{l}
 \text{jagged adj.锯齿状的} \\
@@ -56,4 +56,14 @@ $$\begin{array}{l}
 $$\begin{array}{l}
 \text{silt n.淤泥} \\
 \text{slit n.裂缝 v.切开}
+\end{array}$$
+
+$$\begin{array}{l}
+\text{averse adj.反对的，不愿意的} \\
+\text{adverse adj.不利的，有害的}
+\end{array}$$
+
+$$\begin{array}{l}
+\text{averse adj.反对的，不愿意的} \\
+\text{adverse adj.不利的，有害的}
 \end{array}$$
