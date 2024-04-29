@@ -33,7 +33,7 @@ $$\begin{array}
 $$\begin{array}
 \text{apocalyptic adj.末日的，（对灾难结果）夸张的} \\
 \text{apoplectic adj.勃然大怒的}\\
-\tezt{apocryphal adj.虚假的}
+\text{apocryphal adj.虚假的}
 \end{array}$$
 
 $$\begin{array}
