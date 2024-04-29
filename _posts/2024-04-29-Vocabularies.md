@@ -7,10 +7,12 @@ tags: math code
 description: Some vocabularies that easy to mix
 ---
 
-$$\left\{ \begin{array}
+$$\begin{align*}
+\left\{ \begin{array}
 \text{scathing adj.严厉的} \\
 \text{scorching adj.酷热的}
-\end{array} \right\}$$
+\end{array} \right\}
+\end{align*}$$
 
 $\left\{ \begin{array}
 \text{jibe v./n. 嘲讽，嘲笑 n.符合，一致} \\
