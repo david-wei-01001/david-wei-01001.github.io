@@ -67,3 +67,19 @@ $$\begin{array}{l}
 \text{averse adj.反对的，不愿意的} \\
 \text{adverse adj.不利的，有害的}
 \end{array}$$
+
+$$\begin{array}{l}
+\text{loath adj.不愿意的} \\
+\text{loathe v.厌恶}
+\end{array}$$
+
+$$\begin{array}{l}
+\text{stout adj.强壮的，坚定的} \\
+\text{strut n./v.昂首阔步}
+\end{array}$$
+
+$$\begin{array}{l}
+\text{emperical adj.经验主义的} \\
+\text{imperil v.危及} \\
+\text{imperil adj.帝国的}
+\end{array}$$
