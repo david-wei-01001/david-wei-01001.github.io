@@ -126,3 +126,14 @@ $$\begin{array}{l}
 \text{plaque n.牙癍，纪念匾} \\
 \text{plague v.折磨 n.瘟疫}
 \end{array}$$
+
+$$\begin{array}{l}
+\text{countervail v.抵消} \\
+\text{countervailing 反补贴} \\
+\text{contrail n.航迹云}
+\end{array}$$
+
+$$\begin{array}{l}
+\text{inherit v.继承} \\
+\text{inherent adj.内在的，固有的}
+\end{array}$$
