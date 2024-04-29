@@ -8,7 +8,7 @@ description: Some vocabularies that easy to mix
 ---
 
 $$\begin{array}
-\text{scathing  adj.严厉的} \\
+\text{scathing adj.严厉的}\\
 \text{scorching adj.酷热的}
 \end{array}$$
 
