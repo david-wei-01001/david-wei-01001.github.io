@@ -2,7 +2,7 @@
 layout: post
 title: Vocabularies
 date: 2024-04-29 15:36:00
-featured: true
+featured: false
 tags: math code
 description: Some vocabularies that easy to mix
 ---
