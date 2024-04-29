@@ -29,3 +29,14 @@ description: Some vocabularies that easy to mix
 \text{rebut v.反驳，举反证}\\
 \tezt{rebuke v.指责，斥责}
 \end{array} \right\}
+
+\left\{ \begin{array}
+\text{apocalyptic adj.末日的，（对灾难结果）夸张的} \\
+\text{apoplectic adj.勃然大怒的}\\
+\tezt{apocryphal adj.虚假的}
+\end{array} \right\}
+
+\left\{ \begin{array}
+\text{trepidation n.恐惧，颤抖，忧虑} \\
+\text{tribulation n.苦难，折磨}
+\end{array} \right\}
