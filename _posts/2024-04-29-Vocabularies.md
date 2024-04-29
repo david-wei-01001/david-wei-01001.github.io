@@ -11,3 +11,8 @@ description: Some vocabularies that easy to mix
 \text{scathing adj.严厉的} \\
 \text{scorching adj.酷热的}
 \end{array} \right.
+
+\left\{ \begin{array}
+\text{jibe v./n. 嘲讽，嘲笑 n.符合，一致} \\
+\text{gibe v./n. 嘲讽，嘲笑}
+\end{array} \right.
