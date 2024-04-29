@@ -40,3 +40,20 @@ $$\begin{array}{l}
 \text{trepidation n.恐惧，颤抖，忧虑} \\
 \text{tribulation n.苦难，折磨}
 \end{array}$$
+
+$$\begin{array}{l}
+\text{carol n.赞歌} \\
+\text{coral n.珊瑚}
+\end{array}$$
+
+$$\begin{array}{l}
+\text{impermeable adj.不能渗透的} \\
+\text{impenetrable adj.不能穿透的，无法理解的}\\
+\text{impregnable adj.坚不可摧的，不可战胜的}\\
+\text{impervious adj.不能渗透的，不受影响的}
+\end{array}$$
+
+$$\begin{array}{l}
+\text{silt n.淤泥} \\
+\text{slit n.裂缝 v.切开}
+\end{array}$$
