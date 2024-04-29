@@ -12,10 +12,10 @@ $$\left\{ \begin{array}
 \text{scorching adj.酷热的}
 \end{array} \right\}$$
 
-\left\{ \begin{array}
+$\left\{ \begin{array}
 \text{jibe v./n. 嘲讽，嘲笑 n.符合，一致} \\
 \text{gibe v./n. 嘲讽，嘲笑}
-\end{array} \right\}
+\end{array} \right\}$
 
 \left\{ \begin{array}
 \text{jagged adj.锯齿状的} \\
