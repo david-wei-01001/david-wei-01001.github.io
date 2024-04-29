@@ -10,17 +10,17 @@ description: Some vocabularies that easy to mix
 \left\{ \begin{array}
 \text{scathing adj.严厉的} \\
 \text{scorching adj.酷热的}
-\end{array} \right.
+\end{array} \}\right
 
 \left\{ \begin{array}
 \text{jibe v./n. 嘲讽，嘲笑 n.符合，一致} \\
 \text{gibe v./n. 嘲讽，嘲笑}
-\end{array} \right.
+\end{array} \}\right
 
 \left\{ \begin{array}
 \text{jagged adj.锯齿状的} \\
 \text{ragged adj. 衣衫褴褛的}
-\end{array} \right.
+\end{array} \}\right
 
 \left\{ \begin{array}
 \text{repudiate v.拒绝，否认} \\
@@ -28,4 +28,4 @@ description: Some vocabularies that easy to mix
 \text{refute v.驳斥，反驳}\\
 \text{rebut v.反驳，举反证}\\
 \tezt{rebuke v.指责，斥责}
-\end{array} \right.
+\end{array}\} \right
