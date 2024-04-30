@@ -160,6 +160,18 @@ $$\begin{array}{l}
 \end{array}$$
 
 $$\begin{array}{l}
+\text{strenuous adj.艰苦的，费力的} \\
+\text{extraneous adj.无关的}
+\end{array}$$
+
+$$\begin{array}{l}
+\text{impetus n.动力，势头} \\
+\text{impulse n.冲动} \\
+\text{impulsive adj.冲动的}
+\end{array}$$
+
+
+$$\begin{array}{l}
 \text{complaisance n.顺从} \\
 \text{compliance n.顺从} \\
 \text{complacency n.自满}
