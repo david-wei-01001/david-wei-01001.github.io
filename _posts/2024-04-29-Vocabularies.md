@@ -143,3 +143,8 @@ $$\begin{array}{l}
 \text{ascetic adj.清苦的，禁欲的} \\
 \text{aesthetic adj.美学的}
 \end{array}$$
+
+$$\begin{array}{l}
+\text{garrulous adj.唠叨的} \\
+\text{querulous adj.爱抱怨的}
+\end{array}$$
