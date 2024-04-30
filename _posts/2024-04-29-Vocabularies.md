@@ -148,3 +148,19 @@ $$\begin{array}{l}
 \text{garrulous adj.唠叨的} \\
 \text{querulous adj.爱抱怨的}
 \end{array}$$
+
+$$\begin{array}{l}
+\text{jumble adj.混乱的} \\
+\text{jungle n.丛林，弱肉强食的地方 adj.混乱的}
+\end{array}$$
+
+$$\begin{array}{l}
+\text{compliment v.赞扬} \\
+\text{complement v.补充}
+\end{array}$$
+
+$$\begin{array}{l}
+\text{complaisance n.顺从} \\
+\text{compliance n.顺从} \\
+\text{complacency n.自满}
+\end{array}$$
