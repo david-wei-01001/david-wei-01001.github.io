@@ -137,3 +137,9 @@ $$\begin{array}{l}
 \text{inherit v.继承} \\
 \text{inherent adj.内在的，固有的}
 \end{array}$$
+
+$$\begin{array}{l}
+\text{anestehtic n.麻醉剂} \\
+\text{ascetic adj.清苦的，禁欲的} \\
+\text{aesthetic adj.美学的}
+\end{array}$$
