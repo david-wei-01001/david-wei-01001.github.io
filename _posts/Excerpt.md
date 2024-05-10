@@ -664,4 +664,4 @@ Most of the books I read are Chinese, so be prepared for a new language。
 
 - 生之，蓄之，生而不有，为而不恃，长而不宰，是为玄德
 
-- 
+- 有之以为利，无之以为用
