@@ -697,3 +697,7 @@ Most of the books I read are Chinese, so be prepared for a new language。
 - 见素抱朴，少私寡欲，绝学无忧
 
 - （苏辙）我无为而民自化，我好静而民自正，我无事而民自富，我无欲而民自朴
+
+- 俗人昭昭，我独昏昏；俗人察察，我独闷闷
+
+- 绝学无忧
