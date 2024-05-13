@@ -460,144 +460,65 @@ Excerpts from other languages are translated, so they may not be accurate
     </div>
 </div>
 
-- 愚者暗于成事，知者见于未萌
-  
-- 民不可与虑始，而可与乐成
-  
-- 论至德者不和于俗，成大功者不谋于众
+- "The foolish are blind to accomplishments; the wise see things before they start."
 
-- 三代不同礼而王，五霸不同法而霸
-  
-- 治世不一道，便国不必法古
+- "The common people should not be involved in planning from the beginning but can enjoy the completion."
 
-- 汤、武之王也，不循古而兴；殷、夏之灭也，不易礼而亡
-  
-- 民不贵学则愚，愚则无外交，无外交，则国安而不殆
-  
-- 愚民不知，不好学问，则务疾农
-  
-- 重关市之赋，则农恶商，商有疑堕之心
+- "Those who discuss supreme virtue do not conform to the norm; those who achieve great deeds do not consult the multitude."
 
-- 凡人主之所以劝民者，官爵也。国之所以兴者，农战也
+- "The Three Dynasties did not follow the same rites to rule, nor did the Five Hegemons follow the same laws to dominate."
 
-- 国力抟者强，国好言谈者削
+- "Governing the world does not follow a single path; benefiting a state does not necessarily adhere to ancient methods."
 
-- 农战之民千人，而有《诗》、《书》辩惠者一人焉，千人者皆怠于农战矣。
-  农战之民百人，而有技艺者一人焉，百人者皆怠于农战矣。
+- "Kings like Tang and Wu did not follow ancient practices to rise; the Yin and Xia did not change their rites and thus perished."
 
-- 国待农战而安，主待农战而尊。
+- "If the people do not value learning, they become foolish; without foreign interactions, there is no danger, and the state remains secure."
 
-- 归心于农，则民朴而可正也，纯纯则易使也。
+- "If the people are ignorant and do not engage in learning, they should be urged to hasten in agriculture."
 
-- 夫民之亲上而死制也，以其旦暮从事于农。
+- "Heavy taxation on trade causes farmers to despise commerce, and merchants harbor thoughts of falling."
 
-- 国作壹一岁者，十岁强；作壹十岁者，百岁强；作壹百岁者，千岁强；千岁强者王。
+- "What motivates people under a ruler are official ranks. What strengthens a state are agriculture and warfare."
 
-- 以强去强者，弱，以弱去强者，强
+- "A state that concentrates its strength is strong; a state that indulges in too much discussion is weakened."
 
-- 国以善民治奸民者，必乱至削；国以奸民治善民者，必治至强
+- "Among a thousand people engaged in agriculture and warfare, if there is one who is versed in the 'Classics' and capable of debate, all thousand will neglect their duties."
 
-- 重罚轻赏，则上爱民，民死上
+- "The security of a state relies on its focus on agriculture and warfare; the dignity of a ruler depends on agriculture and warfare."
 
-- 能生不能杀，曰自攻之国，必削；能生能杀，曰攻敌之国，必强
+- "Directing the people’s hearts toward agriculture leads to simplicity and ease of governance; purity makes them easy to employ."
 
-- 日治者王，夜治者强，宿治者削
+- "The people’s closeness to their superiors and their willingness to die are due to their daily engagement in agriculture."
 
-- 刑生力，力生强，强生威，威生惠（德），惠（德）生于力
+- "A state that consolidates for one year becomes stronger after ten years; if for ten years, then a hundred years stronger; if for a hundred years, a thousand years stronger. Those thousand years strong become kings."
 
-- 金生而粟死，粟生而金生
+- "Using strength to overcome strength results in weakness; using weakness to overcome strength results in strength."
 
-- 国好生金于竟内，则金粟两死，仓府两虚，国弱；国好生粟于竟内，则金粟两生，仓府两实，国强
+- "A state that uses good people to control the bad inevitably leads to chaos and weakening; a state that uses bad people to control the good inevitably leads to order and strength."
 
-- 兵起而胜敌，按兵而国富者王
+- "Heavy punishments and light rewards mean the ruler loves the people, and the people die for the ruler."
 
-- 民胜其政，国弱，政胜其民，兵强
+- "A state that can create but cannot destroy will self-destruct; a state that can both create and destroy will become strong."
 
-- 用善，则民亲其亲；任奸，则民亲其制
+- "A state governed by day is kingly; governed by night is strong; governed at dawn is weak."
 
-- 民易为言，难为用
+- "Punishments create strength, strength creates power, power creates authority, and from authority comes benevolence."
 
-- 重轻，则刑去事成，国强；重重而轻轻，则刑至而事生，国削
+- "When gold thrives, grain dies; when grain thrives, gold prospers."
 
-- 民勇，则赏之以其所欲；民怯，则杀之以其所恶。故怯民使之以刑，则勇；勇民使之以赏，则死。怯民勇，勇民死，国无敌者，必王。
+- "If a state focuses internally on producing gold, both gold and grain perish, leaving the storehouses empty and the state weak; if a state focuses on producing grain, both gold and grain prosper, the storehouses are full, and the state is strong."
 
-- 故贫者益之以刑，则富；富者损之以赏，则贫
+- "A state that rises to conquer its enemies with its troops and enriches itself in peace becomes king."
 
-- 王者刑于九而赏出一, 削国赏九而刑一
+- "If the people overpower their governance, the state is weak; if governance overpowers the people, the state has strong military capabilities."
 
-- 民之所欲万，而利之所出一
+- "Employing the good results in the people respecting their kin; employing the wicked results in the people fearing their rulers."
 
-- 塞私道以穷其志，启一门以致其欲
+- "It is easy for people to speak, hard to employ."
 
-- 王者，国不蓄力，家不积粟
+- "By prioritizing significant over minor issues, punishment achieves its end, and the state becomes strong; if major and minor issues are equally weighted, punishment becomes frequent and issues proliferate, weakening the state."
 
-- 故有道之国，治不听君，民不从官
-
-- 夫地大而不垦者，与无地同；民众而不用者，与无民同
-
-- 民愚，则知可以胜之；世知，则力可以胜之
-
-- 神农教耕而王天下，师其知也；汤、武致强而征诸侯，服其力也
-
-- 圣人不法古，不修今。 法古则后于时，修今则塞于势
-
-- 王者刑用于将过，赏施于告奸
-
-- 有主而无法，其害与无主同；有法不胜其乱，与无法同
-
-- 求过不求善，籍刑以去刑
-
-- 治国能抟民力而壹民务者，强； 能事本而禁末者，富
-
-- 治国者贵民壹，民壹则朴，朴则农，农则易勤，勤则富。 富者废之以爵，不淫；淫者废之以刑，而务农
-
-- 能抟力而不能用者必乱，能杀力而不能抟力者必亡
-
-- 因世而为之治，度俗而为之法
-
-- 同列而相臣妾者，贫富之谓也；同实而相并兼者，强弱之谓也；有地而君或强或弱者，乱治之谓也
-
-- 王者之兵，胜而不骄，败而不怨。胜而不骄者，术明也；败而不怨者，知所失也
-
-- 赏厚而信，刑重而威
-
-- 三王以义亲天下，五霸以法正诸侯
-
-- 蠹众而木析，隙大而墙坏
-
-- 春违其农，夏食其食，秋取其刈，冬冻其葆，以《大武》摇其本，以《广文》安其嗣
-
-- 善因天下之货，以赏天下之人。故曰：明赏不费
-
-- 三君之士，（晋文公）止之如斩足，行之如流水
-
-- 以战去战，虽战可也；以杀去杀，虽杀可也；以刑去刑，虽重刑可也
-
-- 入其国，观其治，民用者强
-
-- 民之见战也，如饿狼之见肉，则民用矣
-
-- 衣服有制，饮食有节
-
-- 恃天下者，天下去之；自恃者，得天下。得天下者，先自得者也；能胜强敌者，先自胜者也
-
-- 民弱国强，民强国弱，故有道之国务在弱民
-
-- 法枉治乱，任善言多
-
-- 民之于利也，若水之于下也，四旁无择也
-
-- 托其势者，虽远必至；守其数者，虽深必得
-
-- 利合而恶同者，父不能以问子，君不能以问臣
-
-- 遗贤去智，治之数也
-
-- 世之所谓贤者，善正也；所以为善正也，党也
-
-- 国之所以重，主之所以尊者，力也
-
-- 圣王治治，不治乱
+- "Reward the brave with what they desire; execute the cowardly with what they detest. Thus, when you use punishment on cowardly people, they become brave; when you reward brave people, they are willing to die. If cowards become brave and the brave are willing to die, the state will have no enemies it cannot conquer."
 
 ## 道德经
 
