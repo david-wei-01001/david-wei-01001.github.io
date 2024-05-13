@@ -37,6 +37,12 @@ Excerpts from other languages are translated, so they may not be accurate
 
 ## An Inquiry into the Nature and Causes of The Wealth of Nations
 
+<div class="row">
+    <div  style="text-align: center;">
+        {% include figure.liquid loading="eager" path="assets/img/adam.jpg" title="example image" class="img-fluid rounded z-depth-1" max-width="50%" %}
+    </div>
+</div>
+
 - It is the great multiplication of the productions of all the different arts, in consequence of the division of labour, which occasions, in a well-governed society, that universal opulence which extends itself to the lowest ranks of the people.
 
 - It is the great multiplication of the productions of all the different arts, in consequence of the division of labour, which occasions, in a well-governed society, that universal opulence which extends itself to the lowest ranks of the people.
@@ -64,6 +70,12 @@ Excerpts from other languages are translated, so they may not be accurate
 - 
 
 ## The Essays of Warren Buffett: Lessons for Investors and Managers
+
+<div class="row">
+    <div  style="text-align: center;">
+        {% include figure.liquid loading="eager" path="assets/img/buffet.jpg" title="example image" class="img-fluid rounded z-depth-1" max-width="50%" %}
+    </div>
+</div>
 
 - "In a competition of reason, if your opponent is taught that thinking is purely a waste of energy, what could give you a greater advantage?"
 
@@ -156,7 +168,7 @@ Excerpts from other languages are translated, so they may not be accurate
 
 <div class="row">
     <div  style="text-align: center;">
-        {% include figure.liquid loading="eager" path="assets/img/stock1.jpg" title="example image" class="img-fluid rounded z-depth-1" max-width="50%" %}
+        {% include figure.liquid loading="eager" path="assets/img/buffet2.jpg" title="example image" class="img-fluid rounded z-depth-1" max-width="50%" %}
     </div>
 </div>
 
@@ -604,6 +616,12 @@ Excerpts from other languages are translated, so they may not be accurate
 - "Sage kings govern governance, not chaos."
 
 ## LaoZi
+
+<div class="row">
+    <div  style="text-align: center;">
+        {% include figure.liquid loading="eager" path="assets/img/laozi1.jpg" title="example image" class="img-fluid rounded z-depth-1" max-width="50%" %}
+    </div>
+</div>
 
 - "The way that can be spoken of is not the constant way; the name that can be named is not the constant name."
 
