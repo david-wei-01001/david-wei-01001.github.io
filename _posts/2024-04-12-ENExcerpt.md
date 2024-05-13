@@ -380,77 +380,77 @@ Excerpts from other languages are translated, so they may not be accurate
     </div>
 </div>
 
-- 敌近而静者，恃其险也；远而挑战者，欲人之进也；其所居易者，利也；众树动者，来也；众草多障者，疑也；鸟起者，伏也；兽骇者，覆也；尘高而锐者，车来也；卑而广者，徒来也；散而条达者，樵采也；少而往来者，营军也；辞卑而益备者，进也；辞强而进驱者，退也；轻车先出，居其侧者，陈也；无约而请和者，谋也；奔走而陈兵者，期也；半进半退者，诱也；杖而立者，饥也；汲而先饮者，渴也；见利而不进者，劳也；鸟集者，虚也；夜呼者，恐也；军扰者，将不重也；旌旗动者，乱也；吏怒者，倦也；粟马肉食，军无悬缶，不返其舍者，穷寇也；谆谆翕翕，徐与人言者，失众也；数赏者，窘也；数罚者，困也；先暴而后畏其众者，不精之至也；来委谢者，欲休息也；兵怒而相迎，久而不合，又不相去，必谨察之。
+- "If the enemy is quiet while close, it relies on its fortifications; if it challenges from afar, it wishes for you to advance; if its position is easily accessible, it is advantageous; if multiple trees are moving, it is approaching; if the grass moves a lot, it is suspicious; if birds startle, there is an ambush; if animals are frightened, there is an ambush; if dust rises sharply, it is the chariots coming; if the dust is low and spread wide, it is the infantry; if it disperses and is orderly, it is gathering wood; if few and moving back and forth, it is encamping; if humble in words but increasingly prepared, it is advancing; if strong in words but advancing forcefully, it is retreating; if light vehicles move out first and station on the sides, it is forming up; if without reason asking for peace, it is planning; if rushing and forming up, it is about to engage; if half advancing and half retreating, it is luring."
 
-- 付惟无虑而易敌者，必擒于人
+- "Those who are carefree and underestimate the enemy will surely be captured by others."
 
-- （《尉缭子 - 兵令下》）臣闻古之善用兵者，能杀士卒之半，其次杀其十三，其下杀其十一。能杀其半者，威加海内；杀十三者，力加诸侯；杀十一者，令行士卒
+- (From "Wei Liaozi - Military Orders") "I have heard that ancient good commanders could kill half of the enemy's soldiers, next best would kill a third, and the least would kill a tenth. Those who could kill half would command awe within the empire; those killing a third would exert power over feudal lords; those killing a tenth would have their orders followed by the soldiers."
 
-- （《左传 - 襄公三十一年》）且年未盈五十，而谆谆焉如八九十者，弗能久也
+- (From "Zuo Zhuan - Year 31 of Duke Xiang") "Moreover, he is not yet fifty but behaves as if he is in his eighties or nineties, he will not last long."
 
-- （《左传 - 僖公二十二年》）国无小，不可易也
+- (From "Zuo Zhuan - Year 22 of Duke Xi") "A state, no matter how small, should not be underestimated."
 
-- 夫地形者，兵之助也
+- "Terrain is an aid to the army."
 
-- 料敌制胜，计险恶远近，上将之道也
+- "Estimating the enemy to achieve victory, considering the perils of distance and proximity, is the way of the superior general."
 
-- 战道必胜，主曰无战，必战可也；战道不胜，主曰必战，无战可也。
+- "If the way of battle is certain of victory, the ruler says there is no battle, yet battle can occur; if the way of battle is not certain of victory, the ruler says to battle, yet no battle can occur."
 
-- 进不求名，退不避罪，唯人是保，而利合于主，国之宝也
+- "Advance not seeking fame, retreat not avoiding blame, the foremost concern is the safety of the people, and benefits align with the ruler, the treasure of the state."
 
-- 视卒如婴儿，故可与之赴深谿；视卒如爱子，故可与之俱死；厚而不能使，爱而不能令，乱而不能治，譬若骄子，不可用也
+- "Regard your troops as your children, and they will follow you into the deepest valleys; look upon them as your beloved sons, and they will stand by you even unto death."
 
-- （《左传》）威克其爱，虽少必济；爱加其威，虽多必败
+- (From "Zuo Zhuan") "Authority subdues their beloved, though few, they must succeed; love added to authority, though many, must fail."
 
-- 知吾卒之可以击，而不知敌之不可击，胜之半矣；知敌之可击，而不知吾卒之不以可击，胜之半矣；知敌之可击，知吾卒之可以击，而不知地形之不可以战，胜之半也。故知兵者，动而不迷，举而不穷。故曰：知己知彼，胜乃不殆；知天知地，胜乃不穷
+- "Knowing my troops can strike but not knowing the enemy cannot be struck, half the victory is achieved; knowing the enemy can be struck but not knowing my troops cannot strike, half the victory is achieved; knowing the enemy can be struck, knowing my troops can strike, but not knowing the terrain is not conducive to battle, half the victory is achieved. Thus, those who know warfare move without confusion and act without exhaustion. Therefore, it is said: knowing oneself and the enemy, victories are not endangered; knowing heaven and earth, victories are inexhaustible."
 
-- 孙子曰：用兵之法：有散地、有轻地、有争地、有交地、有衢地、有重地、有圮地、有围地、有死地。诸侯自战其地，为散地；入人之地而不深者，为轻地；我得则利，彼得亦利者，为争地；我可以往，彼可以来者，为交地；诸侯之地三属，先至而得天下众者，为衢地；入人之地深，背城邑多者，为重地，行山林、险阻、沮泽，凡难行之道者，为圮地；所由入者隘，所从归者迂，彼寡可以击吾众者，为围地；疾战则存，不疾战则亡者，为死地
+- "Sun Tzu said: In the use of troops, there are nine kinds of situations: Dispersive ground, light ground, contentious ground, open ground, intersecting highways, serious ground, difficult ground, encircled ground, and death ground."
 
-- 散地则无战，轻地则无止，争地则无攻，交地则无绝，衢地则合交，重地则掠，圮地则行，围地则谋，死地则战
+- "On dispersive ground, do not fight; on light ground, do not stop; on contentious ground, do not attack; on open ground, do not cut off; on intersecting highways, join forces; on serious ground, plunder; on difficult ground, keep going; on encircled ground, plan; on death ground, fight."
 
-- 地无泉井、畜牧、采樵者，为绝地。绝地无留
+- "Land without springs, pasture, or wood gathering is cut off. On cut-off ground, do not linger."
 
-- 困而不谋者穷，穷而不战者亡
+- "Those who are cornered without strategy are impoverished; impoverished and not battling are annihilated."
 
-- 所谓古之善用兵者，能使敌人前后不相及，众寡不相恃，贵贱不相救，上下不相收
+- "The so-called ancient good use of troops enabled making the enemy's reinforcements unable to meet, neither relying on their numbers nor their elites to come to aid."
 
-- 兵之情主速
+- "The essence of military operations is speed."
 
-- 掠于饶野，三军足食
+- "Foraging in rich fields, the army has sufficient food."
 
-- 兵士甚陷则不惧，无所往则固，深入则拘，不得已则斗
+- "Soldiers in deep formation are fearless, with nowhere else to go they must fight; when deeply engaged, they are restricted; when without choice, they battle."
 
-- 率然者，常山之蛇也，击其首则尾至，击其尾则首至，击其中则首尾俱至
+- "Being impulsive is like the snake of Mount Chang: strike its head, and its tail arrives; strike its tail, and its head arrives; strike at the center, and both head and tail arrive."
 
-- 愚士卒之耳目，使之无知；易其事，革其谋，使人无识；易其居，迂其途，使人不得虑
+- "Blind the soldiers’ eyes and ears to make them ignorant; change their tasks and alter their plans so they are unrecognizable; change their quarters and confuse their paths so they cannot anticipate."
 
-- 是故不知诸侯之谋者，不能预交；不知山林、险阻、沮泽者，不能行军；不用乡导者，不能得地利
+- "Therefore, not knowing the plans of the princes cannot prepare alliances; not knowing the mountains, forests, dangerous defiles, and marshes cannot conduct a march; not employing local guides cannot take advantage of the terrain."
 
-- 施无法之赏，悬无政之令，犯三军之众，若使一人
+- "Implement rewards without fixed standards, enact commands without governance, facing the mass of the three armies as if directing one person."
 
-- 投之亡地然后存，陷之死地然后生
+- "Thrust them into desperate ground, then they will survive; trap them in deadly ground, then they will live."
 
-- 始如处女，敌人开户；后如脱兔，敌不及拒
+- "Begin timidly like a maiden, until the enemy gives you an opening; afterward move swiftly like a escaping rabbit, so the enemy cannot resist."
 
-- 行火必有因，烟火必素具。发火有时，起火有日
+- "Fires must have a source, smoke and fire must be prepared in advance. The ignition of a fire has its timing, the starting of a fire has its day."
 
-- 昼风久，夜风止
+- "Day winds last long, night winds stop."
 
-- 以火佐攻者明，以水佐攻者强。水可以绝，不可以夺
+- "Using fire to support an attack is wise, using water to support an attack is strong. Water can cut off, but it cannot rob."
 
-- 夫战胜攻取，而不修其功者，凶，命曰“费留”
+- "If one fights and conquers but does not manage his achievements, it is disastrous; this is called 'costly delay.'"
 
-- 主不可怒而兴师，将不可以愠致战
+- "A ruler should not start an army in anger, a general should not engage in battle out of spite."
 
-- 合于利而动，不合于利而止
+- "Act when it is beneficial, stop when it is not."
 
-- 怒可以复喜，愠可以复悦，亡国不可以复存，死者不可以复生
+- "Anger can turn to joy, irritation can be replaced with delight, a ruined state cannot be restored, the dead cannot be brought back to life."
 
-- 故明君贤将，所以动而胜人，成功出于众者，先知也
+- "Therefore, wise rulers and capable generals win before they move and their successes exceed those of the multitude, through foreknowledge."
 
-- 故三军之事，莫亲于间，赏莫厚于间，事莫密于间。非圣智不能用间，非仁义不能使间，非微妙不能得间之实
+- "Of all military pursuits, none is more intimate than espionage; no rewards are more richly deserved than those for espionage, no affairs are more confidential than those of espionage. Without saintly wisdom, you cannot use espionage; without righteousness, you cannot employ espionage; without subtlety, you cannot get the truth of espionage."
 
-- 昔殷之兴也，伊挚在夏；周之兴也，吕牙在殷
+- "When Yin rose, Yi Zhi was in Xia; when Zhou rose, Lü Ya was in Yin."
 
 ## The Book of Lord Shang
 
