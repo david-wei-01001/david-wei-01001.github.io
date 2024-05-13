@@ -13,7 +13,10 @@ toc:
   sidebar: left
 ---
 
-[Excerpts in Its Original Language](https://david-wei-01001.github.io/blog/2024/CNExcerpt/) | [Translated to English](https://david-wei-01001.github.io/blog/2024/ENExcerpt/)
+[Excerpts in Its Original Language](https://david-wei-01001.github.io/blog/2024/CNExcerpt/) 
+
+[Translated to English](https://david-wei-01001.github.io/blog/2024/ENExcerpt/)
+
 
 ---
 
