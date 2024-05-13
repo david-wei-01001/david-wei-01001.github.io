@@ -36,6 +36,12 @@ Most of the books I read are Chinese, so be prepared for a new language。
 
 ## An Inquiry into the Nature and Causes of The Wealth of Nations
 
+<div class="row">
+    <div  style="text-align: center;">
+        {% include figure.liquid loading="eager" path="assets/img/adam.jpg" title="example image" class="img-fluid rounded z-depth-1" max-width="50%" %}
+    </div>
+</div>
+
 - It is the great multiplication of the productions of all the different arts, in consequence of the division of labour, which occasions, in a well-governed society, that universal opulence which extends itself to the lowest ranks of the people.
 
 - It is the great multiplication of the productions of all the different arts, in consequence of the division of labour, which occasions, in a well-governed society, that universal opulence which extends itself to the lowest ranks of the people.
@@ -63,6 +69,12 @@ Most of the books I read are Chinese, so be prepared for a new language。
 - 
 
 ## 巴菲特致股东的信：投资者与高管教程
+
+<div class="row">
+    <div  style="text-align: center;">
+        {% include figure.liquid loading="eager" path="assets/img/buffet.jpg" title="example image" class="img-fluid rounded z-depth-1" max-width="50%" %}
+    </div>
+</div>
 
 - 在一场理智竞赛中，如果你的对手被教育说思考纯属浪费精力，还有什么比这能使你更具优势呢？
 
@@ -616,7 +628,7 @@ Most of the books I read are Chinese, so be prepared for a new language。
 
 <div class="row">
     <div  style="text-align: center;">
-        {% include figure.liquid loading="eager" path="assets/img/stock1.jpg" title="example image" class="img-fluid rounded z-depth-1" max-width="50%" %}
+        {% include figure.liquid loading="eager" path="assets/img/laozi1.jpg" title="example image" class="img-fluid rounded z-depth-1" max-width="50%" %}
     </div>
 </div>
 
