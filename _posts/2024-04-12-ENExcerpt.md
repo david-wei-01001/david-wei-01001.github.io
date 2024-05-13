@@ -600,116 +600,116 @@ Excerpts from other languages are translated, so they may not be accurate
 
 ## LaoZi
 
-- 道可道，非常道；名可名，非常名
+- "The way that can be spoken of is not the constant way; the name that can be named is not the constant name."
 
-- 无，名天地之始；有，名万物之母
+- "The nameless is the beginning of heaven and earth; the named is the mother of all things."
 
-- 故常无，欲以观其妙；常有，以观其徼
+- "Therefore, always without desire, you see its subtlety; always having desire, you see only its manifestations."
 
-- （《河上公章句》）常名，当如婴儿之未言，鸡子之未分，明珠在蚌中，美玉处石间。内虽昭昭，外如愚顽
+- (From "Commentary by Heshang Gong") "A constant name should be like a newborn who has not yet spoken, an unhatched chick, a pearl hidden in a clam, precious jade buried in a rock. Though internally clear, outwardly it appears foolish."
 
-- 天下皆知美之为美，斯恶已；皆知善之为善，斯不善已
+- "When everyone in the world knows beauty as beauty, ugliness arises; when everyone knows goodness, wickedness arises."
 
-- 有无相生，难易相成，长短相形，高下相盈，音声相和，前后相随
+- "Being and non-being produce each other, difficult and easy complete each other, long and short form each other, high and low depend on each other, note and voice harmonize with each other, front and back follow each other."
 
-- 是以圣人处无为之事，行不言之教，万物作焉而不辞
+- "Therefore the sage manages affairs without action and spreads doctrines without words."
 
-- 生而不有，为而不恃，功成而弗居
+- "All things work, and none is refused. They produce but do not own; they act but do not presume; they succeed but do not dwell on success."
 
-- 夫惟不居，是以不去
+- "It is because he does not dwell on success that it never goes away."
 
-- 不尚贤，使民不争；不贵难得之或，使民不为盗；不见可欲，使民心不乱
+- "Do not exalt the worthy, so that the people shall not compete; do not value rare treasures, so that the people shall not steal; do not display objects of desire, so that people's hearts will not be disturbed."
 
-- 是以圣人之治，虚其心，实其腹；弱其志，强其骨
+- "Thus the governance of the sage empties their hearts, fills their bellies, weakens their ambitions, and strengthens their bones."
 
-- 常使民无知无欲，使夫智者不敢为也
+- "He constantly causes the people to be without knowledge and without desires. If he can keep those with knowledge from daring to act, then nothing will be ungoverned."
 
-- 道冲，用之而弗盈，渊兮似万物之宗
+- "The Tao is empty yet inexhaustible, deep like the ancestor of all things."
 
-- 挫其锐，解其纷，和其光，同其尘。湛兮似或存
+- "Blunt the sharpness, untangle the knot, soften the glare, merge with dust."
 
-- （王弼）夫执一家之量者，不能全家；执一国之量者，不能成国；穷力举重，不能为用
+- (By Wang Bi) "Those who insist on a limited view cannot maintain their household; those who insist on a limited governance cannot achieve a nation. Those who exert force to lift heavy weights cannot sustain their strength for use."
 
-- （王弼）地守其形，德不能过其载; 天怀其像，德不能过其覆
+- (By Wang Bi) "The earth maintains its form, and virtue cannot exceed its capacity; heaven contains its images, and virtue cannot exceed its covering."
 
-- 天地不仁，以万物为刍狗；圣人不仁，以百姓为刍狗
+- "Heaven and earth are not benevolent; they regard all things as straw dogs. The sage is not benevolent; he regards the people as straw dogs."
 
-- 虚而不屈，动而俞出。多言数穷，不如守中
+- "Be empty, yet undiminished; be active, yet ever calm. Much speech leads inevitably to silence. Better to hold fast to the void."
 
-- （王弼）圣人与天地合其德
+- (By Wang Bi) "The sage is in harmony with heaven and earth."
 
-- （《河上公章句》）多事害神，多言害身；口开舌举，必有祸患
+- (From "Commentary by Heshang Gong") "Excessive deeds damage the spirit; excessive words harm the body. When the mouth opens and the tongue moves, trouble is inevitable."
 
-- 天地所以能长且久者，以其不自生，故能长生
+- "The reason why heaven and earth can last and endure is that they do not live for themselves; thus they can live forever."
 
-- 是以圣人后其身而身先，外其身而身存
+- "Therefore the sage puts himself last, and yet he is found in the foremost place; he treats his person as if it were foreign to him, and yet that person is preserved."
 
-- 上善若水。水善利万物而不争，处众人之所恶，故几于道
+- "Supreme goodness is like water. Water greatly benefits all things without conflict, lives where most dislike, thus it is almost like the Tao."
 
-- （《河上公章句》）水在天为雾露，在地为泉源
+- (From "Commentary by Heshang Gong") "Water is mist and dew in heaven, and springs and sources on earth."
 
-- 功成，名遂，身退，天之道也
+- "Achievements fulfilled, fame established, withdraw - this is the Tao of heaven."
 
-- （苏辙）日中则移，月满则亏，四时之运，功成者去
+- (By Su Zhe) "The sun at its zenith declines, the moon at its full wanes, the seasons move, those who have achieved depart."
 
-- 生之，蓄之，生而不有，为而不恃，长而不宰，是为玄德
+- "To produce things and to rear them, to produce but not to own, to act but not to rely, to grow but not to rule, this is called mysterious virtue."
 
-- 有之以为利，无之以为用
+- "To have something is to use it, to have nothing is to employ it."
 
-- 五色令人目盲，五音令人耳聋，五味令人口爽，驰骋畋猎令人心发狂，难得之货令人行妨
+- "The five colors blind the eyes, the five tones deafen the ears, the five flavors dull the taste, racing and hunting madden the mind, rare goods impede one’s progress."
 
-- 是以圣人为腹不为目
+- "Thus the sage is for the belly, not for the eye."
 
-- 宠辱若惊，贵大患若身
+- "Honor and disgrace cause alarm; regard great trouble as you regard your body."
 
-- （苏辙）遗宠而辱不及，亡心身而患不至
+- (By Su Zhe) "Leaving favor and not being disgraced is like not reaching, forgetting the body and not encountering trouble."
 
-- 执古之道，以御今之有。能知古始，是为道纪
+- "Adhering to the ancient way to manage the present. Those who can know the ancient beginnings are called the record keepers of the Tao."
 
-- 豫兮若冬涉川，犹兮若畏四邻，俨兮其若客，涣兮其若释，敦兮其若朴，旷兮其若谷，混兮其若浊
+- "Reserved as if crossing a winter stream, cautious as if fearing all around, solemn as if guests, dispersing as if ice melts, simple as if blocks of wood, open as if valleys, and murky as if muddled waters."
 
-- 孰能浊以静之徐清？孰能安以动之徐生？
+- "Who can stir up mud and by resting make it gradually clear? Who can secure peace and through movement make it gradually come to life?"
 
-- 夫唯不盈，故能弊不新成
+- "Only those who keep to the not-full can renew their freshness."
 
-- 复命曰常，知常曰明。不知常，妄作凶
+- "Reversing your destiny is called the constant; knowing the constant is called enlightenment. Not knowing the constant, one recklessly causes disasters."
 
-- 知常容，容乃公，公乃全，全乃天，天乃道，道乃久，没身不殆
+- "Knowing the constant allows, allowing leads to impartiality, impartiality leads to the royal, the royal leads to heaven, heaven leads to the Tao, the Tao endures. Your body dies, but there is no danger."
 
-- 太上，不知有之；其次，亲而誉之；其次畏之；其次，侮之。信不足焉，有不信焉。悠兮，其贵言。功成事遂，百姓皆谓“我自然”
+- "The best are not known to exist; next they are loved and praised; next they are feared; next they are despised. If one does not trust enough, one finds no trust. Reluctant, he values his words. When his task is accomplished and his work done, the people say, 'It happened to us naturally.'"
 
-- 大道废，有仁义；智慧出，有大伪；六亲不和，有孝慈；国家昏乱，有忠臣
+- "When the Great Tao is abandoned, there is benevolence and righteousness; when wisdom and intelligence arise, there is great falsehood; when family relations are not harmonious, there is filial piety and parental affection; when the state is in chaos, loyal ministers appear."
 
-- （《庄子》）涸泽之鱼，相吻以沫，相濡以湿，不如相忘于江湖
+- (From "Zhuangzi") "Fish in drying ponds kiss each other with moisture, moisten each other with saliva, better forget each other in rivers and lakes."
 
-- 绝圣弃智，民利百倍；绝仁弃义，民复孝慈；绝巧弃利，盗贼无有
+- "Renounce sanctity, discard wisdom, and the people will benefit a hundred times; renounce benevolence, discard righteousness, and the people will return to filial piety and love; renounce ingenuity, discard profit, and there will be no thieves or robbers."
 
-- 见素抱朴，少私寡欲，绝学无忧
+- "See simplicity, embrace purity, reduce selfishness, decrease desires, renounce learning, and you will be without worries."
 
-- （苏辙）我无为而民自化，我好静而民自正，我无事而民自富，我无欲而民自朴
+- (By Su Zhe) "I do nothing and the people transform themselves; I love quiet and the people right themselves; I do no business and the people prosper themselves; I have no desires and the people simplify themselves."
 
-- 俗人昭昭，我独昏昏；俗人察察，我独闷闷
+- "Ordinary people are bright, I alone am muddled. Ordinary people are scrutinizing, I alone am dull."
 
-- 绝学无忧
+- "Renounce learning and there will be no worries."
 
-- 唯之与阿，相去几何？善之与恶，相去何若？
+- "The difference between yes and no is how little? What difference between good and evil?"
 
-- 曲则全，枉则直，洼则盈，敝则新，少则得，多则惑，是以圣人抱一为天下式
+- "What is bent will be whole, what is warped will be straight, what is hollow will fill up, what is worn will be new. Having little, you can receive much. Having much, you are confused. Therefore the sage holds to the one as the model for the world."
 
-- 不自见，故明；不自是，故彰；不自伐，故有功；不自矜，故长
+- "Not displaying himself, he shines; not justifying himself, he is distinguished; not boasting, he receives recognition; not bragging, he never wanes."
 
-- 夫唯不争，故天下莫能与之争
+- "By not contending, no one in the world can contend with him."
 
-- 希言自然
+- "Rare words are natural."
 
-- （苏辙）道之出口，淡乎其无味，视之不足见，听之不足闻，用之不可既
+- (By Su Zhe) "The way that is expressed in words is tasteless, it cannot be seen, it cannot be heard, but it cannot be exhausted."
 
-- 飘风不终朝，骤雨不终日
+- "Morning winds don't last, sudden rains don't last all day."
 
-- 故从事于道者同于道，德者同于德，失者同于失。同于道者，道亦乐得之；同于德者，德亦乐得之；同于失者，失亦乐得之。
+- "Thus, those who proceed in the way are aligned with the Tao, those who attain virtue are aligned with virtue, those who lose are aligned with loss. Those aligned with the Tao, the Tao also is pleased to gain them; those aligned with virtue, virtue also is pleased to gain them; those aligned with loss, loss also is pleased to gain them."
 
-- 企者不立，跨者不行
+- "Those who stand on tiptoes do not stand firmly. Those who take long strides do not walk easily."
 
-- 大曰逝，逝曰远，远曰反
+- "Greatness moves away, Moving away is distant, distant is returning."
 
-- 人法地，地法天，天法道，道法自然
+- "Man models Earth, Earth models Heaven, Heaven models the Way, and the Way models nature."
