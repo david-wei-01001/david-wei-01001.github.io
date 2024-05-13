@@ -3,7 +3,7 @@ layout: post
 title: Book Excerpts
 date: 2024-04-11 11:31:00
 description: This includes my excerpts, many of which are in Chinese
-featured: true
+featured: false
 tags: excerpts images literature
 thumbnail: assets/img/AR1.jpg
 images:
@@ -155,85 +155,84 @@ Excerpts from other languages are translated, so they may not be accurate
     </div>
 </div>
 
-- 如果你的行动是合理的，你肯定会得到良好的结果，在绝大多数情况下，杠杆只会加速事情的运动
+- "If your actions are reasonable, you are bound to get good results; in most cases, leverage merely accelerates the motion of things."
 
-- 杠杆这个东西是会让人上瘾的，一旦你奇迹般的获利，很少有人会愿意再回到从前保守的状态
+- "Leverage is addictive; once you miraculously profit from it, few people are willing to return to their previous conservative state."
 
-- 现金和信用就像氧气，当他们充足时，人们不会注意到他们的存在，当他们消失的时候，人们才会发现他们的重要性
+- "Cash and credit are like oxygen; when abundant, people don't notice their presence, but their importance is realized only when they are gone."
 
-- 黄金有两大缺点：没有太多用处，也不能自我繁殖
+- "Gold has two major drawbacks: it's not very useful, and it can't reproduce itself."
 
-- 当我们听到人人在说现金为王时，恰恰是应该动用现金而不是持有现金的时候；当我们听到人人在说现金是垃圾时，那个时候固定收益类产品正处在我们记忆中回报最具吸引力的时代
+- "When we hear everyone saying 'cash is king', that is exactly the time to deploy cash, not hold it; when everyone says cash is trash, that is the era when fixed-income products are the most attractive we can remember."
 
-- 最为理想的投资资产应该是这样的：这类资产再要求很少的新资本再投入的情况下，依然能在通货膨胀期间提供维持其购买力价值的产出
+- "The ideal investment asset should be one that continues to provide an output that preserves its purchasing power during inflation with very little need for new capital investment."
 
-- 股价下跌对我们有利，股价上升对我们有害
+- "Falling stock prices benefit us, rising stock prices harm us."
 
-- 我们喜欢在悲观的环境中做生意，不是因为我们喜欢悲观主义，而是因为我们喜欢悲观主义带来的价格。对于理性的买家而言，乐观主义才是敌人
+- "We like doing business in a pessimistic environment, not because we like pessimism, but because we like the prices it brings. For a rational buyer, optimism is the enemy."
 
-- 当然这并不意味着仅仅因为企业或股票不受欢迎而购买它们就是一种正确的行为。这种想法同样也是一种随大流的愚蠢策略。这里所要求的是独立思考，不是人云亦云
+- "Of course, this doesn't mean that merely because a business or stock is unpopular, buying them is the right action. Such an idea is also a foolish following of the crowd. What is required here is independent thought, not echoing others."
 
-- 大多数人宁愿去死也不愿思考
+- "Most people would rather die than think."
 
-- 商场上到处布满坑洞，一个要求避开所有坑洞的商业计划本身就是一个灾难
+- "The business world is full of pitfalls, and a business plan that demands avoiding all pitfalls is itself a disaster."
 
-- 智者开头，愚者结尾
+- "The wise initiate, the foolish conclude."
 
-- 零息债券的付息方式形成了这样一条原则：如果你郑重承诺在很长一段时间分文不付，那么在很长一段时间你就不会违约
+- "The payment method of zero-coupon bonds establishes this principle: if you solemnly promise not to pay a penny for a long time, then you will not default for a long time."
 
-- 即便一个高中辍学的学生也知道，如果借钱买车，他的收入不仅必须覆盖借款的利息和汽车的运行成本，还必须覆盖计算出来的真实折旧。如果他在银行借款时大谈EBDIT，他会在一片嘲讽中狼狈而逃
+- "Even a high school dropout knows that if you borrow money to buy a car, your income must not only cover the interest on the loan and the running costs of the car, but also the true depreciation calculated. If he talks about EBITDA when borrowing from the bank, he would flee amid derision."
 
-- 在发行债券时，投资银行家们展现出他们幽默的一面，对于那些仅仅是几个月前刚刚听说过的公司，他们能展示出这些公司未来5年甚至更多年份的财务数据，损益表，和资产负债表
+- "When issuing bonds, investment bankers show their humorous side by presenting financial data, income statements, and balance sheets for the next five years or more for companies they had only heard about a few months ago."
 
-- （被挪用的资金）在没有被发现之前，挪用钱款的人因侵吞而变得富有，而被挪用钱款的人也没有感到贫穷，这笔被盗用的财富应该加到国民财富中，以便我们知晓精神上的国民财富
+- "(On misappropriated funds) Before being discovered, the person who misappropriates the funds becomes rich by embezzlement, and the person from whom the funds are misappropriated does not feel poor. This stolen wealth should be added to the national wealth so that we understand the mental wealth of the nation."
 
-- （讽刺的说）从逻辑上讲，一个需要感受巨大繁荣的社会，既应该鼓励其公民挪用，又努力避免被发现。通过这种形式，即便没有富有成效的工作付出，财富也会膨胀
+- "(Sarcastically) Logically, a society that needs to feel huge prosperity should encourage its citizens to misappropriate funds and also strive to avoid being discovered. In this way, even without productive work, wealth will inflate."
 
-- 愚蠢的价格总是能吸引卖家
+- "Foolish prices always attract sellers."
 
-- 交易是金融的母乳
+- "Trading is the lifeblood of finance."
 
-- 错误往往在决策的时候发生
+- "Mistakes often happen at the time of decision."
 
-- 破产法院已经成为航空公司的疗养胜地
+- "Bankruptcy courts have become the sanatoriums of airlines."
 
-- 在衍生品业务中犯的错误是不对称的。他们几乎总是有利于那些眼睛盯着数百万奖金的交易员，或者有利于希望爆出引人注目盈利的CEO，或者两者兼有
+- "The mistakes made in derivatives are asymmetrical. They almost always favor traders eyeing millions in bonuses, or CEOs hoping to report eye-catching profits, or both."
 
-- 历史告诉我们，一个引发问题的危机经常是在宁静时刻由一连串意想不到的事件引发的
+- "History tells us that a crisis that causes problems is often triggered during a calm period by a series of unexpected events."
 
-- 当芒格和我阅读大型银行衍生业务长长的说明时，我们唯一能明白的是，我们根本不晓得这些机构到底承担了多少风险
+- "When Munger and I read the lengthy disclosures of major banks' derivatives, the only thing we can understand is that we really don't know how much risk these institutions are taking on."
 
-- 当一个问题发生时，无论是个人生活还是商业活动，行动的最佳时机就是马上行动
+- "When a problem occurs, whether in personal life or business, the best time to act is immediately."
 
-- 在了解你之前，我喜欢你更多
+- "I liked you more before I knew you."
 
-- 预言家的墓地中，有一大半躺的都是宏观分析师
+- "The graveyard of prophets is filled mostly with macro analysts."
 
-- 股票回购的发生应该满足两个条件：首先，一家公司有充足的现金以备运营和流动性之需，其次，股价远低于保守计算的内在价值
+- "Stock buybacks should meet two conditions: first, a company must have ample cash for operations and liquidity needs; second, the stock price must be far below a conservatively estimated intrinsic value."
 
-- 并不是说一句回购是为了抵消股票发行带来的稀释影响，或仅仅是因为一家公司有了多余的现金，我们就一定要进行回购。除非回购价格低于内在价值，那些继续留下来的股东就会受到伤害
+- "It's not just about saying that buybacks are to offset the dilutive impact of stock issuance, or just because a company has surplus cash, that we should buy back shares. Unless the buyback price is below intrinsic value, those shareholders who remain will be harmed."
 
-- 资本配置的第一准则往往是，在一个价格上你是聪明的，但是在另一个价格上你可能是愚蠢的
+- "The first rule of capital allocation often is that you may be smart at one price but foolish at another."
 
-- 那些因非价值因素而买进的人，同样会因非价值因素而卖出
+- "Those who buy for non-value reasons will also sell for non-value reasons."
 
-- 经纪商们为那些换手量巨大的公司大唱赞美诗，他们不能填满你的口袋，但能填满你的耳朵
+- "Brokers sing praises for companies with huge turnover; they can't fill your pockets, but they can fill your ears."
 
-- 对于赌场管理员有利的事情，未必对客户也有利
+- "What's beneficial for the casino manager may not necessarily benefit the clients."
 
-- 过度活跃的股市是企业的扒手
+- "An overly active stock market is a pickpocket to businesses."
 
-- 亚当斯密认为，在一个自由市场中，各种非合谋的行为会被一只无形之手所引导，引导经济最优化的进步；我们的观点是在赌场一般的市场中，沉不住气的投资管理层扮演了一只无形之脚，不断给向前的经济使绊子，减缓了经济发展
+- "Adam Smith believed that in a free market, various non-collusive actions are guided by an invisible hand towards the optimization of economic progress; our view is that in a casino-like market, impatient investment managers play an invisible foot, constantly tripping up the forward-moving economy, slowing down economic development."
 
-- 诺亚法则：重要的事是建造方舟，而不是预测大雨
+- "Noah's rule: The important thing is to build the ark, not to predict the rain."
 
-- 你不应该用被估值成铅的金子，去买被估值成金子的金子
+- "You shouldn't use gold valued as lead to buy gold valued as gold."
 
-- 不要问理发师是否需要理发
+- "Don't ask a barber if you need a haircut."
 
 
-
-## 孙子兵法
+## The Art of War
 
 <div class="row">
     <div>
@@ -241,147 +240,139 @@ Excerpts from other languages are translated, so they may not be accurate
     </div>
 </div>
 
-- 兵者，国之大事，死生之地，存亡之道，不可不察也
+- "Warfare is a matter of vital importance to the state; it is a matter of life and death, a road either to survival or to ruin. Hence, it is imperative that it be thoroughly studied."
 
-- 五事：道、天、地、将、法
+- "The five elements: moral influence, weather, terrain, command, and doctrine."
 
-- 七计：主孰有道？将孰有能？天地孰得？法令孰行？兵众孰强？士卒孰练？赏罚孰明？吾以此知胜负矣
+- "The seven considerations: Who has the moral influence? Who has the ability? Who has the advantage of heaven and earth? Whose discipline is effective? Whose troops are stronger? Whose officers and men are more trained? Who administers rewards and punishments more clearly? From these, I can predict success or failure."
 
-- 将者，智、信、仁、勇、严也
+- "The general must possess wisdom, sincerity, benevolence, courage, and strictness."
 
-- 势者，因利而制权也
+- "Momentum is manipulating the force of the situation to your advantage."
 
-- 兵者，诡道也
+- "Warfare is the way of deception."
 
-- 能而示之不能，用而示之不用，近而示之远，远而示之近
+- "Appear where you are not expected; show weakness when you are strong, and strength when you are weak."
 
-- 利而诱之，乱而取之，实而备之，强而避之，怒而挠之，卑而骄之，佚而劳之，亲而离之
+- "Entice the enemy with bait, strike chaos, prepare against him where he is unprepared, avoid him where he is strong, irritate him, humble him, exhaust him, disunite him."
 
-- 攻其无备，出其不意
+- "Attack where he is unprepared, come at him when he does not expect it."
 
-- 夫未战而庙算胜者，得算多也；未战而庙算不胜者，得算少也
+- "Those who win without fighting are calculated in advance; their victories are not due to chance."
 
-- 凡用兵之法，驰车千驷，革车千乘，带甲十万，千里馈粮。则内外之费，宾客之用，胶漆之材，车甲之奉，日费千金，然后十万之师举矣
+- "In employing troops, when you utilize the enemy's provisions, every bushel of food taken from the enemy is equivalent to twenty you can use."
 
-- 夫兵久而国利者，未之有也
+- "When using forces, the expense of maintaining vehicles and provisions across a thousand li and feeding hundreds of thousands can be costly. Hence, swift victory is important."
 
-- 故不尽知用兵之害者，则不能尽知用兵之利也
+- "Long-lasting warfare has never benefited any country."
 
-- 取用于国，因粮于敌
+- "Therefore, those who do not know the harms of using troops cannot fully understand the benefits of using them."
 
-- 杀敌者，怒也；取敌之利者，货也
+- "The best policy is to capture the state intact; it should be destroyed only if no other options are available."
 
-- 兵贵胜，不贵久
+- "The supreme art of war is to subdue the enemy without fighting."
 
-- 凡用兵之法，全国为上，破国次之；全军为上，破军次之；全旅为上，破旅次之；全卒为上，破卒次之；全伍为上，破伍次之
+- "Military tactics involve calculations that can be compared to the crossing of a river; do not move until all the advantages are in your favor."
 
-- 是故百战百胜，非善之善者也；不战而屈人之兵，善之善者也
+- "In battle, engage the enemy in a way that conforms to the situation. If ten times the enemy's strength, surround them; if five times, attack them; if double, divide them; if equal, be able to fight them; if fewer, be able to evade them; if weaker, be able to avoid them."
 
-- 上兵伐谋，其次伐交，其次伐兵，其下攻城
+- "The ultimate skill in war is not to win a hundred victories in a hundred battles but to subdue the enemy without fighting."
 
-- 用兵之法，十则围之，五则攻之，倍则分之，敌则能战之，少则能逃之，不若则能避之
+- "One who knows when he can and cannot fight will be victorious; one who uses his men wisely will maintain morale; one who shares the same spirit throughout his ranks will stand strong; one who is prepared and waits for the unprepared will be secure; one who is capable but appears incapable will gain the advantage."
 
-- 小敌之坚，大敌之擒也
+- "Know the enemy and know yourself; in a hundred battles, you will never be defeated. When you are ignorant of the enemy but know yourself, your chances of winning or losing are equal. If ignorant both of your enemy and of yourself, you are certain to be in peril."
 
-- 知胜者有五：知可以战与不可以战者胜，识众寡之用者胜，上下同欲者胜，以虞待不虞者胜，将能而君不御者胜
+- "Those skilled in defense hide in the deepest depths of the earth; those skilled in attack move in the highest reaches of the heavens."
 
-- 知己知彼，百战不殆；不知彼而知己，一胜一负；不知彼不知己，每战必败
+- "If you know neither yourself nor your enemy, you will always endanger yourself."
 
-- 昔之善战者，先为不可胜，以待敌之可胜。不可胜在己，可胜在敌。故善战者，能为不可胜，不能使敌之可胜。故曰：胜可知，而不可为
+- "Lifting a feather is not a sign of great strength; seeing the sun and moon is not a sign of sharp sight; hearing the noise of thunder is not a sign of a keen ear."
 
-- 善守者藏于九地之下，善攻者动于九天之上
+- "Those skilled in war bring the enemy to the field of battle and are not brought there by him. They win first and then go to war, while defeated warriors go to war first and then seek to win."
 
-- 见胜不过众人之知，非善之善者也；战胜而天下曰善，非善之善者也
+- "The victorious army is like weighing a gram against a kilogram; the defeated army is like weighing a kilogram against a gram."
 
-- 举秋毫不为多力，见日月不为明目，闻雷霆不为聪耳
+- "In warfare, engage with a standard formation, win with an unexpected strategy."
 
-- 善战者之胜也，无智名，无勇功，故其战胜不忒
+- "Those who excel at employing the unexpected are as limitless as heaven and earth, as inexhaustible as the rivers and seas."
 
-- 胜兵先胜而后求战，败兵先战而后求胜
+- "The force of water is such that it can sweep away stones; such is momentum. The speed of an attacking raptor is such that it can break its prey; such is timing."
 
-- 胜兵若以镒称铢，败兵若以铢称镒
+- "The wise warrior seeks the battle through the momentum of the situation, not demanding perfection from individuals, thus he can select the capable and position them where they can succeed."
 
-- 凡战者，以正合，以奇胜
+- "Those who arrive first on the battlefield rest and wait for the enemy; those arriving late are exhausted by the rush to battle."
 
-- 善出奇者，无穷如天地，不竭如江河
+- "The skilled warrior drives others; he is not driven by them."
 
-- 激水之疾，至于漂石者，势也；鸷鸟之疾，至于毁折者，节也
+- "Appear where the enemy does not expect, and attack where they are unprepared."
 
-- 善战者，求之于势，不责于人，故能择人而任势
+- "Subtlety upon subtlety, until you are formless; mystery upon mystery, until you are silent."
 
-- 凡先处战地而待敌者佚，后处战地而趋战者劳
+- "When I wish to fight, even though the enemy has high walls and deep moats, they cannot help but fight if I attack where they must come to their rescue; when I do not wish to fight, I draw a line on the ground and the enemy will not dare to engage, creating a division."
 
-- 善战者，致人而不致于人
+- "If I am formless, then the enemy cannot know me. If I am unknown, then the enemy must respond to many threats."
 
-- 出其所不趋，趋其所不意
+- "The few must prepare for the many; the many make the few prepare for themselves."
 
-- 微乎微乎，至于无形；神乎神乎，至于无声
+- "Plan and calculate to know the outcome of victory or defeat, manage to know dynamics of action, and position to know the grounds of life and death."
 
-- 我欲战，敌虽高垒深沟，不得不与我战者，攻其所必救也；我不欲战，画地而守之，敌不得与我战者，乖其所之也
+- "The ultimate in disposing of one's troops lies in their formation being without formation; being formless, spies cannot spy, wise enemies cannot plan against it."
 
-- 形人而我无形，则我专而敌分
+- "All may know the tactics whereby I conquer, but none can see the strategy out of which victory is evolved."
 
-- 寡者，备人者也；众者，使人备己者也
+- "Just as flowing water avoids the heights and hastens to the lowlands, so an army avoids strength and strikes weakness."
 
-- 策之而知得失之计，作之而知动静之理，形之而知死生之地，角之而知有余不足之处
+- "As water shapes its flow in accordance with the ground, so an army manages its victory according to the situation of the enemy."
 
-- 形兵之极，至于无形；无形，则深间不能窥，智者不能谋
+- "Water has no constant shape, there are no constant conditions in war. Those who can adapt and change in accord with the enemy and achieve victory are divine."
 
-- 人皆知我所以胜之形，而莫知我所以制胜之形
+- "The Five Elements do not always overcome each other, the Four Seasons do not have a constant position, the sun has its periods of short and long, the moon has its periods of waxing and waning."
 
-- 夫兵形像水，水之形，避高而趋下，兵之形，避实而击虚。
+- "Raising an army to fight for profit will fail; deploying an army to compete for profit will lose its support."
 
-- 水因地而制流，兵因敌而制胜
+- "An army without its baggage train is lost; without provisions, it is lost; without bases of supply, it is lost."
 
-- 兵无常势，水无常形。能因敌变化而取胜者，谓之神
+- "War is based on deception, moves as an advantage emerges, changes through dividing and reuniting."
 
-- 五行无常胜，四时无常位，日有短长，月有死生
+- "Its rapidity is like the wind, its slowness like the forest; it invades like fire, it is immovable like a mountain. It is hard to know like the dark, it strikes like thunder."
 
-- 举军而争利，则不及；委军而争利，则辎重捐
+- "(Li Jing) Rewards and punishments must be substantial and not deceitful, execution must be strict and not waived."
 
-- 军无辎重则亡，无粮食则亡，无委积则亡
+- "(Duke of Zhou) The speed of thunder does not allow time to cover the ears, the flash of lightning does not allow time to blink."
 
-- 兵以诈立，以利动，以分合为变者也
+- "When focused, the brave cannot advance alone, the cowardly cannot retreat alone; this is the method of employing the masses."
 
-- 其疾如风，其徐如林，侵略如火，不动如山，难知如阴，动如雷霆
+- "The morale of an army can be broken, and the heart of a general can be seized."
 
-- （李靖）赏罚必重而不欺，刑戮必严而不舍
+- "Face chaos with order, face noise with quiet. Avoid its cutting edge, attack its laxity."
 
-- （太公）疾雷不及掩耳，迅电不及瞬目
+- "(Military Affairs) Advance when advantageous, retreat when difficulties arise. Avoid the strong."
 
-- 人既专一，则勇者不得独进，怯者不得独退，此用众之法也
+- "Thus, the principles of warfare are: do not scale high ridges, do not fight with your back to a hill, do not follow the enemy when he feigns flight, do not attack soldiers whose spirit is keen, do not swallow bait offered by the enemy, do not obstruct a retreating army, leave an outlet free in a surrounded army, and do not press an enemy at bay."
 
-- 三军可夺气，将军可夺心
+- "(The Three Strategies) Beneath the lure, there must be hidden hooks."
 
-- 以治待乱，以静待哗。避其锐气，击其惰归
+- "There are paths not to be followed, armies not to be struck, cities not to be besieged, grounds not to be contested, and orders from the sovereign not to be obeyed."
 
-- （《军政》）见可而进，知难而退。强而避之
+- (Zhang Yu) "Let it go without any loss, conquer it without any gain."
 
-- 故用兵之法：高陵勿向，背丘勿逆，佯北勿从，锐卒勿攻，饵兵勿食，归师勿遏，围师必阙，穷寇勿迫
+- "If you are prepared everywhere, you will be weak everywhere."
 
-- （《三略》）香饵之下，必有悬鱼
+- "Therefore, the concerns of the wise are mixed with benefits and harms. Mixed with benefits, actions must be trustworthy; mixed with harms, troubles must be solvable."
 
-- 途有所不由，军有所不击，城有所不攻，地有所不争，君命有所不受
+- (Cao Cao) "Think of harm when in a beneficial situation, and think of benefit when in a harmful situation."
 
-- （张预）纵之而无所损，克之而无所利
+- (From "Strategies of Wu") "A gentleman should always be prepared for peace times, never parting from his sword."
 
-- 无所不备，则无所不寡
+- "Thus, the principles of military operations are: do not rely on the enemy not coming, but rely on our readiness to receive him; do not rely on the enemy not attacking, but rely on our position being unassailable."
 
-- 是故智者之虑，必杂于利害。杂于利，而务可信也；杂于害，而患可解也
+- (Zhao Benxue) "Though years and months may pass, it is no different from when first assembled; though through nights of pouring rain and harsh frost, there is no break as in moments when the wind is high and horses neigh. With a heart that travels ten thousand miles, vigilance does not stray from just before one's eyes."
 
-- （曹操）在利思害，在害思利
+- "A general has five dangers: if determined to die, he can be killed; if determined to live, he can be captured; if quick to anger, he can be provoked; if overly upright, he can be shamed; if compassionate, he can be harassed. An army can be defeated and its general killed if these five dangers are present."
 
-- （《吴略》）君子当安平之世，刀剑不离身
+- (Huang Shi Gong) "The brave like to follow their will; the foolish do not care about their death."
 
-- 故用兵之法，无恃其不来，恃吾有以待之；无恃其不攻，恃吾有所不可攻也
-
-- （赵本学）虽经年积月之后，无异于始集之时；虽暴雨严霜之夜，无间于风高马嘶之辰。一心周流乎万里之外，监戒不离于几席之前
-
-- 将有五危：必死，可杀也；必生，可虏也；忿速，可侮也；廉洁，可辱也；爱民，可烦也。覆军杀将，必以五危
-
-- （黄石公）勇者好行其志，愚者不顾其死
-
-- (诸葛亮）山陆之战，不升其高；水上之战，不逆其流；草上之战，不涉其深；平地之战，不逆其虚
+- (Zhuge Liang) "In mountain warfare, do not ascend to the heights; in naval combat, do not go against the current; in battle on grasslands, do not enter deep grass; in open field warfare, do not counteract when the enemy is formless."
 
 <div class="row">
     <div  style="text-align: center;">
@@ -461,7 +452,7 @@ Excerpts from other languages are translated, so they may not be accurate
 
 - 昔殷之兴也，伊挚在夏；周之兴也，吕牙在殷
 
-## 商君书
+## The Book of Lord Shang
 
 <div class="row">
     <div>
