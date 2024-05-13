@@ -13,7 +13,9 @@ toc:
   sidebar: left
 ---
 
-This will record my book excerpts
+[Original](https://david-wei-01001.github.io/blog/2024/CNExcerpt/) | [Translated](https://david-wei-01001.github.io/blog/2024/CNExcerpt/)
+
+---
 
 ## Introduction
 
