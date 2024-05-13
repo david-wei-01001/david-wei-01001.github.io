@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Book Excerpts
+title: Book Excerpts, Translated
 date: 2024-04-11 11:31:00
-description: This includes my excerpts, many of which are in Chinese
+description: This includes my excerpts, many of which are translated.
 featured: false
 tags: excerpts images literature
 thumbnail: assets/img/AR1.jpg
