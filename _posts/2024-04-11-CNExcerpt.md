@@ -167,7 +167,7 @@ Most of the books I read are Chinese, so be prepared for a new language。
 
 <div class="row">
     <div  style="text-align: center;">
-        {% include figure.liquid loading="eager" path="assets/img/stock1.jpg" title="example image" class="img-fluid rounded z-depth-1" max-width="50%" %}
+        {% include figure.liquid loading="eager" path="assets/img/buffet2.jpg" title="example image" class="img-fluid rounded z-depth-1" max-width="50%" %}
     </div>
 </div>
 
