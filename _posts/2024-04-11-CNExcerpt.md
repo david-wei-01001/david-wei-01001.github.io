@@ -13,7 +13,9 @@ toc:
   sidebar: left
 ---
 
-[Excerpts in Its Original Language](https://david-wei-01001.github.io/blog/2024/CNExcerpt/) | [Translated to English](https://david-wei-01001.github.io/blog/2024/ENExcerpt/)
+[Excerpts in Its Original Language](https://david-wei-01001.github.io/blog/2024/CNExcerpt/) 
+
+[Translated to English](https://david-wei-01001.github.io/blog/2024/ENExcerpt/)
 
 ---
 
@@ -611,6 +613,12 @@ Most of the books I read are Chinese, so be prepared for a new language。
 - 圣王治治，不治乱
 
 ## 道德经
+
+<div class="row">
+    <div  style="text-align: center;">
+        {% include figure.liquid loading="eager" path="assets/img/stock1.jpg" title="example image" class="img-fluid rounded z-depth-1" max-width="50%" %}
+    </div>
+</div>
 
 - 道可道，非常道；名可名，非常名
 
