@@ -520,7 +520,85 @@ Excerpts from other languages are translated, so they may not be accurate
 
 - "Reward the brave with what they desire; execute the cowardly with what they detest. Thus, when you use punishment on cowardly people, they become brave; when you reward brave people, they are willing to die. If cowards become brave and the brave are willing to die, the state will have no enemies it cannot conquer."
 
-## 道德经
+- "Thus, for the poor, increase punishments to make them rich; for the rich, reduce rewards to make them poor."
+
+- "A ruler punishes extensively but rewards minimally; a weakening state does the opposite."
+
+- "The desires of the people are many, but the benefits they derive are few."
+
+- "Block private ways to exhaust their ambitions, open one avenue to fulfill their desires."
+
+- "A ruler does not store up power, nor does a household accumulate excess grain."
+
+- "In a principled state, governance does not depend on the ruler's words, nor do the people follow the officials blindly."
+
+- "Land that is vast but uncultivated is as if there is no land at all; a large population unutilized is as if there are no people at all."
+
+- "If the people are ignorant, then they can be easily defeated with knowledge; if the age is knowledgeable, then they can be overcome with force."
+
+- "The Divine Farmer taught agriculture and thus ruled the world; his knowledge was his teacher. Tang and Wu exerted strength and subdued the feudal lords; they were served by their power."
+
+- "The wise do not follow ancient methods nor repair the present. Adhering to the old means lagging behind the times; fixing the present blocks the flow of progress."
+
+- "A ruler employs punishments for past transgressions and dispenses rewards for uncovering treachery."
+
+- "To have a ruler without laws is as harmful as having no ruler; to have laws that cannot overcome chaos is as good as having no laws."
+
+- "Seeking to correct faults rather than to promote good, employ penalties to eliminate the need for penalties."
+
+- "A state that can consolidate the people's efforts and unify their tasks is strong; one that focuses on fundamentals and prohibits trivialities is wealthy."
+
+- "A ruler treasures unifying the people; unified, the people are simple, simplicity leads to dedication to agriculture, dedication results in prosperity. The prosperous are restrained by ranks without decadence; the decadent are disciplined by laws and thus focus on agriculture."
+
+- "Those who can gather strength but not employ it will surely descend into chaos; those who can kill strength but not gather it will surely perish."
+
+- "Govern according to the times, legislate according to customs."
+
+- "When peers subjugate each other, it speaks of disparity in wealth; when the same entities merge, it speaks of disparities in strength; possessing land but having either a strong or weak ruler speaks of chaotic governance."
+
+- "The army of a true king triumphs without arrogance, and in defeat, does not complain. In victory without arrogance, their strategies are enlightened; in defeat without complaints, they understand their losses."
+
+- "Rewards are rich and trustworthy, punishments are severe and awe-inspiring."
+
+- "The three sovereigns were close to the world through righteousness, the five hegemons rectified the feudal lords through law."
+
+- "Wood rots when the mass is infested, and walls collapse when the gaps are too wide."
+
+- "Spring violates its agriculture, summer consumes its harvest, autumn reaps its cutting, winter freezes its protection, 'The Great Military' shakes its foundation, 'The Extensive Literature' secures its successors."
+
+- "Skillfully utilize the world’s goods to reward the people of the world. Therefore, it is said: Enlightened rewards do not waste."
+
+- "The soldiers of the three rulers, (Duke Wen of Jin) stopping them is like chopping off feet, moving them is like flowing water."
+
+- "Using war to stop war, although there is fighting, it is permissible; using killing to stop killing, although there is death, it is permissible; using punishment to stop punishment, even severe, is permissible."
+
+- "Enter their country, observe their governance, those employed are strong."
+
+- "When the people see battle, like hungry wolves seeing meat, then the people are utilized."
+
+- "Clothing is regulated, food and drink are moderate."
+
+- "Those who rely on the world, the world abandons them; those who rely on themselves, obtain the world. Those who win the world first win themselves; those who defeat strong enemies first conquer themselves."
+
+- "In a state where the people are weak, the state is strong; where the people are strong, the state is weak, thus a principled state focuses on weakening its people."
+
+- "Laws are twisted to govern chaos, and reliance on good words is excessive."
+
+- "People are to profit as water is to flowing downwards, unselectively on all sides."
+
+- "Relying on momentum, though distant, it must arrive; adhering to numerical advantage, though deep, it must be achieved."
+
+- "In matters of profit that are common yet undesirable, a father cannot question his son, a ruler cannot question his subject."
+
+- "Dismissing the wise and discarding the intelligent are methods of governance."
+
+- "What the world calls wise is the ability to correct; what allows them to correct is partisanship."
+
+- "The weight of a state and the honor of a ruler are measured by power."
+
+- "Sage kings govern governance, not chaos."
+
+## LaoZi
 
 - 道可道，非常道；名可名，非常名
 
