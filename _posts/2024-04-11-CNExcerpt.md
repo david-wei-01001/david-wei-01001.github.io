@@ -826,7 +826,7 @@ Most of the books I read are Chinese, so be prepared for a new language。
 
 - 天下有道，却走马以粪，天下无道，戎马生于郊
 
-- 祸莫大于不知足；咎莫大于欲得
+- 罪莫大于可欲；祸莫大于不知足；咎莫大于欲得
 
 - 不出户，知天下；不窥牖，见天道
 
@@ -834,7 +834,7 @@ Most of the books I read are Chinese, so be prepared for a new language。
 
 - 为学日益，为道日损，损之又损，以至于无为
 
-- 取④天下常以无事；及其有事，不足以取天下
+- 取天下常以无事；及其有事，不足以取天下
 
 - 善者，吾善之；不善者，吾亦善之，德善。信者，吾信之；不信者，吾亦信之，德信
 
