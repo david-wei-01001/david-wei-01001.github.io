@@ -107,7 +107,7 @@
       "startDate": "2020-09-01",
       "endDate": "PRESENT",
       "score": "3.99",
-      "highlights": ["Audited CSC2221: Theory of Distributed Computing", "Attend TCURC (Trinity COllege Undergraduate Research Conference"]
+      "highlights": ["Audited CSC2221: Theory of Distributed Computing", "Audited MAT344: Introduction to Combinatorics", "Attend TCURC (Trinity COllege Undergraduate Research Conference"]
     }
   ],
   "awards": [
@@ -128,12 +128,22 @@
     },
     {
       "title": "Dean’s List Scholar in the Faculty of Art & Science",
-      "date": "2022-04-31",
+      "date": "2024 Winter",
       "awarder": "University of Toronto"
     },
     {
       "title": "Dean’s List Scholar in the Faculty of Art & Science",
-      "date": "2023-04-31",
+      "date": "2023 Winter",
+      "awarder": "University of Toronto"
+    },
+    {
+      "title": "Dean’s List Scholar in the Faculty of Art & Science",
+      "date": "2022 Winter",
+      "awarder": "University of Toronto"
+    },
+    {
+      "title": "Dean’s List Scholar in the Faculty of Art & Science",
+      "date": "2021 Summer",
       "awarder": "University of Toronto"
     }
   ],
@@ -147,15 +157,28 @@
       "language": "English",
       "fluency": "Fluent",
       "icon": ""
+    },
+    {
+      "language": "French",
+      "fluency": "Beginner",
+      "icon": ""
     }
   ],
   "interests": [
+    {
+      "name": "Meditation",
+      "icon": "fa-solid fa-tag"
+    },
     {
       "name": "Reading Books",
       "icon": "fa-solid fa-tag"
     },
     {
       "name": "Cooking",
+      "icon": "fa-solid fa-tag"
+    },
+    {
+      "name": "Jogging",
       "icon": "fa-solid fa-tag"
     }
   ],
