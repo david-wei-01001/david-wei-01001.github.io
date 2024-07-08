@@ -57,7 +57,6 @@
         "Pytorch",
         "TensorFlow",
         "NumPy",
-        "CUDA",
         "Unity",
         "JavaScript",
         "React",
@@ -69,18 +68,27 @@
     }
   ],
   "work": [
-    {
-      "name": "MEDCVR Lab, University of Toronto",
-      "position": "Generative AI Researcher",
+     {
+      "name": "Department of Computer Science, University of Toronto",
+      "position": "Researcher",
       "url": "https://medcvr.utm.utoronto.ca/",
       "startDate": "2024-01-01",
       "endDate": "2024-04-20",
-      "summary": "Led Large Language Model (LLM) integration for robotics in Unity with C#, enhancing performance and adoption, and established Google Vertex AI connectivity, with regular progress presentations.",
+      "summary": "I conducted extensive research on various speculative decoding methods of LLM inference, including self-drafting vs. independent drafting, lossless vs. approximate decoding, and greedy decoding vs. speculative sampling. During this research, I explored and visualized speculative behavior by measuring metrics such as total generation time, latency, and correct speculation rate, and traced time taken and tokens generated for each iteration as potential side channels. Additionally, I developed and executed fingerprinting attacks and timing side-channel attacks using advanced machine learning techniques such as Random Forest, Bottleneck Network, and pretrained Transformers, yielding promising results. Through this process, I gained solid experience in shell programming and efficiently utilizing SLURM schedulers to load and run jobs on GPUs. I regularly prepared and presented detailed progress reports, demonstrating complex findings and advancements.",
+       "highlights": ["Large Language Models", "Robotics", "Cloud Computing", "Unity", "C#", "Prompt Design", "HTTP Clients"]
+    },
+    {
+      "name": "MEDCVR Lab, University of Toronto",
+      "position": "Robotics Researcher",
+      "url": "https://medcvr.utm.utoronto.ca/",
+      "startDate": "2024-01-01",
+      "endDate": "2024-04-20",
+      "summary": "I spearheaded the integration of LLMs as the lower-level controller and trajectory planner for robotics, ensuring fault tolerance by detecting and correcting failures midway. I designed LLM prompts and deployed LLM within Unity using C#, significantly enhanced real-time application performance. Additionally, I contributed to the LLMUnity package and led macOS testing, enhancing adoption and compatibility. I also established a seamless remote connection to the Google Vertex AI cloud platform within Unity which demonstrated innovative problem-solving. Furthermore, I regularly prepared and presented comprehensive weekly PowerPoint updates to highlight ongoing progress and key developments.",
       "highlights": ["Large Language Models", "Robotics", "Cloud Computing", "Unity", "C#", "Prompt Design", "HTTP Clients"]
     },
     {
       "name": "AIT Lab, ETH Zürich",
-      "position": "Research Assistant",
+      "position": "Volunteer Researcher",
       "url": "https://ait.ethz.ch/",
       "startDate": "2023-07-01",
       "endDate": "2023-11-01",
