@@ -92,7 +92,7 @@
       "url": "https://ait.ethz.ch/",
       "startDate": "2023-07-01",
       "endDate": "2023-11-01",
-      "summary": "Skilled in Detectron2 and FasterRCNN for object detection, adept in source code analysis and GPU resource management, I'm a self-motivated team player focused on collective goals and optimal performance.",
+      "summary": "I adopted Detectron2 and torchvision's FasterRCNN libraries for advanced object detection and computer vision projects. I was able to analyze and interpret source code to enhance problem-solving and development efficiency. I was responsible and efficient in managing GPU-accelerated server resources, ensuring fair use without compromising others' processes and maintaining optimal application performance. Additionally, I was a highly self-motivated team contributor, driven to achieve collective goals and advance project initiatives.",
       "highlights": ["Object Detection", "Robotics", "CUDA", "Detectron2", "PyTorch", "TorchVision", "GPU-accelerated server", "Collaboration"]
     },
     {
