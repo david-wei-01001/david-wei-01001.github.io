@@ -113,6 +113,39 @@
       "summary": "Expert in developing and reviewing test cases, streamlining software testing in Unity with automation, and leveraging tools for enhanced testing communication and efficiency.",
       "highlights": ["Software Testing", "Communication", "Automated Testing", "Reading design documents", "Teamwork", "TestRail", "Bridge", "Kibana"]
     }
+  ],"projects": [
+    {
+      "name": "LLM-Enhanced Robotics Manipulation",
+      "summary": "I implemented adaptive control strategies in robotics by utilizing LLMs for image understanding, significantly enhancing real-time feedback and task execution efficiency. Additionally, I developed a trajectory planning algorithm which provided fault tolerance and operational flexibility by integrating LLMs into the robot's low-level control logic to enhance decision-making capabilities and autonomous error detection and adjustments.",
+      "highlights": ["Large Lange Model", "Image Understanding", "Robotics", "Unity3D", "Decision Making", "MoveIt"],
+      "startDate": "2024-01-01",
+      "endDate": "2024-04-22",
+      "url": "https://github.com/david-wei-01001/LLM-Robotics"
+    },
+    {
+      "name": "Crypto Care",
+      "summary": "Spearheaded database architecture for CryptoCare, handling user registration, login, and real-time balance updates, while also documenting donation activities. Led UI design for the login page, wallet interface, and dashboard's donation sections. Collaborated on integrating MetaMask Ethereum transactions with balance monitoring on the Sepolia testnet. Quickly mastered JavaScript and React, delivering a sophisticated application in a 30-hour sprint with limited prior experience.",
+      "highlights": ["React", "JavaScript", "HTML5", "CSS3", "Front End", "FireBase"],
+      "startDate": "2024-04-19",
+      "endDate": "2024-04-20",
+      "url": "https://github.com/david-wei-01001/CryptoCare"
+    },
+    {
+      "name": "Multi-Style Transfer",
+      "summary": "Implemented artistic style transfer on photos using CycleGAN and NST, analyzed their stylistic effects and performance, and demonstrated expertise in PyTorch, TensorFlow, and CycleGAN architecture.",
+      "highlights": ["cycle GAN", "PyTorch", "TensorFlow", "Neural Networks", "Performance Analysis", "Computer Graphics"],
+      "startDate": "2023-01-01",
+      "endDate": "2023-04-31",
+      "url": "https://github.com/david-wei-01001/CSC413-Project"
+    },
+    {
+      "name": "Online Learning Community Software",
+      "summary": "Developed an educational platform with a focus on community and sharing, ensuring quality and reliability through test-driven development, design patterns, and thorough unit testing, managed with version control for collaborative progress.",
+      "highlights": ["Java", "Software Development", "Design Patterns", "Test Driven Design", "Unit Testing", "Communication"],
+      "startDate": "2021-09-01",
+      "endDate": "2021-12-20",
+      "url": "https://github.com/CSC207-UofT/course-project-whatev er-you-want-1.git"
+    }
   ],
   "education": [
     {
@@ -123,8 +156,8 @@
       "studyType": "undergraduate",
       "startDate": "2020-09",
       "endDate": "2025-06",
-      "score": "3.99",
-      "highlights": ["Audited 'Theory of Distributed Computing'", "Audited 'Introduction to Combinatorics'", "Attend TCURC Conference"]
+      "score": "3.99/4.00",
+      "courses": ["Audited 'Theory of Distributed Computing'", "Audited 'Introduction to Combinatorics'", "Attend TCURC Conference"]
     }
   ],
   "awards": [
@@ -199,38 +232,16 @@
       "icon": "fa-solid fa-tag"
     }
   ],
-  "projects": [
+  "volunteer": [
     {
-      "name": "LLM-Enhanced Robotics Manipulation",
-      "summary": "Enhanced robotics control with LLMs for image analysis and real-time response, advanced LLM-driven teleoperation for precision and fault tolerance, and integrated LLMs for smarter robotic autonomy.",
-      "highlights": ["Large Lange Model", "Image Understanding", "Robotics", "Unity3D", "Decision Making", "MoveIt"],
-      "startDate": "2024-01-01",
-      "endDate": "2024-04-22",
-      "url": "https://github.com/david-wei-01001/LLM-Robotics"
-    },
-    {
-      "name": "Crypto Care",
-      "summary": "Spearheaded database architecture for CryptoCare, handling user registration, login, and real-time balance updates, while also documenting donation activities. Led UI design for the login page, wallet interface, and dashboard's donation sections. Collaborated on integrating MetaMask Ethereum transactions with balance monitoring on the Sepolia testnet. Quickly mastered JavaScript and React, delivering a sophisticated application in a 30-hour sprint with limited prior experience.",
-      "highlights": ["React", "JavaScript", "HTML5", "CSS3", "Front End", "FireBase"],
-      "startDate": "2024-04-19",
-      "endDate": "2024-04-20",
-      "url": "https://github.com/david-wei-01001/CryptoCare"
-    },
-    {
-      "name": "Multi-Style Transfer",
-      "summary": "Implemented artistic style transfer on photos using CycleGAN and NST, analyzed their stylistic effects and performance, and demonstrated expertise in PyTorch, TensorFlow, and CycleGAN architecture.",
-      "highlights": ["cycle GAN", "PyTorch", "TensorFlow", "Neural Networks", "Performance Analysis", "Computer Graphics"],
-      "startDate": "2023-01-01",
-      "endDate": "2023-04-31",
-      "url": "https://github.com/david-wei-01001/CSC413-Project"
-    },
-    {
-      "name": "Online Learning Community Software",
-      "summary": "Developed an educational platform with a focus on community and sharing, ensuring quality and reliability through test-driven development, design patterns, and thorough unit testing, managed with version control for collaborative progress.",
-      "highlights": ["Java", "Software Development", "Design Patterns", "Test Driven Design", "Unit Testing", "Communication"],
-      "startDate": "2021-09-01",
-      "endDate": "2021-12-20",
-      "url": "https://github.com/CSC207-UofT/course-project-whatev er-you-want-1.git"
+      "organization": "People's Climate March",
+      "location": "Zurich, Switzerland",
+      "position": "Lead Organizer",
+      "url": "https://example.com",
+      "startDate": "2014-04-01",
+      "endDate": "2015-07-01",
+      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
+      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
     }
   ]
 }
