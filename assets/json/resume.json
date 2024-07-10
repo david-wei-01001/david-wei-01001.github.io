@@ -124,7 +124,7 @@
     },
     {
       "name": "Crypto Care",
-      "summary": "Spearheaded database architecture for CryptoCare, handling user registration, login, and real-time balance updates, while also documenting donation activities. Led UI design for the login page, wallet interface, and dashboard's donation sections. Collaborated on integrating MetaMask Ethereum transactions with balance monitoring on the Sepolia testnet. Quickly mastered JavaScript and React, delivering a sophisticated application in a 30-hour sprint with limited prior experience.",
+      "summary": "I implemented the database for the CryptoCare project, including user registration, secure login authentication, real-time wallet balance updates, and comprehensive documentation of donation activities. I also contributed to the UI design for key components, including the complete and crucial dashboard elements, by creating a beautiful and comfortable appearance with smooth animations upon changes and clicks. During this project, I rapidly mastered JavaScript and React with no prior experience, demonstrating a strong capacity for learning and applying new technologies to deliver a sophisticated and functional application. Additionally, I collaborated with teammates to implement MetaMask Ethereum transactions and balance checks on the Sepolia testnet.",
       "highlights": ["React", "JavaScript", "HTML5", "CSS3", "Front End", "FireBase"],
       "startDate": "2024-04-19",
       "endDate": "2024-04-20",
