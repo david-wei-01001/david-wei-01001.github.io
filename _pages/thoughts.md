@@ -36,7 +36,12 @@ What do you think? Which side do you stand on? Or are there any questions that p
 
 <details>
   <summary>Some Reflections on Tao</summary>
-Tao strongly influenced me, in particular stepping away from Thoughts. It is not about giving up self-motivation in any sense, it is about following the natural flow and rhythm of the universe. People love stuff, but that can't go to the extreme, and people hate stuff, and that will vanish within. People want unbounded resources and want things done immediately. I want infinite resources, I want achievements immediately. And I want no failure. But these will not happen. Not only that, but it will be painful. The more thinking, the more agony. It is the flanking of greed and despair belonging to only the individual. But that's not irresolvable. Open the eyes, and empty the mind. Look outside, look around, look at the nature. Aren't the trees wanting to grow bigger, stronger, and taller? But they know these will not happen tomorrow. Aren't buddings wish to develop into leaves, flowers, and fruits and shine under the sun? But nature has its time.
+Tao is characterized by its opposition and faintness. It is defined as this elusive object before any existence and is where everything came within. It is so strong as being the world generator, yet it is so weak as being completely imperceptible.
+
+Faintness is Tao's grand love. It is so great that it does not love anyone. This may seem strange, but if it love somebody, then that is a subset of the entirety meaning its complement will be excluded. Can you claim as big a selective love? It is faint so everything can grow under it without perception. It is neither a visible hand nor an invisible hand. It give us birth without claiming ownership, it support us living without possessing arrograncy, it grow us in maturity without dominating our fates. In this way, he acts all the time without being noticed. 
+
+Opposition of Tao, however, is strong. Everything ges to the extreme will return. It is like a gravitational field that attracts everything back to normal. The love, hate, happy, sad, excitment, bored, anger, horror that we have, no matter how strong they are, will subside. When stock price shoots to sky, it will drop. and when financial crisis hits, it will recover. Thousands years ago, China was the among the strongest country worldwide, but time would come for it to be too weak to defend itself. Back in the victorian era, sun never set on Great Britain's land, but night will inevitably fall. It is thus in our control to follow the rythme of the nature, and behave accordingly.
+
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -68,6 +73,10 @@ Things will get done, and what's wanted will be achieved. The world is sometimes
 
     </div>
 </div>
+
+</details>
+<details>
+     <summary>Some Reflections on Tao</summary>
 </details>
 
 ----------------
