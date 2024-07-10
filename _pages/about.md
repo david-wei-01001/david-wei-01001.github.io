@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Computer Science Student at the University of Toronto, Researcher at MEDCVR Lab, QA Engineer at Uken Games Inc.
+subtitle: Computer Science Student at the University of Toronto, Researcher in SysNet Group. Former Researcher in MEDCVR Lab, Ex-QA Engineer at Uken Games Inc.
 
 profile:
   align: right
