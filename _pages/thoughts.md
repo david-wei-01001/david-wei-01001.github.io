@@ -3,7 +3,7 @@ layout: page
 title: openspace
 permalink: /thoughts/
 description: Enjoy the relief from technical stuff...
-nav: false
+nav: true
 nav_order: 5
 horizontal: false
 ---
