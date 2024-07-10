@@ -73,7 +73,7 @@
       "position": "Researcher",
       "url": "https://medcvr.utm.utoronto.ca/",
       "startDate": "2024-05-01",
-      "endDate": "2024-08-31",
+      "endDate": "PRESENT",
       "summary": "I conducted extensive research on various speculative decoding methods of LLM inference, including self-drafting vs. independent drafting, lossless vs. approximate decoding, and greedy decoding vs. speculative sampling. During this research, I explored and visualized speculative behavior by measuring metrics such as total generation time, latency, and correct speculation rate, and traced time taken and tokens generated for each iteration as potential side channels. Additionally, I developed and executed fingerprinting attacks and timing side-channel attacks using advanced machine learning techniques such as Random Forest, Bottleneck Network, and pretrained Transformers, yielding promising results. Through this process, I gained solid experience in shell programming and efficiently utilizing SLURM schedulers to load and run jobs on GPUs. I regularly prepared and presented detailed progress reports, demonstrating complex findings and advancements.",
        "highlights": ["Self-driving", "Creative Problem Solving", "Comunication", "Speculative Decoding", "Data Visualization", "Side Channel Attacks", "Fine-tuing LLMs"]
     },
@@ -155,7 +155,7 @@
       "area": "Computer Science",
       "studyType": "undergraduate",
       "startDate": "2020-09",
-      "endDate": "2025-06",
+      "endDate": "PRESENT",
       "score": "3.99/4.00",
       "courses": ["Audited CSC2221: Theory of Distributed Computing", "Audited MAT344: Introduction to Combinatorics", "Attended TCURC (Trinity College Undergraduate Research Conference)", "Poster Presentiation in UGSRP Research Showcase"]
     }
