@@ -24,7 +24,7 @@ I am currently exploring potential side channel attacks on speculative decoding 
 
 Before this, I have been working on Robotics decision-making and navigation, pushing the boundaries of traditional robotics by integrating adaptive LLM strategies.
 
-When not advancing the field of AI, I savor the joy of reading and culinary explorations. Also feel free to check out my projects, where each line of code may turn a new page in tech innovation~ ^-^
+When not advancing the field of AI, I savor the joy of reading and culinary explorations. Checkout my openspace for more details and look at some of my reading reflections :） Also feel free to check out my projects, where each line of code may turn a new page in tech innovation~ ^-^
 
 Email: jiankun.wei@mail.utoronto.ca
 
