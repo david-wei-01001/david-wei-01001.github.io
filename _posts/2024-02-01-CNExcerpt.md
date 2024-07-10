@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Book Excerpts
-date: 2024-07-9 11:31:00
+date: 2024-05-01 11:31:00
 description: This includes my excerpts, many of which are in Chinese
 featured: true
 tags: excerpts images literature
