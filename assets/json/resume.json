@@ -132,7 +132,7 @@
     },
     {
       "name": "Multi-Style Transfer",
-      "summary": "Implemented artistic style transfer on photos using CycleGAN and NST, analyzed their stylistic effects and performance, and demonstrated expertise in PyTorch, TensorFlow, and CycleGAN architecture.",
+      "summary": "I implemented multi-style transfer on photographs using both CycleGAN and Neural Style Transfer (NST) and then conducted a thorough comparison of these methodologies to showcase differences in style application through detailed visuals and performance benchmarks such as SSIM, FID, and Style Consistency. In this project, I demonstrated proficiency in using PyTorch and TensorFlow frameworks and also exhibited a deep understanding of the CycleGAN architecture.",
       "highlights": ["cycle GAN", "PyTorch", "TensorFlow", "Neural Networks", "Performance Analysis", "Computer Graphics"],
       "startDate": "2023-01-01",
       "endDate": "2023-04-31",
@@ -140,7 +140,7 @@
     },
     {
       "name": "Online Learning Community Software",
-      "summary": "Developed an educational platform with a focus on community and sharing, ensuring quality and reliability through test-driven development, design patterns, and thorough unit testing, managed with version control for collaborative progress.",
+      "summary": "I engineered an online platform to foster a learning community for sharing educational materials, employing rigorous software development methodologies. In this project, I demonstrated good software development habits by writing clear and comprehensible spec documents, applying various design patterns to solve complex problems effectively, and implementing comprehensive unit testing to guarantee code quality. Additionally, I managed the project’s evolution with professional Git usage and detailed code documentation, facilitating smooth collaboration within the team and ensuring efficient progress tracking and code integration.",
       "highlights": ["Java", "Software Development", "Design Patterns", "Test Driven Design", "Unit Testing", "Communication"],
       "startDate": "2021-09-01",
       "endDate": "2021-12-20",
@@ -234,14 +234,14 @@
   ],
   "volunteer": [
     {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "organization": "University of Toronto Buddha’s Light Club",
+      "location": "Toronto, Canada",
+      "position": "Executive Member",
+      "url": "https://sop.utoronto.ca/group/university-of-toronto-buddhas-light-club/",
+      "startDate": "2022-09-10",
+      "endDate": "2023-04-20",
+      "summary": "I strategically planned and coordinated club events, enhancing community engagement and member participation. I also designed and managed engaging content for social media platforms to promote club activities and increase online presence. Additionally, I participated in weekly Buddhist worship ceremonies, deepening my cultural understanding and personal practice.",
+      "highlights": ["Leadership", "Organizational Skills", "Creative Communication", "Meditation", "Spiritual Growth"]
     }
   ]
 }
