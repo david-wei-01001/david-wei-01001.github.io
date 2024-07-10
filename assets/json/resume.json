@@ -67,7 +67,7 @@
       ]
     }
   ],
-  "work": [
+  "Experiences": [
      {
       "name": "Department of Computer Science, University of Toronto",
       "position": "Researcher",
@@ -93,7 +93,16 @@
       "startDate": "2023-07-01",
       "endDate": "2023-11-01",
       "summary": "I adopted Detectron2 and torchvision's FasterRCNN libraries for advanced object detection and computer vision projects. I was able to analyze and interpret source code to enhance problem-solving and development efficiency. I was responsible and efficient in managing GPU-accelerated server resources, ensuring fair use without compromising others' processes and maintaining optimal application performance. Additionally, I was a highly self-motivated team contributor, driven to achieve collective goals and advance project initiatives.",
-      "highlights": ["Object Detection", "Robotics", "CUDA", "Detectron2", "PyTorch", "TorchVision", "GPU-accelerated server", "Collaboration"]
+      "highlights": ["Collaboration", "Object Detection", "Robotics", "CUDA", "Detectron2", "PyTorch", "TorchVision", "GPU-accelerated server"]
+    },
+    {
+      "name": "Monk School of Global Affairs and Public Policy",
+      "position": "Researcher",
+      "url": "https://munkschool.utoronto.ca/",
+      "startDate": "2021-09-10",
+      "endDate": "2022-04-20",
+      "summary": "I conducted research to identify threats in the Chinese real estate sector, such as capital chain stresses and landlord complaints, during the Chinese Real Estate Crisis. In this research, I used Python libraries NLTK and Jieba to process Chinese text and to perform sentiment analysis to highlight emerging risks. I utilized Excel for advanced data manipulation and Python for integrating and processing datasets. By scrutinizing annual reports and using financial websites like Qichacha and East Money, I gathered critical financial insights. Finally, I was dedicated and collaborative, ensuring project success and timely delivery of insights.",
+      "highlights": ["Hardworking", "Sentiment Analysis", "Tokenization", "Annual Report"]
     },
     {
       "name": "Uken Games Inc.",
@@ -115,7 +124,7 @@
       "startDate": "2020-09",
       "endDate": "2025-06",
       "score": "3.99",
-      "highlights": ["Audited CSC2221: Theory of Distributed Computing", "Audited MAT344: Introduction to Combinatorics", "Attend TCURC (Trinity COllege Undergraduate Research Conference"]
+      "highlights": ["Audited 'Theory of Distributed Computing'", "Audited 'Introduction to Combinatorics'", "Attend TCURC Conference"]
     }
   ],
   "awards": [
