@@ -6,7 +6,7 @@ subtitle: Computer Science Student at the University of Toronto, Researcher in S
 
 profile:
   align: right
-  image: prof_pic_color.png
+  image: david.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>120 Nassau Street</p>
