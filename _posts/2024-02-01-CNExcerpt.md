@@ -959,3 +959,7 @@ Most of the books I read are Chinese, so be prepared for a new language。
 - 天之道，利而不害。圣人之道，为而不争
 
 - （河上公）土有玉，掘其山；水有珠，浊其渊，辩口多言，亡其身
+
+## 战国策
+
+- （西周策）本末更盛，虚实有时
