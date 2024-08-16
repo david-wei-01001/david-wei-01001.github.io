@@ -44,6 +44,8 @@ Most of the books I read are Chinese, so be prepared for a new language。
 
 - 判断力就是知道个人行为的长期后果
 
+- 人生就是选择正确的方向，然后朝这个方向奋力前行
+
 ## An Inquiry into the Nature and Causes of The Wealth of Nations
 
 <div class="row">
