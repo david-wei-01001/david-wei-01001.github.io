@@ -42,6 +42,8 @@ Most of the books I read are Chinese, so be prepared for a new language。
 
 - 资本杠杆就是用钱来扩大决策的影响力
 
+- 判断力就是知道个人行为的长期后果
+
 ## An Inquiry into the Nature and Causes of The Wealth of Nations
 
 <div class="row">
