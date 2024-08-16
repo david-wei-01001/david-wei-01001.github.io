@@ -40,6 +40,8 @@ Most of the books I read are Chinese, so be prepared for a new language。
 
 - （战国策 中山策）与不期众少，其于当厄；怨不期深浅，其于伤心。
 
+- 资本杠杆就是用钱来扩大决策的影响力
+
 ## An Inquiry into the Nature and Causes of The Wealth of Nations
 
 <div class="row">
