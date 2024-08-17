@@ -983,3 +983,5 @@ Most of the books I read are Chinese, so be prepared for a new language。
 - (秦策一）弗知而言为不智，知而不言为不忠
 
 - （秦策一）齐，五战之国也，一战不胜而无齐。故由此观之，夫战者万乘之存亡也
+
+- （秦策一）削株掘根，无与祸邻，祸乃不存
