@@ -1003,3 +1003,9 @@ Most of the books I read are Chinese, so be prepared for a new language。
 - 计者，事之本也；听者，存亡之机也。计失而听过，能有国者寡也
 
 - 计有一二者难悖也，听无失本末者难惑
+
+### 秦策三
+
+- 圣人不能为时，时至而弗失
+
+- （尚书）树德莫如滋，除害莫如尽
