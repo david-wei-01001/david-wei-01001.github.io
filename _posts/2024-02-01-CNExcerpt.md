@@ -1021,3 +1021,5 @@ Most of the books I read are Chinese, so be prepared for a new language。
 - 夫擅国之谓王，能专厉害之谓王，制杀生之威之谓王
 
 - 善为国者，内固其威，外重其权
+
+- （《逸诗》）木实繁者披其枝，披其枝者伤其心。大其都者危其国，尊其臣者卑其主
