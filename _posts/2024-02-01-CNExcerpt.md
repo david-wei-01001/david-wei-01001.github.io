@@ -1017,3 +1017,7 @@ Most of the books I read are Chinese, so be prepared for a new language。
 - 利则行之，害则舍之，疑则少尝之
 
 - 王不如远交而近攻，得寸则王寸之，得尺亦王尺也
+
+- 夫擅国之谓王，能专厉害之谓王，制杀生之威之谓王
+
+- 善为国者，内固其威，外重其权
