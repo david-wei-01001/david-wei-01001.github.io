@@ -1029,3 +1029,7 @@ Most of the books I read are Chinese, so be prepared for a new language。
 - （《诗经 大雅》）靡不有初，鲜克有终
 
 - （《诗经》）他人有心，予忖度之
+
+### 秦策五
+
+- 王兵胜而不骄，伯主约而不忿。胜而不骄，故能服世；约而不忿，故能从邻
