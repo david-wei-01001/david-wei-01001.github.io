@@ -1024,6 +1024,8 @@ Most of the books I read are Chinese, so be prepared for a new language。
 
 - （《逸诗》）木实繁者披其枝，披其枝者伤其心。大其都者危其国，尊其臣者卑其主
 
+### 秦策四
+
 - 物至而反，冬夏是也；致至而危，累棋是也
 
 - （《诗经 大雅》）靡不有初，鲜克有终
