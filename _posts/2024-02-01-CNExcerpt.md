@@ -1022,6 +1022,8 @@ Most of the books I read are Chinese, so be prepared for a new language。
 
 - 善为国者，内固其威，外重其权
 
+- 善厚家者，取之于国；善厚国者，取之于诸侯。天下有明主，则诸侯不得善厚矣。是何故也？为其割荣也。
+
 - （《逸诗》）木实繁者披其枝，披其枝者伤其心。大其都者危其国，尊其臣者卑其主
 
 ### 秦策四
@@ -1035,3 +1037,5 @@ Most of the books I read are Chinese, so be prepared for a new language。
 ### 秦策五
 
 - 王兵胜而不骄，伯主约而不忿。胜而不骄，故能服世；约而不忿，故能从邻
+
+- 故明主不敢其汙，不听其非，察其为己用。故可以存社稷者，虽有外诽者不听；虽有高世之名，无咫尺之功不赏。是以群臣莫敢以虚愿望于上。
