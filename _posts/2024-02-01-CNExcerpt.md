@@ -1083,3 +1083,9 @@ Most of the books I read are Chinese, so be prepared for a new language。
 - 以财交者，财尽而交绝；以色交者，华落而爱渝。是以嬖女不敝席，宠臣不敝轩
 
 - 治之其未乱，为之其未有也；患至而后忧之，则无及也
+
+### 楚策四
+
+- 祸与福相贯，生与亡为邻
+
+- 见兔而顾犬，未为晚也；亡羊而补牢，未为迟也
