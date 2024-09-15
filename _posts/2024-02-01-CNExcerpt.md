@@ -1131,3 +1131,7 @@ Most of the books I read are Chinese, so be prepared for a new language。
 ## 赵策四
 
 - 父母之爱子，则为之计深远
+
+## 魏策一
+
+- （《周书》）将欲败之，必故辅之，将欲取之，必故与之
