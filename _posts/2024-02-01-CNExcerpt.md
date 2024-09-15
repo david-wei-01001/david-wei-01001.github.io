@@ -1127,3 +1127,7 @@ Most of the books I read are Chinese, so be prepared for a new language。
 ## 赵策三
 
 - 夫良商不与人争买卖之贾，而谨司时。时贱而买，虽贵已贱矣；时贵而卖，虽贱已贵矣
+
+## 赵策四
+
+- 父母之爱子，则为之计深远
