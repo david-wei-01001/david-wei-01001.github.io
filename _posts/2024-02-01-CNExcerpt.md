@@ -1137,3 +1137,5 @@ Most of the books I read are Chinese, so be prepared for a new language。
 - （《周书》）将欲败之，必故辅之，将欲取之，必故与之
 
 - 夫乡邑老者而先受坐之士，子入而问其贤良之士而师事之，求其好掩人美而扬人之丑者而参验之。夫物多相类而非也
+
+- 河山之险，信不足保也；且伯王之政，不从此也。
