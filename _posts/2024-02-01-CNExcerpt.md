@@ -1140,4 +1140,8 @@ Most of the books I read are Chinese, so be prepared for a new language。
 
 - 河山之险，信不足保也；且伯王之政，不从此也。
 
-- （《周书》）绵绵不绝，缦缦奈何？毫毛不拔，将成斧柯
+- （《周书》）绵绵不绝，缦缦奈何？毫毛不拔，将成斧柯。
+
+- 前虑不定，后有大患
+
+- 积羽沉舟，群轻折轴，众口铄金
