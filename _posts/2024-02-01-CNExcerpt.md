@@ -1145,3 +1145,5 @@ Most of the books I read are Chinese, so be prepared for a new language。
 - 前虑不定，后有大患
 
 - 积羽沉舟，群轻折轴，众口铄金
+
+- 小事也，谓可者谓不可者正半，况大事乎？所谓劫主者，失其半者也。
