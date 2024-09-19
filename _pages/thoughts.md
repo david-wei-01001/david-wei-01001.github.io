@@ -3,7 +3,7 @@ layout: page
 title: openspace
 permalink: /thoughts/
 description: Enjoy the relief from technical stuff...
-nav: false
+nav: true
 nav_order: 5
 horizontal: false
 ---
@@ -58,26 +58,6 @@ Opposition of Tao, however, is strong. Everything ges to the extreme will return
     </div>
 </div>
 
-When Spring comes, do Spring stuff;
-
-When Summer comes, do Summer stuff;
-
-When Fall comes, do Fall stuff;
-
-When Winter comes, do Winter stuff;
-
-Things will get done, and what's wanted will be achieved. The world is sometimes as simple as this: time will give people everything they want.
-<div class="row">
-    <div style="text-align: center;">
-        {% include figure.liquid loading="eager" path="assets/img/Tao.jpg" title="example image" class="img-fluid rounded z-depth-1" max-width="50%" %}
-
-    </div>
-</div>
-
-</details>
-<details>
-     <summary>Some Reflections on Tao</summary>
-</details>
 
 ----------------
 
