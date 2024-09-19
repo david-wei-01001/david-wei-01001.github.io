@@ -1110,7 +1110,7 @@ Most of the books I read are Chinese, so be prepared for a new language。
 
 - 借车者驰之，借衣者被之
 
-## 赵策二
+### 赵策二
 
 - 怀重宝者，不以夜行；任大功者，不以轻敌。是以贤者任重而行恭知者功大而辞顺。故民不恶其尊，而世不妒其业。
 
@@ -1130,15 +1130,15 @@ Most of the books I read are Chinese, so be prepared for a new language。
 
 - 其言一也，言者异，则人心变矣
 
-## 赵策三
+### 赵策三
 
 - 夫良商不与人争买卖之贾，而谨司时。时贱而买，虽贵已贱矣；时贵而卖，虽贱已贵矣
 
-## 赵策四
+### 赵策四
 
 - 父母之爱子，则为之计深远
 
-## 魏策一
+### 魏策一
 
 - （《周书》）将欲败之，必故辅之，将欲取之，必故与之
 
@@ -1154,7 +1154,7 @@ Most of the books I read are Chinese, so be prepared for a new language。
 
 - 小事也，谓可者谓不可者正半，况大事乎？所谓劫主者，失其半者也。
 
-## 魏策二
+### 魏策二
 
 - 树之难而去之易也
 
