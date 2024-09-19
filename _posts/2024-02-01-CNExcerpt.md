@@ -968,6 +968,12 @@ Most of the books I read are Chinese, so be prepared for a new language。
 
 ## 战国策
 
+- 所有的劝说都在把一个可能的结果夸大为必然
+
+- 如果一个人反复劝说你做某事，那么这件事不一定对你好，但一定对他好
+
+- 无质则必欺，无故许大利，必欺也
+
 ### 西周策
 
 - 本末更盛，虚实有时
@@ -1147,3 +1153,9 @@ Most of the books I read are Chinese, so be prepared for a new language。
 - 积羽沉舟，群轻折轴，众口铄金
 
 - 小事也，谓可者谓不可者正半，况大事乎？所谓劫主者，失其半者也。
+
+## 魏策二
+
+- 树之难而去之易也
+
+- 
