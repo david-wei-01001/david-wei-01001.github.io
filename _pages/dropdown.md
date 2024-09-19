@@ -19,7 +19,7 @@ children:
   - title: divider
   - title: cv
     permalink: /cv/
-  - title: hobbies
+  - title: OpenSpace
     permalink: /thoughts/
   - title: divider
 ---
