@@ -58,7 +58,3 @@ Opposition of Tao, however, is strong. Everything ges to the extreme will return
     </div>
 </div>
 
-
-----------------
-
-[🤔](https://david-wei-01001.github.io/Some-Jewels/)
