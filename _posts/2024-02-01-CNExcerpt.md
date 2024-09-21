@@ -1158,4 +1158,6 @@ Most of the books I read are Chinese, so be prepared for a new language。
 
 - 树之难而去之易也
 
-- 
+### 魏策三
+
+- 以地事秦，譬犹抱薪而救火也，薪不尽则火不止。今王之地有尽，而秦之求无穷，是薪火之说也。
