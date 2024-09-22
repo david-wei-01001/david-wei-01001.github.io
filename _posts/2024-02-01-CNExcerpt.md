@@ -974,6 +974,8 @@ Most of the books I read are Chinese, so be prepared for a new language。
 
 - 无质则必欺，无故许大利，必欺也
 
+- 如果想要劝说你做某事，必定会夸大优点，掩盖缺点，而要吓阻你做某事，则会夸大你的缺点，掩盖你的优点
+
 ### 西周策
 
 - 本末更盛，虚实有时
