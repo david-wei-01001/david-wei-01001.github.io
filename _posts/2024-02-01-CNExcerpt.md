@@ -1179,3 +1179,7 @@ Most of the books I read are Chinese, so be prepared for a new language。
 ### 韩策一
 
 - 且夫大王之地有尽，而秦之求无已。夫以有尽之地逆无已之求，此所谓市怨而买祸者也，不战而地已削矣
+
+- 今王两用之，其多力者内树其党，其寡力者籍外权
+
+- 贵其所以贵者贵
