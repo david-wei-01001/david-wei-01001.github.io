@@ -1183,3 +1183,9 @@ Most of the books I read are Chinese, so be prepared for a new language。
 - 今王两用之，其多力者内树其党，其寡力者籍外权
 
 - 贵其所以贵者贵
+
+### 韩策三
+
+- 昔先王之攻，有为名者，有为实者。为名者攻其心，为实者攻其形
+
+- 善为计者，不见内行
