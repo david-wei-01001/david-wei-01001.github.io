@@ -1225,3 +1225,7 @@ Most of the books I read are Chinese, so be prepared for a new language。
 - 厚者不毁人以自益也，仁者不危人以要名
 
 - 室不能相和，出语邻家，未为通计也
+
+### 宋卫策
+
+- 无功之赏，无力之礼，不可不察也
