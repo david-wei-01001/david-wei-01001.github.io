@@ -1229,3 +1229,11 @@ Most of the books I read are Chinese, so be prepared for a new language。
 ### 宋卫策
 
 - 无功之赏，无力之礼，不可不察也
+
+- 治无小，乱无大
+
+- 要言不免为笑者，早晚之时失也。
+
+### 中山策
+
+- 同欲者相憎，同忧者相亲
