@@ -38,8 +38,6 @@ Most of the books I read are Chinese, so be prepared for a new language。
 
 - （礼记）刑不尊大夫，礼不卑庶人
 
-- （战国策 中山策）与不期众少，其于当厄；怨不期深浅，其于伤心。
-
 - 资本杠杆就是用钱来扩大决策的影响力
 
 - 判断力就是知道个人行为的长期后果
@@ -1237,3 +1235,5 @@ Most of the books I read are Chinese, so be prepared for a new language。
 ### 中山策
 
 - 同欲者相憎，同忧者相亲
+
+- 与不期众少，其于当厄；怨不期深浅，其于伤心。
