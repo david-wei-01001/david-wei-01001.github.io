@@ -1237,3 +1237,7 @@ Most of the books I read are Chinese, so be prepared for a new language。
 - 同欲者相憎，同忧者相亲
 
 - 与不期众少，其于当厄；怨不期深浅，其于伤心。
+
+- (白起）... 皆计利形势，自然之理，何神之有哉！
+
+- 明主爱其国，忠臣爱其名，破国不可以复立，死卒不可以复生。
