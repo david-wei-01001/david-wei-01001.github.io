@@ -1241,3 +1241,9 @@ Most of the books I read are Chinese, so be prepared for a new language。
 - (白起）... 皆计利形势，自然之理，何神之有哉！
 
 - 明主爱其国，忠臣爱其名，破国不可以复立，死卒不可以复生。
+
+## 春秋左传
+
+- （隐公元年，传）多行不义，必自毙
+  
+- （隐公元年，传）豫凶事，非礼也
