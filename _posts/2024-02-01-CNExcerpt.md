@@ -1257,3 +1257,5 @@ Most of the books I read are Chinese, so be prepared for a new language。
 - （隐公五年，传）乱政亟行，所以败也
 
 - （隐公五年，传）不备不虞，不可以师
+
+- (桓公二年， 传）夫名以制义，义以出礼，礼以体政，政以正民
