@@ -46,6 +46,10 @@ Most of the books I read are Chinese, so be prepared for a new language。
 
 - （易）善不积，不足以成名；恶不积，不足以灭身。
 
+- (易）天道亏盈而益谦；地道变盈而流谦；鬼神害盈而福谦；人道恶盈而好谦
+
+- （易）谦受益，满招损
+
 ## An Inquiry into the Nature and Causes of The Wealth of Nations
 
 <div class="row">
@@ -1277,6 +1281,12 @@ Most of the books I read are Chinese, so be prepared for a new language。
 - 暴殄之孽，当与杀生等
 
 - 爱鼠常留饭，怜蛾不点灯
+
+- 凡天将发斯人也，未发其福，先发其慧；此慧一发，则浮者自实，肆者自敛
+
+- 造命者天，立命者我
+
+- 人之有志，如树之有根
 
 ## 春秋左传
 
