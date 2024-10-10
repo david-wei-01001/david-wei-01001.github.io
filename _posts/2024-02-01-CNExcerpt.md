@@ -44,6 +44,8 @@ Most of the books I read are Chinese, so be prepared for a new language。
 
 - 人生就是选择正确的方向，然后朝这个方向奋力前行
 
+- （易）善不积，不足以成名；恶不积，不足以灭身。
+
 ## An Inquiry into the Nature and Causes of The Wealth of Nations
 
 <div class="row">
@@ -1265,6 +1267,12 @@ Most of the books I read are Chinese, so be prepared for a new language。
 - 过不论久近，惟以改为贵
 
 - 过有千端，惟心所造；吾心不动，过安从生？
+
+- 名者，造物所忌；世之享盛名而实不副者，多有奇祸
+
+- 人之为善，不论现行而论流弊；不论一时而论久远；不论一身而论天下
+
+- 
 
 ## 春秋左传
 
