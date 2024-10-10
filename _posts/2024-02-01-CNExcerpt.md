@@ -1272,7 +1272,11 @@ Most of the books I read are Chinese, so be prepared for a new language。
 
 - 人之为善，不论现行而论流弊；不论一时而论久远；不论一身而论天下
 
-- 
+- 一时劝人以口，百世劝人以书
+
+- 暴殄之孽，当与杀生等
+
+- 爱鼠常留饭，怜蛾不点灯
 
 ## 春秋左传
 
