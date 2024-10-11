@@ -50,6 +50,8 @@ Most of the books I read are Chinese, so be prepared for a new language。
 
 - （易）谦受益，满招损
 
+- （诗经）君子屡盟，乱是用长
+
 ## An Inquiry into the Nature and Causes of The Wealth of Nations
 
 <div class="row">
@@ -1311,3 +1313,11 @@ Most of the books I read are Chinese, so be prepared for a new language。
 - (桓公八年， 传）天去其疾（佞臣）矣，随未可克也
 
 - (桓公十年， 传）匹夫无罪，怀璧其罪
+
+- (桓公十一年， 传）师克在和，不在众
+
+-  (桓公十一年， 传）卜以决疑，不疑何卜
+
+-  (桓公十二年， 传）苟信不济，盟无益也
+
+-  
