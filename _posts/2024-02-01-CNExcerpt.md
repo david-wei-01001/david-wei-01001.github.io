@@ -1320,4 +1320,6 @@ Most of the books I read are Chinese, so be prepared for a new language。
 
 -  (桓公十二年， 传）苟信不济，盟无益也
 
--  
+-  (庄公十年，传）夫战，勇气也，一鼓作气，再而衰，三而竭
+
+-  (庄公十一年，传）禹汤罪己，其兴也勃焉；桀纣罪人，其亡也忽焉。
