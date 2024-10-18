@@ -1419,3 +1419,5 @@ Most of the books I read are Chinese, so be prepared for a new language。
 - (僖公七年，传）招携以礼，怀远以德，德礼不易，无人不怀。
 
 - (僖公七年，传）子父不奸之谓礼，守命共时之谓信
+
+- (僖公九年，传）白珪之玷，尚可磨也；斯言之玷，不可为也
