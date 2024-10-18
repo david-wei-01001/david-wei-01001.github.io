@@ -1421,3 +1421,5 @@ Most of the books I read are Chinese, so be prepared for a new language。
 - (僖公七年，传）子父不奸之谓礼，守命共时之谓信
 
 - (僖公九年，传）白珪之玷，尚可磨也；斯言之玷，不可为也
+
+- (僖公十年，传）欲加之罪，何患无辞
