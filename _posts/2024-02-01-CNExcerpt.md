@@ -1433,3 +1433,5 @@ Most of the books I read are Chinese, so be prepared for a new language。
 - (僖公十四年，传）背施无亲，幸灾不仁，贪爱不详，怒邻不义
 
 - (僖公十四年，传）皮之不存，毛将安傅？
+
+- (僖公十留年，传）（世上一切现象）是阴阳之事，非吉凶所生也。吉凶由人
