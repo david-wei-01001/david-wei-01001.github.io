@@ -52,6 +52,8 @@ Most of the books I read are Chinese, so be prepared for a new language。
 
 - （诗经）君子屡盟，乱是用长
 
+- （司马懿）凡物置之安地则安，危地则危
+
   罚不当罪，不如不罚
 
 ## An Inquiry into the Nature and Causes of The Wealth of Nations
