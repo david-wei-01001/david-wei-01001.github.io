@@ -54,8 +54,14 @@ Most of the books I read are Chinese, so be prepared for a new language。
 
 - （司马懿）凡物置之安地则安，危地则危
 
-  罚不当罪，不如不罚
+- 罚不当罪，不如不罚
 
+- （诗经）战战兢兢，如临深渊，如履薄冰
+
+-（诗经）恺悌君子，神所劳矣
+
+- （尚书 - 康浩）乃大明服
+- 
 ## An Inquiry into the Nature and Causes of The Wealth of Nations
 
 <div class="row">
@@ -1428,8 +1434,6 @@ Most of the books I read are Chinese, so be prepared for a new language。
 
 - (僖公十一年，传）礼，国之干也；敬，礼之舆也。不敬则礼不行，礼不行则上下昏，何以长世？
 
-- (僖公十二年，传， 《诗经》）恺悌君子，神所劳矣
-
 - (僖公十三年，传）行道有福
 
 - (僖公十四年，传）背施无亲，幸灾不仁，贪爱不详，怒邻不义
@@ -1441,3 +1445,7 @@ Most of the books I read are Chinese, so be prepared for a new language。
 - (僖公二十年，传）量力而动，其过鲜矣
 
 - (僖公二十年，传）以欲从人，则可；以人从欲，鲜济
+  
+- (僖公二十二年，传）若受重伤，则如勿伤；爱其二毛，则如服也
+
+- (僖公二十二年，传）三军以利用也，金鼓以声气也。利而用之，阻隘可也；声盛致志，鼓儳可也。
