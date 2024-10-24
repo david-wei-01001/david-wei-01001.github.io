@@ -56,7 +56,7 @@ Most of the books I read are Chinese, so be prepared for a new language。
 
 - 罚不当罪，不如不罚
 
-- （诗经）战战兢兢，如临深渊，如履薄冰
+-  （诗经）战战兢兢，如临深渊，如履薄冰
 
 -（诗经）恺悌君子，神所劳矣
 
