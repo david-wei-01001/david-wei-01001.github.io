@@ -57,6 +57,7 @@ Most of the books I read are Chinese, so be prepared for a new language。
 - 罚不当罪，不如不罚
 
 -  （诗经）战战兢兢，如临深渊，如履薄冰
+  
 -  （诗经）恺悌君子，神所劳矣
 
 - （尚书 - 康浩）乃大明服
@@ -1386,3 +1387,9 @@ Most of the books I read are Chinese, so be prepared for a new language。
 - (僖公二十二年，传）若受重伤，则如勿伤；爱其二毛，则如服也
 
 - (僖公二十二年，传）三军以利用也，金鼓以声气也。利而用之，阻隘可也；声盛致志，鼓儳可也。
+
+- (僖公二十四年，传）言，身之文也
+
+- (僖公二十四年，传）兄弟阋于墙，而外御其侮
+
+- (僖公二十四年，传）耳不听五声之和为聋，目不别五色之章为昧，心不则德义之经为顽，口不道忠信之言为嚚（ying 恶）
