@@ -1397,3 +1397,5 @@ Most of the books I read are Chinese, so be prepared for a new language。
 - (僖公二十七年，传）诗书，义之府也。礼乐，德之则也。德义，利之本也。
 
 - (僖公二十七年，传 《夏书》）赋纳以言，明试以功，车服以庸
+
+- (僖公三十三年，传）轻则寡谋，无礼则脱（粗心）
