@@ -1399,3 +1399,5 @@ Most of the books I read are Chinese, so be prepared for a new language。
 - (僖公二十七年，传 《夏书》）赋纳以言，明试以功，车服以庸
 
 - (僖公三十三年，传）轻则寡谋，无礼则脱（粗心）
+
+- (文公元年，传）忠，德之正也；信，德之固也；卑让，德之基也
