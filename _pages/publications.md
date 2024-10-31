@@ -12,6 +12,6 @@ nav_order: 2
 
 For a full, up-to-date list of publications, please visit my Google Scholar webpage.
 
-<!-- {% bibliography %} -->
+{% bibliography %}
 
 </div>
