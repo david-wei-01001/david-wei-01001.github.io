@@ -1407,3 +1407,5 @@ Most of the books I read are Chinese, so be prepared for a new language。
 - (文公元年，传）天为刚德，犹不干时
 
 - (文公元年，传）华而不实，怨之所聚也。
+
+- (文公六年，传）损怨益仇，非知也
