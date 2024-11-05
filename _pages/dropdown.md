@@ -22,6 +22,7 @@ children:
   - title: divider
   - title: cv
     permalink: /cv/
+  - title: divider
   - title: OpenSpace
     permalink: /thoughts/
   - title: divider
