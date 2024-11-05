@@ -8,11 +8,14 @@ children:
   - title: about
     permalink: /
   - title: divider
+  - title: blogs
+    permalink: /blogs/
+  - title: divider
   - title: projects
     permalink: /projects/
   - title: divider
-  - title: blogs
-    permalink: /blogs/
+  - title: publications
+    permalink: /publications/
   - title: divider
   - title: repositories
     permalink: /repositories/
