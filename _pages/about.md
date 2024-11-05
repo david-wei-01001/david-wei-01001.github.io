@@ -9,8 +9,8 @@ profile:
   image: david.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>120 Nassau Street</p>
-    <p>Toronto, ON M5T 1M7</p>
+    <p>6 Hoskin Ave</p>
+    <p>Toronto, ON M5S 1H8</p>
 
 news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
