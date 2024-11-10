@@ -1409,3 +1409,5 @@ Most of the books I read are Chinese, so be prepared for a new language。
 - (文公元年，传）华而不实，怨之所聚也。
 
 - (文公六年，传）损怨益仇，非知也
+
+- （宣公二年 传）人谁无过，过而能改，善莫大焉。
