@@ -61,7 +61,9 @@ Most of the books I read are Chinese, so be prepared for a new language。
 -  （诗经）恺悌君子，神所劳矣
 
 - （尚书 - 康诰）乃大明服
-- 
+
+- 为什么天道从来不争不抢？因为时间是他的玩具
+
 ## An Inquiry into the Nature and Causes of The Wealth of Nations
 
 <div class="row">
