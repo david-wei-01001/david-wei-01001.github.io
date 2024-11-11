@@ -1413,3 +1413,7 @@ Most of the books I read are Chinese, so be prepared for a new language。
 - (文公六年，传）损怨益仇，非知也
 
 - （宣公二年 传）人谁无过，过而能改，善莫大焉。
+
+- （宣公四年 传）仁而不武，无能达也。
+
+- （宣公四年 传）狼子野心
