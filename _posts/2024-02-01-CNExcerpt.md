@@ -1417,3 +1417,5 @@ Most of the books I read are Chinese, so be prepared for a new language。
 - （宣公四年 传）仁而不武，无能达也。
 
 - （宣公四年 传）狼子野心
+
+- （宣公十二年 传）见可而进，知难而退，军之善政也。兼弱攻昧，武之善经也
