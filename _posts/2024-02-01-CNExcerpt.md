@@ -1419,3 +1419,9 @@ Most of the books I read are Chinese, so be prepared for a new language。
 - （宣公四年 传）狼子野心
 
 - （宣公十二年 传）见可而进，知难而退，军之善政也。兼弱攻昧，武之善经也
+
+- （宣公十二年 传）内姓选于亲，外姓选于旧
+
+- （宣公十二年 传）筚路蓝缕，以启山林
+
+- （宣公十二年 传）民生在勤，勤则不匮
