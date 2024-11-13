@@ -1425,3 +1425,7 @@ Most of the books I read are Chinese, so be prepared for a new language。
 - （宣公十二年 传）筚路蓝缕，以启山林
 
 - （宣公十二年 传）民生在勤，勤则不匮
+
+- （宣公十二年 传，《军志》）先人有夺人之心
+
+- （宣公十二年 传）夫武，禁暴、戢兵、保大、定功、安民、和众、丰财者也
