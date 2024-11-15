@@ -34,15 +34,32 @@ This blog records all the sentences I encountered compelling, powerful, knowledg
 This excerpt will be a growing list, featuring the growing list of books I read.
 Most of the books I read are Chinese, so be prepared for a new language。
 
+## 分析
+
+- 判断力就是知道个人行为的长期后果
+
+- 人生就是选择正确的方向，然后朝这个方向奋力前行
+
+- 为什么天道从来不争不抢？因为时间管不到他
+
+- 所有的劝说都在把一个可能的结果夸大为必然
+
+- 如果一个人反复劝说你做某事，那么这件事不一定对你好，但一定对他好
+
+- 无质则必欺，无故许大利，必欺也
+
+- 如果想要劝说你做某事，必定会夸大优点，掩盖缺点，而要吓阻你做某事，则会夸大你的缺点，掩盖你的优点
+
+- 晋国诸卿除韩赵魏都是怎么败亡的呢？
+  1.
+  2.
+  3. 
+
 ## MISC
 
 - （礼记）刑不尊大夫，礼不卑庶人
 
 - 资本杠杆就是用钱来扩大决策的影响力
-
-- 判断力就是知道个人行为的长期后果
-
-- 人生就是选择正确的方向，然后朝这个方向奋力前行
 
 - （易）善不积，不足以成名；恶不积，不足以灭身。
 
@@ -61,8 +78,6 @@ Most of the books I read are Chinese, so be prepared for a new language。
 -  （诗经）恺悌君子，神所劳矣
 
 - （尚书 - 康诰）乃大明服
-
-- 为什么天道从来不争不抢？因为时间管不到他
 
 ## An Inquiry into the Nature and Causes of The Wealth of Nations
 
@@ -985,14 +1000,6 @@ Most of the books I read are Chinese, so be prepared for a new language。
 - （河上公）土有玉，掘其山；水有珠，浊其渊，辩口多言，亡其身
 
 ## 战国策
-
-- 所有的劝说都在把一个可能的结果夸大为必然
-
-- 如果一个人反复劝说你做某事，那么这件事不一定对你好，但一定对他好
-
-- 无质则必欺，无故许大利，必欺也
-
-- 如果想要劝说你做某事，必定会夸大优点，掩盖缺点，而要吓阻你做某事，则会夸大你的缺点，掩盖你的优点
 
 ### 西周策
 
