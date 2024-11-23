@@ -83,6 +83,8 @@ Most of the books I read are Chinese, so be prepared for a new language。
 
 - （尚书 - 康诰）乃大明服
 
+- This might be a breakthrough for some of you people. It’s very hard to go bankrupt if you don’t have any debt.
+
 ## An Inquiry into the Nature and Causes of The Wealth of Nations
 
 <div class="row">
