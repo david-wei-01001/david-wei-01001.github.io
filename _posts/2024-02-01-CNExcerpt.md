@@ -83,7 +83,9 @@ Most of the books I read are Chinese, so be prepared for a new language。
 
 - （尚书 - 康诰）乃大明服
 
-- This might be a breakthrough for some of you people. It’s very hard to go bankrupt if you don’t have any debt.
+- （彼得林奇）This might be a breakthrough for some of you people. It’s very hard to go bankrupt if you don’t have any debt.
+
+- （诗经）虽有丝麻，无弃菅蒯。虽有姬、姜，无弃蕉萃
 
 ## An Inquiry into the Nature and Causes of The Wealth of Nations
 
@@ -1466,3 +1468,5 @@ Most of the books I read are Chinese, so be prepared for a new language。
 - (成公八年，传）从善如流
 
 - （成公八年，传）唯或思或纵也。勇夫重闭，况国乎？
+
+- （成公九年，传）备豫不虞，善之大者也
