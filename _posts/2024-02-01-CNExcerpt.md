@@ -1470,3 +1470,5 @@ Most of the books I read are Chinese, so be prepared for a new language。
 - （成公八年，传）唯或思或纵也。勇夫重闭，况国乎？
 
 - （成公九年，传）备豫不虞，善之大者也
+
+- （成公十四年，传）今夫子傲，取祸之道也
