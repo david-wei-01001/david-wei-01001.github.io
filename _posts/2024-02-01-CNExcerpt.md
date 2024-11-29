@@ -1472,3 +1472,5 @@ Most of the books I read are Chinese, so be prepared for a new language。
 - （成公九年，传）备豫不虞，善之大者也
 
 - （成公十四年，传）今夫子傲，取祸之道也
+
+- （成公十六年，传）唯圣人能外内无患，自非圣人，外宁必有内忧，盍释楚以为外惧乎
