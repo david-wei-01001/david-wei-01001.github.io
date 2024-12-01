@@ -87,6 +87,8 @@ Most of the books I read are Chinese, so be prepared for a new language。
 
 - （诗经）虽有丝麻，无弃菅蒯。虽有姬、姜，无弃蕉萃
 
+- （尚书 - 夏书）怨岂在明？不见是图
+
 ## An Inquiry into the Nature and Causes of The Wealth of Nations
 
 <div class="row">
