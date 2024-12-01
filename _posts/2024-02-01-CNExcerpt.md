@@ -1482,3 +1482,5 @@ Most of the books I read are Chinese, so be prepared for a new language。
 - （成公十七年，传）必先三郤，族大多怨。去大族不逼（公室不受压迫），敌多怨有庸
 
 - （成公十七年，传）杀老牛莫之敢尸，而况君乎？
+
+- （成公十七年，传）乱在外为奸，在内为轨。御奸以德，御轨以刑
