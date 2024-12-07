@@ -89,6 +89,8 @@ Most of the books I read are Chinese, so be prepared for a new language。
 
 - （尚书 - 夏书）怨岂在明？不见是图
 
+- （尚书）‘居安思危。’思则有备，有备无患。
+
 ## An Inquiry into the Nature and Causes of The Wealth of Nations
 
 <div class="row">
