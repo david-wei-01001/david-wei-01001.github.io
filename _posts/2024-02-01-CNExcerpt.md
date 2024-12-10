@@ -95,6 +95,8 @@ Most of the books I read are Chinese, so be prepared for a new language。
 
 - (Introduction) If in the long run we are the makers of our own fate, in the short run we are the captives of the ideas we have created
 
+- (The Abandoned Road) socialism means slavery
+
 ## An Inquiry into the Nature and Causes of The Wealth of Nations
 
 <div class="row">
