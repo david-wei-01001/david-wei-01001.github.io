@@ -93,9 +93,27 @@ Most of the books I read are Chinese, so be prepared for a new language。
 
 ## The Road to Serfdom
 
-- (Introduction) If in the long run we are the makers of our own fate, in the short run we are the captives of the ideas we have created
+### Introduction
 
-- (The Abandoned Road) socialism means slavery
+- If in the long run we are the makers of our own fate, in the short run we are the captives of the ideas we have created
+
+### The Abandoned Road
+
+- socialism means slavery
+
+### The Great Utopia
+
+- What have always made the state a hell on earth has been percisely that man has tried to make it a heaven
+
+- Democracy extends the shpere of individual freedom, socilaism restricts it
+
+- Democracy attaches all possible value to each man; socialism makes each man a mere agent, a mere member
+
+- While democracy seeks equality in liberty, socialism seeks equality in restraint and servitude
+
+- Although the promise of this new freedom (socialism's claim of "freedom") were often coupled with irresponsible promises of a great increase in meterial wealth in a socialist society, it was not from such an absolute conquest of the niggardliness of nature that economic freedom was expected.
+
+- The demand for the "new freedom" was thus only another name for the old demand for an equal distribution of wealth.
 
 ## An Inquiry into the Nature and Causes of The Wealth of Nations
 
