@@ -115,37 +115,13 @@ Most of the books I read are Chinese, so be prepared for a new language。
 
 - The demand for the "new freedom" was thus only another name for the old demand for an equal distribution of wealth.
 
-## An Inquiry into the Nature and Causes of The Wealth of Nations
+## Annual Meeting
 
-<div class="row">
-    <div  style="text-align: center;">
-        {% include figure.liquid loading="eager" path="assets/img/adam.jpg" title="example image" class="img-fluid rounded z-depth-1" max-width="50%" %}
-    </div>
-</div>
+- Risk come from the nature of certain kinds of businesses, and it comes from not knowing what you are doing.
 
-- It is the great multiplication of the productions of all the different arts, in consequence of the division of labour, which occasions, in a well-governed society, that universal opulence which extends itself to the lowest ranks of the people.
+- gambling is a tax on ignorance
 
-- It is the great multiplication of the productions of all the different arts, in consequence of the division of labour, which occasions, in a well-governed society, that universal opulence which extends itself to the lowest ranks of the people.
-
-- He will be more likely to prevail if he can interest their self-love in his favour, and shrew them that it is for their own advantage to do for him what he requires of them
-
-- It is not from the benevolence of the butcher, the brewer, or the baker, that we expect our dinner, but from their regard to their own interest
-
-- The effect of those different geniuses and talants, for the want of power or disposition to truck, barter or exchange,cannot be brought into a common stock, and do not in the least contribute to the better accommodation and conveniency of the species
-
-- The extent of their market, therefore, must for a long time be in proportion to the riches and populousness of that country, and consequently their improvement must always be posterior to the improvement of that country
-
-- In all countries, however, men seem at least to have been determined by irresistible reasons to give the preference, for this employment, to metals above every other commodity. Metals can not only be kept with as little loss as any other commodity, scarce any thing being less perishable that they are, but they can likewise, without any loss, be divided into any number of parts, as by fusion those parts can easily be re-united again; a quality which no other equally durable commodities possess, and which more than any other quality renders them fit to be the instruments of commerce and circulation.
-
-- I believe, the avarice and injustice of princes and sovereign states, abusing the confidence of their subjects, have by degrees diminished the real quantity of metal, which had been originally contained in their coins
-
-- The things which have the greatest value in use have frequently little or no value in exchange; and, on the contrary, those which have the greatest value in exchange have frequently little or no value in use.
-
-- The power which that possession (fortune) immediately and directly conveys to him, is the power of purchasing; a certain command over all the labour, or over all the produce of labour which is then in the market
-
-- Labour alone, therefore, never varying in its own value, is alone the ultimate and real standard by which the value of all commodities can at all times and places be estimated and compared. It is their real price; money is their nominal price only
-
-- As it is the nominal or money price of goods,therefore, which finally determines the prudence or imprudence of all purchases and sales, and thereby regulates almost the whole business of common life in which price is concerned, we cannot wonder that it should have been so much more attended to than the real price.
+- Cash is like oxygen, you want to be sure it's around, but you don't need to have excessive amount of it around
 
 - 
 
@@ -1512,3 +1488,35 @@ Most of the books I read are Chinese, so be prepared for a new language。
 - （成公十七年，传）乱在外为奸，在内为轨。御奸以德，御轨以刑
 
 - （襄公十年，传）众怒难犯，专欲难成
+
+## An Inquiry into the Nature and Causes of The Wealth of Nations
+
+<div class="row">
+    <div  style="text-align: center;">
+        {% include figure.liquid loading="eager" path="assets/img/adam.jpg" title="example image" class="img-fluid rounded z-depth-1" max-width="50%" %}
+    </div>
+</div>
+
+- It is the great multiplication of the productions of all the different arts, in consequence of the division of labour, which occasions, in a well-governed society, that universal opulence which extends itself to the lowest ranks of the people.
+
+- It is the great multiplication of the productions of all the different arts, in consequence of the division of labour, which occasions, in a well-governed society, that universal opulence which extends itself to the lowest ranks of the people.
+
+- He will be more likely to prevail if he can interest their self-love in his favour, and shrew them that it is for their own advantage to do for him what he requires of them
+
+- It is not from the benevolence of the butcher, the brewer, or the baker, that we expect our dinner, but from their regard to their own interest
+
+- The effect of those different geniuses and talants, for the want of power or disposition to truck, barter or exchange,cannot be brought into a common stock, and do not in the least contribute to the better accommodation and conveniency of the species
+
+- The extent of their market, therefore, must for a long time be in proportion to the riches and populousness of that country, and consequently their improvement must always be posterior to the improvement of that country
+
+- In all countries, however, men seem at least to have been determined by irresistible reasons to give the preference, for this employment, to metals above every other commodity. Metals can not only be kept with as little loss as any other commodity, scarce any thing being less perishable that they are, but they can likewise, without any loss, be divided into any number of parts, as by fusion those parts can easily be re-united again; a quality which no other equally durable commodities possess, and which more than any other quality renders them fit to be the instruments of commerce and circulation.
+
+- I believe, the avarice and injustice of princes and sovereign states, abusing the confidence of their subjects, have by degrees diminished the real quantity of metal, which had been originally contained in their coins
+
+- The things which have the greatest value in use have frequently little or no value in exchange; and, on the contrary, those which have the greatest value in exchange have frequently little or no value in use.
+
+- The power which that possession (fortune) immediately and directly conveys to him, is the power of purchasing; a certain command over all the labour, or over all the produce of labour which is then in the market
+
+- Labour alone, therefore, never varying in its own value, is alone the ultimate and real standard by which the value of all commodities can at all times and places be estimated and compared. It is their real price; money is their nominal price only
+
+- As it is the nominal or money price of goods,therefore, which finally determines the prudence or imprudence of all purchases and sales, and thereby regulates almost the whole business of common life in which price is concerned, we cannot wonder that it should have been so much more attended to than the real price.
