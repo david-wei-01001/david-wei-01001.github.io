@@ -123,6 +123,10 @@ Most of the books I read are Chinese, so be prepared for a new language。
 
 - Cash is like oxygen, you want to be sure it's around, but you don't need to have excessive amount of it around
 
+### 2023 Morning
+
+- New things coming along don't take away the opportunities. What gives you opportunities is other people doing dumb things.
+
 - 
 
 ## 巴菲特致股东的信：投资者与高管教程
