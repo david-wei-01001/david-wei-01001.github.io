@@ -131,6 +131,18 @@ Most of the books I read are Chinese, so be prepared for a new language。
 
 - The secret of business is to buy a good business
 
+- You should write your obiturary and then try and figure out how to live up to it
+
+- Make sure you don't make any mistakes that take you out of the game or come close to take you out of the game
+
+- If you spend a little more than you own, then you've got debt, and the chance is you've never get out of debt
+
+- Praise by name, criticize by category
+
+- (Charlie) Spend less than you earn, invest shrewdly, and avoid toxic people and toxic activities. Deffer gratification
+
+- (Charlie) You don't want to need a lot of luck. You want to go into a game where you are very likely to win without having any unusual luck
+
 ## 巴菲特致股东的信：投资者与高管教程
 
 <div class="row">
