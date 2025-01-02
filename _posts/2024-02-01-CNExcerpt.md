@@ -131,6 +131,8 @@ Most of the books I read are Chinese, so be prepared for a new language。
 
 - The secret of business is to buy a good business
 
+### 2023 Afternoon
+
 - You should write your obiturary and then try and figure out how to live up to it
 
 - Make sure you don't make any mistakes that take you out of the game or come close to take you out of the game
