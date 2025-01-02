@@ -145,6 +145,8 @@ Most of the books I read are Chinese, so be prepared for a new language。
 
 - (Charlie) You don't want to need a lot of luck. You want to go into a game where you are very likely to win without having any unusual luck
 
+- You need to knwo how people can manipulate other people, and you need to resist the temptation to do it yourself
+
 ## 巴菲特致股东的信：投资者与高管教程
 
 <div class="row">
