@@ -153,6 +153,10 @@ Most of the books I read are Chinese, so be prepared for a new language。
 
 - Cash is like oxygen. It's there all the time。 But if it disappears for a few minutes, it's all over
 
+- We always hoped it would go down for a while so we could buy more, and we hoped even after we were done buying and ran out of money that if it was cheap the company would keep buying, in effect, taking our interest up
+
+- 
+
 
 ## 巴菲特致股东的信：投资者与高管教程
 
