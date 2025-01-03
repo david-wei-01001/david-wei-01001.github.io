@@ -155,7 +155,9 @@ Most of the books I read are Chinese, so be prepared for a new language。
 
 - We always hoped it would go down for a while so we could buy more, and we hoped even after we were done buying and ran out of money that if it was cheap the company would keep buying, in effect, taking our interest up
 
-- 
+- we are going to be in America 50 years from now and 100 years from now, and we will do better in stocks than we will in bonds
+
+- It is amazing how hard people make what a simple game it is
 
 
 ## 巴菲特致股东的信：投资者与高管教程
