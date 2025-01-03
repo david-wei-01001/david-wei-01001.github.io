@@ -159,6 +159,7 @@ Most of the books I read are Chinese, so be prepared for a new language。
 
 - It is amazing how hard people make what a simple game it is
 
+- You can have Monkeys throwing darts at the page. And, you know, take away the management fees and anything, I will bet on the monkeys (Buffett talking about uselessness of wealth managers)
 
 ## 巴菲特致股东的信：投资者与高管教程
 
