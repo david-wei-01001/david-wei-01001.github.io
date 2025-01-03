@@ -147,6 +147,10 @@ Most of the books I read are Chinese, so be prepared for a new language。
 
 - You need to knwo how people can manipulate other people, and you need to resist the temptation to do it yourself
 
+### 2022 Morning
+
+- (Charlie) All I want to knwo is where I die, and I will never go there.
+
 ## 巴菲特致股东的信：投资者与高管教程
 
 <div class="row">
