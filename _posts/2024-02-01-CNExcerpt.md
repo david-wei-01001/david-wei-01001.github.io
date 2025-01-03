@@ -151,6 +151,9 @@ Most of the books I read are Chinese, so be prepared for a new language。
 
 - (Charlie) All I want to knwo is where I die, and I will never go there.
 
+- Cash is like oxygen. It's there all the time。 But if it disappears for a few minutes, it's all over
+
+
 ## 巴菲特致股东的信：投资者与高管教程
 
 <div class="row">
