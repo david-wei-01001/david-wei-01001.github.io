@@ -167,6 +167,8 @@ Most of the books I read are Chinese, so be prepared for a new language。
 
 - We’ve done better with the mistakes than we have with the reasonably good ideas.
 
+### 2022 Afternoon
+
 ## 巴菲特致股东的信：投资者与高管教程
 
 <div class="row">
