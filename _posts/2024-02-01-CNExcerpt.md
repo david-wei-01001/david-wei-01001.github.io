@@ -163,6 +163,8 @@ Most of the books I read are Chinese, so be prepared for a new language。
 
 - （Charlie) Recognizing reality when it's really awful and take appropriate action just involoves the most elementary good sense
 
+- If I hadn’t read that book, I don’t know how long I would have gone on looking for head-and-shoulders formations, and 200-day moving averages, and the odd lot ratios, and a zillion things. And I love that kind of stuff. Except it was the wrong stuff I was looking at.
+
 ## 巴菲特致股东的信：投资者与高管教程
 
 <div class="row">
