@@ -165,6 +165,8 @@ Most of the books I read are Chinese, so be prepared for a new language。
 
 - If I hadn’t read that book, I don’t know how long I would have gone on looking for head-and-shoulders formations, and 200-day moving averages, and the odd lot ratios, and a zillion things. And I love that kind of stuff. Except it was the wrong stuff I was looking at.
 
+- We’ve done better with the mistakes than we have with the reasonably good ideas.
+
 ## 巴菲特致股东的信：投资者与高管教程
 
 <div class="row">
