@@ -169,6 +169,8 @@ Most of the books I read are Chinese, so be prepared for a new language。
 
 ### 2022 Afternoon
 
+- (Charlie) A man who carries only a hammer thinks everything else is a nail
+
 ## 巴菲特致股东的信：投资者与高管教程
 
 <div class="row">
