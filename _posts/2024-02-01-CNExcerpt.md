@@ -175,6 +175,8 @@ Most of the books I read are Chinese, so be prepared for a new language。
 
 - The ideal shareholder group we can have is the group we have today
 
+- If something is going to be destructive, the thing to do is not start it. And forecasting earnings, I can’t imagine anything more destructive.
+
 ## 巴菲特致股东的信：投资者与高管教程
 
 <div class="row">
