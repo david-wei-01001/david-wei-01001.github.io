@@ -161,6 +161,8 @@ Most of the books I read are Chinese, so be prepared for a new language。
 
 - You can have Monkeys throwing darts at the page. And, you know, take away the management fees and anything, I will bet on the monkeys (Buffett talking about uselessness of wealth managers)
 
+- （Charlie) Recognizing reality when it's really awful and take appropriate action just involoves the most elementary good sense
+
 ## 巴菲特致股东的信：投资者与高管教程
 
 <div class="row">
