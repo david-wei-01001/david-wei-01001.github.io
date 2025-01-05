@@ -171,6 +171,8 @@ Most of the books I read are Chinese, so be prepared for a new language。
 
 - (Charlie) A man who carries only a hammer thinks everything else is a nail
 
+- The companies get the shareholders they deserve
+
 ## 巴菲特致股东的信：投资者与高管教程
 
 <div class="row">
