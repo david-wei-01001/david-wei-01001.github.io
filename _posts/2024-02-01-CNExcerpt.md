@@ -173,6 +173,8 @@ Most of the books I read are Chinese, so be prepared for a new language。
 
 - The companies get the shareholders they deserve
 
+- The ideal shareholder group we can have is the group we have today
+
 ## 巴菲特致股东的信：投资者与高管教程
 
 <div class="row">
