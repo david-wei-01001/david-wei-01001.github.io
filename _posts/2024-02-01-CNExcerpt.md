@@ -179,6 +179,8 @@ Most of the books I read are Chinese, so be prepared for a new language。
 
 - (The best way to withstand inflation is) develop the skills that people are willing to pay for in the future, regardless of what the unit of exchange is
 
+- (Charlie) When your accountant starts talking about a plug, it’s not good.
+
 ## 巴菲特致股东的信：投资者与高管教程
 
 <div class="row">
