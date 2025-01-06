@@ -187,6 +187,8 @@ Most of the books I read are Chinese, so be prepared for a new language。
 
 - It’s a goal in Wall Street, you know, to create magic
 
+- work for someone you admire
+
 ## 巴菲特致股东的信：投资者与高管教程
 
 <div class="row">
