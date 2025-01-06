@@ -189,6 +189,8 @@ Most of the books I read are Chinese, so be prepared for a new language。
 
 - work for someone you admire
 
+- 2.23.19
+
 ## 巴菲特致股东的信：投资者与高管教程
 
 <div class="row">
