@@ -185,6 +185,8 @@ Most of the books I read are Chinese, so be prepared for a new language。
 
 - Assets, to have value they have to deliver something to somebody.
 
+- It’s a goal in Wall Street, you know, to create magic
+
 ## 巴菲特致股东的信：投资者与高管教程
 
 <div class="row">
