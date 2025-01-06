@@ -183,6 +183,8 @@ Most of the books I read are Chinese, so be prepared for a new language。
 
 - （Real Esates/farmlands vs. Bitcoin) explains the difference between productive assets and something that depends on the next guy paying you more than the last guy got
 
+- Assets, to have value they have to deliver something to somebody.
+
 ## 巴菲特致股东的信：投资者与高管教程
 
 <div class="row">
