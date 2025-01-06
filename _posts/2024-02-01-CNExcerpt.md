@@ -177,6 +177,8 @@ Most of the books I read are Chinese, so be prepared for a new language。
 
 - If something is going to be destructive, the thing to do is not start it. And forecasting earnings, I can’t imagine anything more destructive.
 
+- (The best way to withstand inflation is) develop the skills that people are willing to pay for in the future, regardless of what the unit of exchange is
+
 ## 巴菲特致股东的信：投资者与高管教程
 
 <div class="row">
