@@ -91,6 +91,8 @@ Most of the books I read are Chinese, so be prepared for a new language。
 
 - （尚书）‘居安思危。’思则有备，有备无患。
 
+- （诗经）行归于周，万民所望
+
 ## The Road to Serfdom
 
 ### Introduction
@@ -1554,6 +1556,10 @@ Most of the books I read are Chinese, so be prepared for a new language。
 - （成公十七年，传）乱在外为奸，在内为轨。御奸以德，御轨以刑
 
 - （襄公十年，传）众怒难犯，专欲难成
+
+- （襄公十四年，传）是故天子有公，诸侯有卿，卿置侧室，大夫有贰宗，士有朋友，庶人、工、商、皂、隶、牧、圉皆有亲昵，以相辅佐也。善则赏之，过则匡之，患则救之，失则革之。自王以下，各有父兄子弟，以补察其政。
+
+- （襄公十四年，传）亡者侮之，乱者取之，推亡固存，国之道也。
 
 ## An Inquiry into the Nature and Causes of The Wealth of Nations
 
