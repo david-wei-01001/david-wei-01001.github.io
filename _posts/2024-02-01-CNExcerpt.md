@@ -91,7 +91,7 @@ Most of the books I read are Chinese, so be prepared for a new language。
 
 - （尚书）‘居安思危。’思则有备，有备无患。
 
-- （诗经）行归于周，万民所望
+- （诗经）行归于周（忠信），万民所望
 
 ## The Road to Serfdom
 
