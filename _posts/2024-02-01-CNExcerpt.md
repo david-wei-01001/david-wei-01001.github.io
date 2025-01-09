@@ -34,32 +34,11 @@ This blog records all the sentences I encountered compelling, powerful, knowledg
 This excerpt will be a growing list, featuring the growing list of books I read.
 Most of the books I read are Chinese, so be prepared for a new language。
 
-## 分析
+## MISC
 
 - 判断力就是知道个人行为的长期后果
 
 - 人生就是选择正确的方向，然后朝这个方向奋力前行
-
-- 为什么天道从来不争不抢？因为时间管不到他
-
-- 所有的劝说都在把一个可能的结果夸大为必然
-
-- 如果一个人反复劝说你做某事，那么这件事不一定对你好，但一定对他好
-
-- 无质则必欺，无故许大利，必欺也
-
-- 如果想要劝说你做某事，必定会夸大优点，掩盖缺点，而要吓阻你做某事，则会夸大你的缺点，掩盖你的优点
-
-- 晋国诸卿除韩赵魏都是怎么败亡的呢？
-
-  1. 狐氏：狐射姑希望担任中军将，与赵盾争权，阳处父推举赵盾因而怀恨在心，刺杀阳处父，因而被赵盾灭亡
-  2. 先氏：先克早死而衰落，先縠轻视荀林父，在邲之战中不从军令，轻敌，导致失败（刚愎自用），战败后又不自责请罪，反而愈加膨胀，主持会盟，挑衅赤狄，有清之师，被晋景公族灭
-  3. 士（范）氏，荀（中行）氏：与其他四姓争权，被灭
-  4. 荀（智）氏：见三家分晋（狂傲自大，德行不修）
-  5. 栾氏：栾书嫉妒，欲望极大，儿子栾黡狂妄（马首是瞻），轻视荀偃，致使无功而返，兄弟栾鍼羞愧而死，栾黡迁怒范氏，因此儿子栾盈新立，被范氏挟持魏氏所灭
-  6. 郤氏：见灭三郤（依旧是狂妄自大，不恭敬，家族势大，一门三卿）因此被灭，如同下宫之难
-
-## MISC
 
 - （礼记）刑不尊大夫，礼不卑庶人
 
@@ -1603,3 +1582,26 @@ Most of the books I read are Chinese, so be prepared for a new language。
 - Labour alone, therefore, never varying in its own value, is alone the ultimate and real standard by which the value of all commodities can at all times and places be estimated and compared. It is their real price; money is their nominal price only
 
 - As it is the nominal or money price of goods,therefore, which finally determines the prudence or imprudence of all purchases and sales, and thereby regulates almost the whole business of common life in which price is concerned, we cannot wonder that it should have been so much more attended to than the real price.
+
+## 分析
+
+- 为什么天道从来不争不抢？因为时间管不到他
+
+- 所有的劝说都在把一个可能的结果夸大为必然
+
+- 如果一个人反复劝说你做某事，那么这件事不一定对你好，但一定对他好
+
+- 无质则必欺，无故许大利，必欺也
+
+- 如果想要劝说你做某事，必定会夸大优点，掩盖缺点，而要吓阻你做某事，则会夸大你的缺点，掩盖你的优点
+
+- 晋国诸卿除韩赵魏都是怎么败亡的呢？
+
+  1. 狐氏：狐射姑希望担任中军将，与赵盾争权，阳处父推举赵盾因而怀恨在心，刺杀阳处父，因而被赵盾灭亡
+  2. 先氏：先克早死而衰落，先縠轻视荀林父，在邲之战中不从军令，轻敌，导致失败（刚愎自用），战败后又不自责请罪，反而愈加膨胀，主持会盟，挑衅赤狄，有清之师，被晋景公族灭
+  3. 士（范）氏，荀（中行）氏：与其他四姓争权，被灭
+  4. 荀（智）氏：见三家分晋（狂傲自大，德行不修）
+  5. 栾氏：栾书嫉妒，欲望很大，儿子栾黡狂妄（马首是瞻），轻视荀偃，致使无功而返，兄弟栾鍼羞愧而死，栾黡迁怒范氏，因此儿子栾盈新立，被范氏所灭
+  6. 郤氏：见灭三郤（依旧是狂妄自大，不恭敬，家族势大，一门三卿）因此被灭，如同下宫之难
+
+- 霸主晋楚一直在压榨属国
