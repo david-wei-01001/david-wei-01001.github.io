@@ -92,6 +92,7 @@ Most of the books I read are Chinese, so be prepared for a new language。
 - （尚书）‘居安思危。’思则有备，有备无患。
 
 - （诗经）行归于周（忠信），万民所望
+- （尚书 - 夏书 - 大禹谟）念兹在兹，释兹在兹，名言兹在兹，允出兹在兹，惟帝念功
 
 ## The Road to Serfdom
 
@@ -1562,6 +1563,8 @@ Most of the books I read are Chinese, so be prepared for a new language。
 - （襄公十四年，传）亡者侮之，乱者取之，推亡固存，国之道也。
 
 - （襄公十八年，传）社稷之主，不可以轻，轻则失众
+
+- （襄公二十一年，传）信由己壹，而后功可念也
 
 ## An Inquiry into the Nature and Causes of The Wealth of Nations
 
