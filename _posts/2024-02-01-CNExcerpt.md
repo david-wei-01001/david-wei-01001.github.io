@@ -1561,6 +1561,8 @@ Most of the books I read are Chinese, so be prepared for a new language。
 
 - （襄公十四年，传）亡者侮之，乱者取之，推亡固存，国之道也。
 
+- （襄公十八年，传）社稷之主，不可以轻，轻则失众
+
 ## An Inquiry into the Nature and Causes of The Wealth of Nations
 
 <div class="row">
