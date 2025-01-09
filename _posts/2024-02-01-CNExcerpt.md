@@ -1566,6 +1566,12 @@ Most of the books I read are Chinese, so be prepared for a new language。
 
 - （襄公二十一年，传）信由己壹，而后功可念也
 
+- （襄公二十一年，传）深山大泽，实生龙蛇
+
+- （襄公二十一年，传）国多大宠，不仁人间之，不亦难乎？
+
+- （襄公二十二年，传）
+
 ## An Inquiry into the Nature and Causes of The Wealth of Nations
 
 <div class="row">
