@@ -1570,6 +1570,8 @@ Most of the books I read are Chinese, so be prepared for a new language。
 
 - （襄公二十一年，传）国多大宠，不仁人间之，不亦难乎？
 
+- （襄公二十一年，传）会朝，礼之经也。礼，政之舆也。政，身之守也。怠礼失政，失政不立，是以乱也。
+
 - （襄公二十二年，传）
 
 ## An Inquiry into the Nature and Causes of The Wealth of Nations
