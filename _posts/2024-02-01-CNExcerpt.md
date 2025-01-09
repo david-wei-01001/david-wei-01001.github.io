@@ -1551,7 +1551,7 @@ Most of the books I read are Chinese, so be prepared for a new language。
 
 - （襄公二十一年，传）会朝，礼之经也。礼，政之舆也。政，身之守也。怠礼失政，失政不立，是以乱也。
 
-- （襄公二十二年，传）
+- （襄公二十二年，传）生于乱世，贵而能贫，民无求焉，可以后亡。敬共事君，与二三子。生在敬戒，不在富也
 
 ## An Inquiry into the Nature and Causes of The Wealth of Nations
 
@@ -1605,3 +1605,5 @@ Most of the books I read are Chinese, so be prepared for a new language。
   6. 郤氏：见灭三郤（依旧是狂妄自大，不恭敬，家族势大，一门三卿）因此被灭，如同下宫之难
 
 - 霸主晋楚一直在压榨属国
+
+- 为什么春秋时国君将要诛戮大臣（eg. 晋国诛杀狐突，郤芮，灭三郤，鲁国诛杀孟庆父，齐国诛杀国佐，楚国灭若敖氏，子南）他们的儿子后代为什么不逃亡？甚至有人知道了国君的计划，也不反抗？因为他们都是大家族，国君只杀一人，不会灭族，儿子还可以接掌家族
