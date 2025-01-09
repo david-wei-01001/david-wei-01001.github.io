@@ -1573,8 +1573,6 @@ Most of the books I read are Chinese, so be prepared for a new language。
 
 - It is the great multiplication of the productions of all the different arts, in consequence of the division of labour, which occasions, in a well-governed society, that universal opulence which extends itself to the lowest ranks of the people.
 
-- It is the great multiplication of the productions of all the different arts, in consequence of the division of labour, which occasions, in a well-governed society, that universal opulence which extends itself to the lowest ranks of the people.
-
 - He will be more likely to prevail if he can interest their self-love in his favour, and shrew them that it is for their own advantage to do for him what he requires of them
 
 - It is not from the benevolence of the butcher, the brewer, or the baker, that we expect our dinner, but from their regard to their own interest
