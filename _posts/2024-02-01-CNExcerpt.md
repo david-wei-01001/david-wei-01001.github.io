@@ -71,7 +71,10 @@ Most of the books I read are Chinese, so be prepared for a new language。
 - （尚书）‘居安思危。’思则有备，有备无患。
 
 - （诗经）行归于周（忠信），万民所望
+  
 - （尚书 - 夏书 - 大禹谟）念兹在兹，释兹在兹，名言兹在兹，允出兹在兹，惟帝念功
+
+- （尚书 - 康诰）惟命不于常
 
 ## The Road to Serfdom
 
@@ -1553,6 +1556,8 @@ Most of the books I read are Chinese, so be prepared for a new language。
 
 - （襄公二十二年，传）生于乱世，贵而能贫，民无求焉，可以后亡。敬共事君，与二三子。生在敬戒，不在富也
 
+- （襄公二十三年，传）天之所废，谁能兴之？
+
 ## An Inquiry into the Nature and Causes of The Wealth of Nations
 
 <div class="row">
@@ -1603,6 +1608,8 @@ Most of the books I read are Chinese, so be prepared for a new language。
   4. 荀（智）氏：见三家分晋（狂傲自大，德行不修）
   5. 栾氏：栾书嫉妒，欲望很大，儿子栾黡狂妄（马首是瞻），轻视荀偃，致使无功而返，兄弟栾鍼羞愧而死，栾黡迁怒范氏，因此儿子栾盈新立，被范氏所灭
   6. 郤氏：见灭三郤（依旧是狂妄自大，不恭敬，家族势大，一门三卿）因此被灭，如同下宫之难
+
+- （襄公二十三年，传）四月，栾盈帅曲沃之甲，因魏献子，以昼入绛。初，栾盈佐魏庄子于下军，献子私焉，故因之。赵氏以原、屏之难怨栾氏，韩、赵方睦。中行氏以伐秦之役怨栾氏，而固与范氏和亲。知悼子少，而听于中行氏。程郑嬖于公。唯魏氏及七舆大夫与之
 
 - 霸主晋楚一直在压榨属国
 
