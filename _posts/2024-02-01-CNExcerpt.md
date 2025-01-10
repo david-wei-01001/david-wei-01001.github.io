@@ -1558,6 +1558,16 @@ Most of the books I read are Chinese, so be prepared for a new language。
 
 - （襄公二十三年，传）天之所废，谁能兴之？
 
+- （襄公二十三年，传）夫克乱在权
+
+- （襄公二十三年，传）过君以义，犹自抑也，况以恶乎
+
+- （襄公二十三年，传）祸福无门，唯人所召
+
+- （襄公二十三年，传）为人子者，患不孝，不患无所。敬共父命，何常之有？若能孝敬，富倍季氏可也。奸回不轨，祸倍下民可也
+
+- （襄公二十三年，孔子）知之难也。有臧武仲之知，而不容于鲁国，抑有由也，作不顺而施不恕也。《夏书》曰：‘念兹在兹。’顺事、恕施也。
+
 ## An Inquiry into the Nature and Causes of The Wealth of Nations
 
 <div class="row">
