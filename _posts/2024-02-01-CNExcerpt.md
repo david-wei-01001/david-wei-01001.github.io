@@ -76,6 +76,8 @@ Most of the books I read are Chinese, so be prepared for a new language。
 
 - （尚书 - 康诰）惟命不于常
 
+- （诗经）上帝临女，无贰尔心
+
 ## The Road to Serfdom
 
 ### Introduction
@@ -1567,6 +1569,10 @@ Most of the books I read are Chinese, so be prepared for a new language。
 - （襄公二十三年，传）为人子者，患不孝，不患无所。敬共父命，何常之有？若能孝敬，富倍季氏可也。奸回不轨，祸倍下民可也
 
 - （襄公二十三年，孔子）知之难也。有臧武仲之知，而不容于鲁国，抑有由也，作不顺而施不恕也。《夏书》曰：‘念兹在兹。’顺事、恕施也。
+
+- （襄公二十四年，传）大上有立德，其次有立功，其次有立言，虽久不废，此之谓不朽。若夫保姓受氏，以守宗祊，世不绝祀，无国无之。禄之大者，不可谓不朽。
+
+- （襄公二十四年，传）象有齿以焚其身，贿也
 
 ## An Inquiry into the Nature and Causes of The Wealth of Nations
 
