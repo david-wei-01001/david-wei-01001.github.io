@@ -1574,6 +1574,8 @@ Most of the books I read are Chinese, so be prepared for a new language。
 
 - （襄公二十四年，传）象有齿以焚其身，贿也
 
+- （襄公二十四年，传）贵而知惧，惧而思降，乃得其阶，下人而已，又何问焉？且夫既登而求降阶者，知人也
+
 ## An Inquiry into the Nature and Causes of The Wealth of Nations
 
 <div class="row">
