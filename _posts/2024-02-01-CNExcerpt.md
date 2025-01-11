@@ -1582,6 +1582,10 @@ Most of the books I read are Chinese, so be prepared for a new language。
 
 - （襄公二十五年，传）君子之行，思其终也，思其复也。《书》曰：慎始而敬终，终以不困
 
+- （襄公二十六年，传）善为国者，赏不僭而刑不滥。赏僭，则惧及淫人；刑滥，则惧及善人。若不幸而过，宁僭无滥。与其失善，宁其利淫。无善人，则国从之
+
+- （襄公二十六年，传）与其杀不辜，宁失不经
+
 ## An Inquiry into the Nature and Causes of The Wealth of Nations
 
 <div class="row">
