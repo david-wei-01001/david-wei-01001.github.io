@@ -178,6 +178,10 @@ Most of the books I read are Chinese, so be prepared for a new language。
 
 - The whole idea of the “independent director,” frankly, is it just doesn’t really make any sense. He (whose income is composed 100% of board fees) is “independent” the way a slave is independent.
 
+## 2021 Morning
+
+10:00
+
 ## 巴菲特致股东的信：投资者与高管教程
 
 <div class="row">
