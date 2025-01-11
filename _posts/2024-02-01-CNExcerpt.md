@@ -1576,6 +1576,12 @@ Most of the books I read are Chinese, so be prepared for a new language。
 
 - （襄公二十四年，传）贵而知惧，惧而思降，乃得其阶，下人而已，又何问焉？且夫既登而求降阶者，知人也
 
+- （襄公二十五年，孔子）言以足志，文（文采）以足言。不言，谁知其志？言之无文，行而不远。
+
+- （襄公二十五年，传）视民如子。见不仁者诛之，如鹰鹯之逐鸟雀也。
+
+- （襄公二十五年，传）君子之行，思其终也，思其复也。《书》曰：慎始而敬终，终以不困
+
 ## An Inquiry into the Nature and Causes of The Wealth of Nations
 
 <div class="row">
