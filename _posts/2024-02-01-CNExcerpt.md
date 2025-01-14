@@ -1600,6 +1600,10 @@ Most of the books I read are Chinese, so be prepared for a new language。
 
 - （襄公二十八年，传）富如布帛之有幅焉，为之制度，使无迁也。夫民生厚而用利，于是乎正德以幅之，使无黜嫚，谓之幅利。利过则为败。吾不敢贪多，所谓幅也。
 
+- （襄公二十九年，传）松柏之下，其草不殖
+
+- （襄公二十九年，传）专则速及，侈将以其力毙，专则人实毙之
+
 ## An Inquiry into the Nature and Causes of The Wealth of Nations
 
 <div class="row">
@@ -1656,3 +1660,5 @@ Most of the books I read are Chinese, so be prepared for a new language。
 - 霸主晋楚一直在压榨属国
 
 - 为什么春秋时国君将要诛戮大臣（eg. 晋国诛杀狐突，郤芮，灭三郤，鲁国诛杀孟庆父，齐国诛杀国佐，楚国灭若敖氏，子南）他们的儿子后代为什么不逃亡？甚至有人知道了国君的计划，也不反抗？因为他们都是大家族，国君只杀一人，不会灭族，儿子还可以接掌家族
+
+- 为什么远古历史都有君王执政几百年？那其实是一个代代相传的政权，这个君王只是开创者或者最伟大的王，其余的执政者因为记载遗失，都附会到他的身上了
