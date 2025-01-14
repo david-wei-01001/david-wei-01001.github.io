@@ -1596,6 +1596,10 @@ Most of the books I read are Chinese, so be prepared for a new language。
 
 - （襄公二十七年，传）兵之设久矣，所以威不轨而昭文德也。圣人以兴，乱人以废，废兴存亡昏明之术，皆兵之由也。
 
+- （襄公二十八年，传）善人富谓之赏，淫人富谓之殃。天其殃之也，其将聚而歼旃
+
+- （襄公二十八年，传）富如布帛之有幅焉，为之制度，使无迁也。夫民生厚而用利，于是乎正德以幅之，使无黜嫚，谓之幅利。利过则为败。吾不敢贪多，所谓幅也。
+
 ## An Inquiry into the Nature and Causes of The Wealth of Nations
 
 <div class="row">
