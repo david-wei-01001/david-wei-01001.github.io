@@ -1590,6 +1590,10 @@ Most of the books I read are Chinese, so be prepared for a new language。
 
 - （襄公二十六年，传）与其杀不辜，宁失不经
 
+- （襄公二十七年，传）志以发言，言以出信，信以立志，参以定之。信亡，何以及三？
+
+- （襄公二十七年，传）食言者不病（做不成什么大事）
+
 - （襄公二十七年，传）兵之设久矣，所以威不轨而昭文德也。圣人以兴，乱人以废，废兴存亡昏明之术，皆兵之由也。
 
 ## An Inquiry into the Nature and Causes of The Wealth of Nations
