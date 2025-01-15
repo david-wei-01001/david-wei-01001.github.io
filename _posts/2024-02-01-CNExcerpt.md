@@ -525,10 +525,6 @@ Most of the books I read are Chinese, so be prepared for a new language。
 
 - （《尉缭子 - 兵令下》）臣闻古之善用兵者，能杀士卒之半，其次杀其十三，其下杀其十一。能杀其半者，威加海内；杀十三者，力加诸侯；杀十一者，令行士卒
 
-- （《左传 - 襄公三十一年》）且年未盈五十，而谆谆焉如八九十者，弗能久也
-
-- （《左传 - 僖公二十二年》）国无小，不可易也
-
 - 夫地形者，兵之助也
 
 - 料敌制胜，计险恶远近，上将之道也
@@ -1466,6 +1462,8 @@ Most of the books I read are Chinese, so be prepared for a new language。
 
 - (僖公二十二年，传）三军以利用也，金鼓以声气也。利而用之，阻隘可也；声盛致志，鼓儳可也。
 
+- （僖公二十二年，传）国无小，不可易也
+
 - (僖公二十四年，传）言，身之文也
 
 - (僖公二十四年，传）兄弟阋于墙，而外御其侮
@@ -1603,6 +1601,8 @@ Most of the books I read are Chinese, so be prepared for a new language。
 - （襄公二十九年，传）松柏之下，其草不殖
 
 - （襄公二十九年，传）专则速及，侈将以其力毙，专则人实毙之
+
+- （襄公三十一年，传）年未盈五十，而谆谆焉如八九十者，弗能久也
 
 ## An Inquiry into the Nature and Causes of The Wealth of Nations
 
