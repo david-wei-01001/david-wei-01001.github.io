@@ -78,6 +78,8 @@ Most of the books I read are Chinese, so be prepared for a new language。
 
 - （诗经）上帝临女，无贰尔心
 
+- （大誓）民之所欲，天必从之
+
 ## The Road to Serfdom
 
 ### Introduction
@@ -1603,6 +1605,8 @@ Most of the books I read are Chinese, so be prepared for a new language。
 - （襄公二十九年，传）专则速及，侈将以其力毙，专则人实毙之
 
 - （襄公三十一年，传）年未盈五十，而谆谆焉如八九十者，弗能久也
+
+- （襄公三十一年，传）我闻忠善以损怨，不闻作威以防怨。岂不遽止，然犹防川，大决所犯，伤人必多，吾不克救也。不如小决使道，不如吾闻而药之也
 
 ## An Inquiry into the Nature and Causes of The Wealth of Nations
 
