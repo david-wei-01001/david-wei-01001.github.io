@@ -1612,6 +1612,16 @@ Most of the books I read are Chinese, so be prepared for a new language。
 
 - （昭公六年， 传）民知有辟，则不忌于上
 
+- （昭公十一年， 传）不信以幸，不可再也
+
+- （昭公十一年， 传）天之假助不善，非祚之也，厚其凶恶而降之罚也
+
+- （昭公十一年， 传）五大不在边，五细不在庭。亲不在外，羁不在内
+
+- （昭公十一年， 传）郑京、栎实杀曼伯，宋萧、亳实杀子游，齐渠丘实杀无知，卫蒲、戚实出献公
+
+- （昭公十一年， 传）末大必折，尾大不掉
+
 ## An Inquiry into the Nature and Causes of The Wealth of Nations
 
 <div class="row">
