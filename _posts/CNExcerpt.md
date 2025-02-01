@@ -1622,6 +1622,16 @@ Most of the books I read are Chinese, so be prepared for a new language。
 
 - （昭公十一年， 传）末大必折，尾大不掉
 
+- （昭公十三年， 传）无与同好，谁与同恶？
+
+- （昭公十三年， 传）取国有五难：有宠而无人，一也；有人而无主，二也；有主而无谋，三也；有谋而无民，四也；有民而无德，五也。
+
+- （昭公二十年， 传）古而无死，则古之乐也，君何得焉？
+
+- （昭公二十年， 传）唯有德者能以宽服民，其次莫如猛。夫火烈，民望而畏之，故鲜死焉。水懦弱，民狎而玩之，则多死焉。故宽难。
+
+- （昭公二十年， 传）政宽则民慢，慢则纠之以猛。猛则民残，残则施之以宽。宽以济猛，猛以济宽，政是以和。
+
 ## An Inquiry into the Nature and Causes of The Wealth of Nations
 
 <div class="row">
