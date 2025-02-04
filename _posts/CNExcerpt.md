@@ -1634,6 +1634,8 @@ Most of the books I read are Chinese, so be prepared for a new language。
 
 - （昭公二十一年， 传）先人有夺人之心，后人有待其衰。
 
+- （昭公二十六年， 传）君令臣共，父慈子孝，兄爱弟敬，夫和妻柔，姑慈妇听，礼也。君令而不违，臣共而不贰，父慈而教，子孝而箴，兄爱而友，弟敬而顺，夫和而义，妻柔而正，姑慈而从，妇听而婉，礼之善物也
+
 ## An Inquiry into the Nature and Causes of The Wealth of Nations
 
 <div class="row">
