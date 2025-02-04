@@ -1632,6 +1632,8 @@ Most of the books I read are Chinese, so be prepared for a new language。
 
 - （昭公二十年， 传）政宽则民慢，慢则纠之以猛。猛则民残，残则施之以宽。宽以济猛，猛以济宽，政是以和。
 
+- （昭公二十一年， 传）先人有夺人之心，后人有待其衰。
+
 ## An Inquiry into the Nature and Causes of The Wealth of Nations
 
 <div class="row">
