@@ -80,6 +80,8 @@ Most of the books I read are Chinese, so be prepared for a new language。
 
 - （大誓）民之所欲，天必从之
 
+- （诗经）永言配命，自求多福
+
 ## The Road to Serfdom
 
 ### Introduction
