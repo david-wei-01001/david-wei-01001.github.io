@@ -1638,6 +1638,8 @@ Most of the books I read are Chinese, so be prepared for a new language。
 
 - （昭公二十六年， 传）君令臣共，父慈子孝，兄爱弟敬，夫和妻柔，姑慈妇听，礼也。君令而不违，臣共而不贰，父慈而教，子孝而箴，兄爱而友，弟敬而顺，夫和而义，妻柔而正，姑慈而从，妇听而婉，礼之善物也
 
+- （昭公二十九年， 孔子）今弃是度也，而为刑鼎，民在鼎矣，何以尊贵？贵何业之守？
+
 ## An Inquiry into the Nature and Causes of The Wealth of Nations
 
 <div class="row">
