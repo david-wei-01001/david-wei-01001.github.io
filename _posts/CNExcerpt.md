@@ -1640,6 +1640,10 @@ Most of the books I read are Chinese, so be prepared for a new language。
 
 - （昭公二十九年， 孔子）今弃是度也，而为刑鼎，民在鼎矣，何以尊贵？贵何业之守？
 
+- （定公九年，传）苟有可以加于国家者，弃其邪可也
+
+- （定公九年，传）思其人犹爱其树，况用其道而不恤其人乎？
+
 ## An Inquiry into the Nature and Causes of The Wealth of Nations
 
 <div class="row">
