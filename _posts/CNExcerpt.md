@@ -1644,6 +1644,10 @@ Most of the books I read are Chinese, so be prepared for a new language。
 
 - （定公九年，传）思其人犹爱其树，况用其道而不恤其人乎？
 
+- （哀公元年，传）树德莫如滋，去疾莫如尽
+
+- （哀公元年，传）国之兴也，视民如伤，是其福也。其亡也，以民为土芥，是其祸也
+
 ## An Inquiry into the Nature and Causes of The Wealth of Nations
 
 <div class="row">
