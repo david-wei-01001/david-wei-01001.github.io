@@ -82,6 +82,8 @@ Most of the books I read are Chinese, so be prepared for a new language。
 
 - （诗经）永言配命，自求多福
 
+- （尚书 -夏书）惟彼陶唐，帅彼天常，有此冀方。今失其行，乱其纪纲，乃灭而亡。
+
 ## The Road to Serfdom
 
 ### Introduction
@@ -1645,6 +1647,8 @@ Most of the books I read are Chinese, so be prepared for a new language。
 - （哀公元年，传）树德莫如滋，去疾莫如尽
 
 - （哀公元年，传）国之兴也，视民如伤，是其福也。其亡也，以民为土芥，是其祸也
+
+- 
 
 ## An Inquiry into the Nature and Causes of The Wealth of Nations
 
