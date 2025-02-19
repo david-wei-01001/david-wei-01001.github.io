@@ -1648,7 +1648,7 @@ Most of the books I read are Chinese, so be prepared for a new language。
 
 - （哀公元年，传）国之兴也，视民如伤，是其福也。其亡也，以民为土芥，是其祸也
 
-- 
+- （哀公十六年，传）周仁之谓信，率义之谓勇。复言，非信也。期死，非勇也。
 
 ## An Inquiry into the Nature and Causes of The Wealth of Nations
 
@@ -1712,3 +1712,7 @@ Most of the books I read are Chinese, so be prepared for a new language。
 - 为什么远古历史都有君王执政几百年？那其实是一个代代相传的政权，这个君王只是开创者或者最伟大的王，其余的执政者因为记载遗失，都附会到他的身上了
 
 - 独裁者任用礼仪而惧怕明文法律，因为礼仪虚无缥缈，统治者可以自由解释，而一旦法律确定，（昭公六年），人们就拥有捍卫自己权益的能力，因此不会惧怕威服国家了
+
+- （哀公十七年，传）既入焉，而示之璧，曰：“活我，吾与女璧。”己氏曰：“杀女，璧其焉往？”遂杀之而取其璧。
+
+- 
