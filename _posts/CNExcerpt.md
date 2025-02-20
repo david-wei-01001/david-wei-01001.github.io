@@ -1650,6 +1650,8 @@ Most of the books I read are Chinese, so be prepared for a new language。
 
 - （哀公十六年，传）周仁之谓信，率义之谓勇。复言，非信也。期死，非勇也。
 
+- （哀公十八年，传）圣人不烦卜筮
+
 ## An Inquiry into the Nature and Causes of The Wealth of Nations
 
 <div class="row">
