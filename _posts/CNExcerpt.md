@@ -116,6 +116,10 @@ Most of the books I read are Chinese, so be prepared for a new language。
 
 - Cash is like oxygen, you want to be sure it's around, but you don't need to have excessive amount of it around
 
+### 2024 Morning
+
+- Charlie and I looked at common stocks or marketable equities as being businesses
+
 ### 2023 Morning
 
 - New things coming along don't take away the opportunities. What gives you opportunities is other people doing dumb things.
