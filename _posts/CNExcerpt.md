@@ -124,6 +124,8 @@ Most of the books I read are Chinese, so be prepared for a new language。
 
 - The market isn't there to instruct you. It is there to serve you.
 
+- When you write an (insurance) policy, you have a limit in that policy, but the question is what is that one event (where you need to pay a lot to insure losses)
+
 ### 2023 Morning
 
 - New things coming along don't take away the opportunities. What gives you opportunities is other people doing dumb things.
