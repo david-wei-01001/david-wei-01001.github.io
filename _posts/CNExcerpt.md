@@ -126,6 +126,8 @@ Most of the books I read are Chinese, so be prepared for a new language。
 
 - When you write an (insurance) policy, you have a limit in that policy, but the question is what is that one event (a sudden aggregration of risks that you never dreamt of). There's no place where that kind of dilemma enters into more than cyber.
 
+- You can't create a baby in one month by getting nine women pregnant
+
 ### 2023 Morning
 
 - New things coming along don't take away the opportunities. What gives you opportunities is other people doing dumb things.
