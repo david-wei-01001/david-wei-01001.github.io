@@ -140,7 +140,7 @@ Most of the books I read are Chinese, so be prepared for a new language。
 
 - savings are denying consumption of oneself. It is consumption deferred
 
-- 8:30
+- The more intertwined and sophisticated the world financial situation gets, the more vulnerale it gets. It solves a lot of small problem but it leaves it more vulnerable to large bubbles.
 
 ### 2023 Morning
 
