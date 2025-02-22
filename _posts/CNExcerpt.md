@@ -140,6 +140,8 @@ Most of the books I read are Chinese, so be prepared for a new language。
 
 - savings are denying consumption of oneself. It is consumption deferred
 
+- 8:30
+
 ### 2023 Morning
 
 - New things coming along don't take away the opportunities. What gives you opportunities is other people doing dumb things.
