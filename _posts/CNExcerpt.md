@@ -132,6 +132,8 @@ Most of the books I read are Chinese, so be prepared for a new language。
 
 - Think how you like your obituary to read and start selecting the educational path, the social path, etc. and work your way through it, and marry the person that would help you do that
 
+- Find the job that you would like to have if you didn't need a job
+
 - 
 
 ### 2023 Morning
