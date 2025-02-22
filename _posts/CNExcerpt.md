@@ -130,6 +130,10 @@ Most of the books I read are Chinese, so be prepared for a new language。
 
 - You are lucky that you lie in this country (US) to start with because you got opportunities here that wouldn't exist in much of the world
 
+- Think how you like your obituary to read and start selecting the educational path, the social path, etc. and work your way through it, and marry the person that would help you do that
+
+- 
+
 ### 2023 Morning
 
 - New things coming along don't take away the opportunities. What gives you opportunities is other people doing dumb things.
