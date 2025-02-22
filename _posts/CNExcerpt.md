@@ -138,7 +138,7 @@ Most of the books I read are Chinese, so be prepared for a new language。
 
 ### 2024 Afternoon
 
-- savings are denying consumption of oneself
+- savings are denying consumption of oneself. It is consumption deferred
 
 ### 2023 Morning
 
