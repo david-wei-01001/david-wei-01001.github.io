@@ -1678,6 +1678,20 @@ Most of the books I read are Chinese, so be prepared for a new language。
 
 - （哀公十八年，传）圣人不烦卜筮
 
+## 毛泽东选集
+
+### 卷一
+
+#### 第一次国内革命战争时期
+
+-   谁是我们的敌人？谁是我们的朋友？这个问题是革命的首要问题。中国过去一切革命斗争成效甚少，其基本原因就是因为不能团结真正的朋友，以攻击真正的敌人。
+
+-   革命不是请客吃饭，不是做文章，不是绘画绣花，不能那样雅致，那样从容不迫，文质彬彬，那样温良恭俭让。
+
+-   革命是暴动，是一个阶级推翻一个阶级的暴烈的行动。
+
+-   矫枉必须过正，不过正不能矫枉
+
 ## An Inquiry into the Nature and Causes of The Wealth of Nations
 
 <div class="row">
