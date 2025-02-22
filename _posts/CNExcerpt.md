@@ -134,7 +134,7 @@ Most of the books I read are Chinese, so be prepared for a new language。
 
 - Find the job that you would like to have if you didn't need a job
 
-- 
+- Pick the right CEO is 99% of the job of the directors and the other 1% is you have a good method to correct it if you made a wrong decision
 
 ### 2023 Morning
 
