@@ -124,7 +124,7 @@ Most of the books I read are Chinese, so be prepared for a new language。
 
 - The market isn't there to instruct you. It is there to serve you.
 
-- When you write an (insurance) policy, you have a limit in that policy, but the question is what is that one event (where you need to pay a lot to insure losses). There's no place where that kind of dilemma enters into more than cyber.
+- When you write an (insurance) policy, you have a limit in that policy, but the question is what is that one event (a sudden aggregration of risks that you never dreamt of). There's no place where that kind of dilemma enters into more than cyber.
 
 ### 2023 Morning
 
