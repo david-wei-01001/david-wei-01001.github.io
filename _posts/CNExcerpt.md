@@ -120,6 +120,10 @@ Most of the books I read are Chinese, so be prepared for a new language。
 
 - Charlie and I looked at common stocks or marketable equities as being businesses
 
+- We have no attempt made to predict markets.
+
+- The market isn't there to instruct you. It is there to serve you.
+
 ### 2023 Morning
 
 - New things coming along don't take away the opportunities. What gives you opportunities is other people doing dumb things.
