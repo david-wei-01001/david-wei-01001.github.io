@@ -136,6 +136,8 @@ Most of the books I read are Chinese, so be prepared for a new language。
 
 - Pick the right CEO is 99% of the job of the directors and the other 1% is you have a good method to correct it if you made a wrong decision
 
+### 2024 Afternoon
+
 ### 2023 Morning
 
 - New things coming along don't take away the opportunities. What gives you opportunities is other people doing dumb things.
