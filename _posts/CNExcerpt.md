@@ -128,6 +128,8 @@ Most of the books I read are Chinese, so be prepared for a new language。
 
 - You can't create a baby in one month by getting nine women pregnant
 
+- You are lucky that you lie in this country (US) to start with because you got opportunities here that wouldn't exist in much of the world
+
 ### 2023 Morning
 
 - New things coming along don't take away the opportunities. What gives you opportunities is other people doing dumb things.
