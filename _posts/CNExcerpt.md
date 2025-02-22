@@ -128,7 +128,7 @@ Most of the books I read are Chinese, so be prepared for a new language。
 
 - You can't create a baby in one month by getting nine women pregnant
 
-- You are lucky that you lie in this country (US) to start with because you got opportunities here that wouldn't exist in much of the world
+- You are lucky that you lie in this country (US) to start with because you got opportunities here that wouldn't exist in much of the world. And you are so lucky to be born when you were.
 
 - Think how you like your obituary to read and start selecting the educational path, the social path, etc. and work your way through it, and marry the person that would help you do that
 
